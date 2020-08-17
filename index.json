@@ -17,7 +17,7 @@
     "isSamplable": true,
     "isPhotographable": true,
     "isLocked": false,
-    "habitats": "Farmland Habitats",
+    "habitat": "Farmland Habitats",
     "mapLocation": "cow"
   },
   {
@@ -38,7 +38,7 @@
     "isSamplable": true,
     "isPhotographable": true,
     "isLocked": false,
-    "habitats": "Farmland Habitats",
+    "habitat": "Farmland Habitats",
     "mapLocation": "bull"
   },
   {
@@ -59,7 +59,7 @@
     "isSamplable": true,
     "isPhotographable": true,
     "isLocked": false,
-    "habitats": "Farmland Habitats",
+    "habitat": "Farmland Habitats",
     "mapLocation": "bull"
   },
   {
@@ -80,7 +80,7 @@
     "isSamplable": true,
     "isPhotographable": true,
     "isLocked": false,
-    "habitats": "Farmland Habitats",
+    "habitat": "Farmland Habitats",
     "mapLocation": "bull"
   },
   {
@@ -101,7 +101,7 @@
     "isSamplable": true,
     "isPhotographable": true,
     "isLocked": false,
-    "habitats": "Farmland Habitats",
+    "habitat": "Farmland Habitats",
     "mapLocation": "ox"
   },
   {
@@ -122,7 +122,7 @@
     "isSamplable": true,
     "isPhotographable": true,
     "isLocked": false,
-    "habitats": "Farmland Habitats",
+    "habitat": "Farmland Habitats",
     "mapLocation": "ox"
   },
   {
@@ -143,7 +143,7 @@
     "isSamplable": true,
     "isPhotographable": true,
     "isLocked": false,
-    "habitats": "Farmland Habitats",
+    "habitat": "Farmland Habitats",
     "mapLocation": "pig"
   },
   {
@@ -164,7 +164,7 @@
     "isSamplable": true,
     "isPhotographable": true,
     "isLocked": false,
-    "habitats": "Farmland Habitats",
+    "habitat": "Farmland Habitats",
     "mapLocation": "pig"
   },
   {
@@ -185,7 +185,7 @@
     "isSamplable": true,
     "isPhotographable": true,
     "isLocked": false,
-    "habitats": "Farmland Habitats",
+    "habitat": "Farmland Habitats",
     "mapLocation": "pig"
   },
   {
@@ -206,7 +206,7 @@
     "isSamplable": true,
     "isPhotographable": true,
     "isLocked": false,
-    "habitats": "Farmland Habitats",
+    "habitat": "Farmland Habitats",
     "mapLocation": "sheep"
   },
   {
@@ -227,7 +227,7 @@
     "isSamplable": true,
     "isPhotographable": true,
     "isLocked": false,
-    "habitats": "Farmland Habitats",
+    "habitat": "Farmland Habitats",
     "mapLocation": "goat"
   },
 
