@@ -1610,7 +1610,7 @@
     "isSamplable": true,
     "isPhotographable": true,
     "isLocked": false,
-    "mapLocation": "Legendary Animals: Dark",
+    "mapLocation": "Legendary Night Beaver",
     "legendaryType": "dark"
   },
   {
@@ -1806,7 +1806,8 @@
     "isSamplable": true,
     "isPhotographable": true,
     "isLocked": false,
-    "legendaryType": "light"
+    "legendaryType": "light",
+    "mapLocation": "Legendary Snow Buck"
   },
   {
     "name": "Legendary Iguga Cougar",
@@ -2359,7 +2360,8 @@
     "isSamplable": true,
     "isPhotographable": true,
     "isLocked": false,
-    "legendaryType": "dark"
+    "legendaryType": "dark",
+    "mapLocation": "legendary-midnight-paw-coyote"
   },
   {
     "name": "Legendary Rutile Horn Ram",
@@ -2383,6 +2385,7 @@
     "isSamplable": true,
     "isPhotographable": true,
     "isLocked": false,
-    "legendaryType": "dark"
+    "legendaryType": "dark",
+    "mapLocation": "Legendary Rutile Horn Ram"
   }
 ]
