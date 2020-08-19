@@ -1918,7 +1918,8 @@
     "isSamplable": true,
     "isPhotographable": true,
     "isLocked": false,
-    "legendaryType": "light"
+    "legendaryType": "light",
+    "mapLocation": "Legendary Gabbro Horn Ram"
   },
   {
     "name": "Legendary Sun Gator",
