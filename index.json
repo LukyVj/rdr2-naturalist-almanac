@@ -1946,7 +1946,8 @@
     "isSamplable": true,
     "isPhotographable": true,
     "isLocked": false,
-    "legendaryType": "red-blond"
+    "legendaryType": "red-blond",
+    "mapLocation": "Legendary Sun Gator"
   },
   {
     "name": "Legendary Payta Bison",
