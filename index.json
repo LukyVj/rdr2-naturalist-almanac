@@ -2198,7 +2198,8 @@
     "isSamplable": true,
     "isPhotographable": true,
     "isLocked": false,
-    "legendaryType": "patterned"
+    "legendaryType": "patterned",
+    "mapLocation": "Legendary Mud Runner Buck"
   },
   {
     "name": "Legendary Maza Cougar",
