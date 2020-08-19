@@ -1610,7 +1610,8 @@
     "isSamplable": true,
     "isPhotographable": true,
     "isLocked": false,
-    "habitat": "Legendary Animals: Dark"
+    "mapLocation": "Legendary Animals: Dark",
+    "legendaryType": "dark"
   },
   {
     "name": "Legendary Tatanka Bison",
@@ -1637,7 +1638,8 @@
     "isSamplable": true,
     "isPhotographable": true,
     "isLocked": false,
-    "habitat": "Legendary Animals: Dark"
+    "mapLocation": "Legendary Tatanka Bison",
+    "legendaryType": "dark"
   },
   {
     "name": "Legendary Sapa Cougar",
@@ -1664,9 +1666,9 @@
     "isSamplable": true,
     "isPhotographable": true,
     "isLocked": false,
-    "habitat": "Legendary Animals: Dark"
+    "mapLocation": "Legendary Sapa Cougar",
+    "legendaryType": "dark"
   },
-
   {
     "name": "Legendary Katata Elk",
     "englishName": "Legendary Katata Elk",
@@ -1692,7 +1694,8 @@
     "isSamplable": true,
     "isPhotographable": true,
     "isLocked": false,
-    "habitat": "Legendary Animals: Dark"
+    "mapLocation": "Legendary Katata Elk",
+    "legendaryType": "dark"
   },
   {
     "name": "Legendary Onyx Wolf",
@@ -1719,7 +1722,8 @@
     "isSamplable": true,
     "isPhotographable": true,
     "isLocked": false,
-    "habitat": "Legendary Animals: Dark"
+    "mapLocation": "Legendary Onyx Wolf",
+    "legendaryType": "dark"
   },
   {
     "name": "Legendary Moon Beaver",
@@ -1746,7 +1750,8 @@
     "isSamplable": true,
     "isPhotographable": true,
     "isLocked": false,
-    "habitat": "Legendary Animals: Light"
+    "mapLocation": "Legendary Moon Beaver",
+    "legendaryType": "light"
   },
   {
     "name": "Legendary Winyan Bison",
@@ -1773,7 +1778,35 @@
     "isSamplable": true,
     "isPhotographable": true,
     "isLocked": false,
-    "habitat": "Legendary Animals: Light"
+    "mapLocation": "Legendary Winyan Bison",
+    "legendaryType": "light"
+  },
+  {
+    "name": "Legendary Snow Buck",
+    "englishName": "Legendary Snow Buck",
+    "description": "Grazing near Aurora Basin, this buck has gained a reputation.",
+    "statName": -77106523,
+    "stampName": -2026653764,
+    "studyAward": -1781504032,
+    "isLegendary": true,
+    "thumbnailName": "MP_ANIMAL_BUCK_LEGENDARY_02",
+    "photoName": "MP_ANIMALS_BUCK_LEGENDARY_02_PHOTO",
+    "legendaryDescriptions": [
+      "Grazing near Aurora Basin, this buck has gained a reputation.",
+      "Grazing near Aurora Basin, this buck has gained a reputation for its bright white coat.",
+      "Grazing near Aurora Basin, this buck has gained a reputation for its bright white coat. Vigilant and fleetfooted, these bucks will flee if they are aware of a human nearby. Bide your time and approach carefully. ",
+      "Grazing near Aurora Basin, this buck has gained a reputation for its bright white coat. Vigilant and fleetfooted, these bucks will flee if they are aware of a human nearby. Bide your time and approach carefully. This buck is most active in the early morning.",
+      "Grazing near Aurora Basin, this buck has gained a reputation for its bright white coat. Vigilant and fleetfooted, these bucks will flee if they are aware of a human nearby. Bide your time and approach carefully. This buck is most active in the early morning and during dry weather."
+    ],
+    "isKillable": true,
+    "isSkinnable": true,
+    "isCollectable": false,
+    "isTrackable": true,
+    "isSedatable": true,
+    "isSamplable": true,
+    "isPhotographable": true,
+    "isLocked": false,
+    "legendaryType": "light"
   },
   {
     "name": "Legendary Iguga Cougar",
@@ -1800,7 +1833,8 @@
     "isSamplable": true,
     "isPhotographable": true,
     "isLocked": false,
-    "habitat": "Legendary Animals: Light"
+    "mapLocation": "Legendary Iguga Cougar",
+    "legendaryType": "light"
   },
   {
     "name": "Legendary Inahme Elk",
@@ -1827,7 +1861,8 @@
     "isSamplable": true,
     "isPhotographable": true,
     "isLocked": false,
-    "habitat": "Legendary Animals: Light"
+    "mapLocation": "Legendary Inahme Elk",
+    "legendaryType": "light"
   },
   {
     "name": "Legendary Moonstone Wolf",
@@ -1854,9 +1889,63 @@
     "isSamplable": true,
     "isPhotographable": true,
     "isLocked": false,
-    "habitat": "Legendary Animals: Light"
+    "mapLocation": "Legendary Moonstone Wolf",
+    "legendaryType": "light"
   },
-
+  {
+    "name": "Legendary Gabbro Horn Ram",
+    "englishName": "Legendary Gabbro Horn Ram",
+    "description": "This ram has been seen traversing the arid terrain of Rio Bravo.",
+    "statName": -1070540960,
+    "stampName": -986837926,
+    "studyAward": -241283501,
+    "isLegendary": true,
+    "thumbnailName": "MP_ANIMAL_RAM_LEGENDARY_01",
+    "photoName": "MP_ANIMALS_RAM_LEGENDARY_01_PHOTO",
+    "legendaryDescriptions": [
+      "This ram has been seen traversing the arid terrain of Rio Bravo.",
+      "This ram has been seen traversing the arid terrain of Rio Bravo. It is known for its white skin and prominent black horns.",
+      "This ram has been seen traversing the arid terrain of Rio Bravo. It is known for its white skin and prominent black horns. Fast and agile, it can be hard to catch when moving at full speed so approach with care.",
+      "This ram has been seen traversing the arid terrain of Rio Bravo. It is known for its white skin and prominent black horns. Fast and agile, it can be hard to catch when moving at full speed so approach with care. It is most active from dawn, into the hottest part of the day. ",
+      "This ram has been seen traversing the arid terrain of Rio Bravo. It is known for its white skin and prominent black horns. Fast and agile, it can be hard to catch when moving at full speed so approach with care. It is most active from dawn, into the hottest part of the day, and prefers dry weather."
+    ],
+    "isKillable": true,
+    "isSkinnable": true,
+    "isCollectable": false,
+    "isTrackable": true,
+    "isSedatable": true,
+    "isSamplable": true,
+    "isPhotographable": true,
+    "isLocked": false,
+    "legendaryType": "light"
+  },
+  {
+    "name": "Legendary Sun Gator",
+    "englishName": "Legendary Sun Gator",
+    "description": "This alligator has been spotted by residents in Lakay. ",
+    "statName": -1538334073,
+    "stampName": 1814273892,
+    "studyAward": 543917601,
+    "isLegendary": true,
+    "thumbnailName": "MP_ANIMAL_ALLIGATOR_LEGENDARY_02",
+    "photoName": "MP_ANIMALS_ALLIGATOR_LEGENDARY_02_PHOTO",
+    "legendaryDescriptions": [
+      "This alligator has been spotted by residents in Lakay. ",
+      "This alligator has been spotted by residents in Lakay. It has a distinctive orange coloring which can be easy to spot among the green and brown of the bayou.",
+      "This alligator has been spotted by residents in Lakay. It has a distinctive orange coloring which can be easy to spot among the green and brown of the bayou. It is patient and cunning, biding its time before it takes down prey. ",
+      "This alligator has been spotted by residents in Lakay. It has a distinctive orange coloring which can be easy to spot among the green and brown of the bayou. It is patient and cunning, biding its time before it takes down prey. It is rarely seen outside the early hours of the morning.",
+      "This alligator has been spotted by residents in Lakay. It has a distinctive orange coloring which can be easy to spot among the green and brown of the bayou. It is patient and cunning, biding its time before it takes down prey. It is rarely seen outside the early hours of the morning and favors heavy fog and mist."
+    ],
+    "isKillable": true,
+    "isSkinnable": true,
+    "isCollectable": false,
+    "isTrackable": true,
+    "isSedatable": true,
+    "isSamplable": true,
+    "isPhotographable": true,
+    "isLocked": false,
+    "legendaryType": "red-blond"
+  },
   {
     "name": "Legendary Payta Bison",
     "englishName": "Legendary Payta Bison",
@@ -1882,7 +1971,8 @@
     "isSamplable": true,
     "isPhotographable": true,
     "isLocked": false,
-    "habitat": "Legendary Animals: Red & Blond"
+    "mapLocation": "Legendary Payta Bison",
+    "legendaryType": "red-blond"
   },
   {
     "name": "Legendary Wakpa Boar",
@@ -1909,7 +1999,35 @@
     "isSamplable": true,
     "isPhotographable": true,
     "isLocked": false,
-    "habitat": "Legendary Animals: Red & Blond"
+    "mapLocation": "Legendary Wakpa Boar",
+    "legendaryType": "red-blond"
+  },
+  {
+    "name": "Legendary Red Streak Coyote",
+    "englishName": "Legendary Red Streak Coyote",
+    "description": "Spotted around Pike's Basin, this coyote is known for stalking the rocky cliffs and barren floor of the canyon.",
+    "statName": 1806873886,
+    "stampName": -284413762,
+    "studyAward": 2007730024,
+    "isLegendary": true,
+    "thumbnailName": "MP_ANIMAL_COYOTE_LEGENDARY_01",
+    "photoName": "MP_ANIMALS_COYOTE_LEGENDARY_01_PHOTO",
+    "legendaryDescriptions": [
+      "Spotted around Pike's Basin, this coyote is known for stalking the rocky cliffs and barren floor of the canyon.",
+      "Spotted around Pike's Basin, this coyote is known for stalking the rocky cliffs and barren floor of the canyon. Its red fur helps it stay hidden in the arid landscape.",
+      "Spotted around Pike's Basin, this coyote is known for stalking the rocky cliffs and barren floor of the canyon. Its red fur helps it stay hidden in the arid landscape. Distrusting of strangers, it will give chase if you get too close.",
+      "Spotted around Pike's Basin, this coyote is known for stalking the rocky cliffs and barren floor of the canyon. Its red fur helps it stay hidden in the arid landscape. Distrusting of strangers, it will give chase if you get too close. It will only appear out in the open during the day and into the evening.",
+      "Spotted around Pike's Basin, this coyote is known for stalking the rocky cliffs and barren floor of the canyon. Its red fur helps it stay hidden in the arid landscape. Distrusting of strangers, it will give chase if you get too close. It will only appear out in the open during the day and into the evening. A tough creature, it can endure any weather."
+    ],
+    "isKillable": true,
+    "isSkinnable": true,
+    "isCollectable": false,
+    "isTrackable": true,
+    "isSedatable": true,
+    "isSamplable": true,
+    "isPhotographable": true,
+    "isLocked": false,
+    "legendaryType": "red-blond"
   },
   {
     "name": "Legendary Ozula Elk",
@@ -1936,7 +2054,8 @@
     "isSamplable": true,
     "isPhotographable": true,
     "isLocked": false,
-    "habitat": "Legendary Animals: Red & Blond"
+    "mapLocation": "Legendary Ozula Elk",
+    "legendaryType": "red-blond"
   },
   {
     "name": "Legendary Emerald Wolf",
@@ -1963,9 +2082,9 @@
     "isSamplable": true,
     "isPhotographable": true,
     "isLocked": false,
-    "habitat": "Legendary Animals: Red & Blond"
+    "mapLocation": "Legendary Emerald Wolf",
+    "legendaryType": "red-blond"
   },
-
   {
     "name": "Legendary Zizi Beaver",
     "englishName": "Legendary Zizi Beaver",
@@ -1991,7 +2110,8 @@
     "isSamplable": true,
     "isPhotographable": true,
     "isLocked": false,
-    "habitat": "Legendary Animals: Red & Blond"
+    "mapLocation": "Legendary Zizi Beaver",
+    "legendaryType": "red-blond"
   },
   {
     "name": "Legendary Cogi Boar",
@@ -2018,7 +2138,8 @@
     "isSamplable": true,
     "isPhotographable": true,
     "isLocked": false,
-    "habitat": "Legendary Animals: Red & Blond"
+    "mapLocation": "Legendary Cogi Boar",
+    "legendaryType": "red-blond"
   },
   {
     "name": "Legendary Icahi Boar",
@@ -2045,7 +2166,35 @@
     "isSamplable": true,
     "isPhotographable": true,
     "isLocked": false,
-    "habitat": "Legendary Animals: Patterned"
+    "mapLocation": "Legendary Icahi Boar",
+    "legendaryType": "patterned"
+  },
+  {
+    "name": "Legendary Mud Runner Buck",
+    "englishName": "Legendary Mud Runner Buck",
+    "description": "This unusual buck has been spotted in the south of The Heartlands, by Flat Iron Lake.",
+    "statName": 1940225710,
+    "stampName": -1787669447,
+    "studyAward": -2112503701,
+    "isLegendary": true,
+    "thumbnailName": "MP_ANIMAL_BUCK_LEGENDARY_01",
+    "photoName": "MP_ANIMALS_BUCK_LEGENDARY_01_PHOTO",
+    "legendaryDescriptions": [
+      "This unusual buck has been spotted in the south of The Heartlands, by Flat Iron Lake.",
+      "This unusual buck has been spotted in the south of The Heartlands, by Flat Iron Lake. Its piebald coat sets it apart from the more common bucks living nearby.",
+      "This unusual buck has been spotted in the south of The Heartlands, by Flat Iron Lake. Its piebald coat sets it apart from the more common bucks living nearby. With their large antlers, these bucks are known to charge at humans if they feel threatened.",
+      "This unusual buck has been spotted in the south of The Heartlands, by Flat Iron Lake. Its piebald coat sets it apart from the more common bucks living nearby. With their large antlers, these bucks are known to charge at humans if they feel threatened. They are active during daylight hours.",
+      "This unusual buck has been spotted in the south of The Heartlands, by Flat Iron Lake. Its piebald coat sets it apart from the more common bucks living nearby. With their large antlers, these bucks are known to charge at humans if they feel threatened. They are active during daylight hours and prefer dry weather."
+    ],
+    "isKillable": true,
+    "isSkinnable": true,
+    "isCollectable": false,
+    "isTrackable": true,
+    "isSedatable": true,
+    "isSamplable": true,
+    "isPhotographable": true,
+    "isLocked": false,
+    "legendaryType": "patterned"
   },
   {
     "name": "Legendary Maza Cougar",
@@ -2072,7 +2221,9 @@
     "isSamplable": true,
     "isPhotographable": true,
     "isLocked": false,
-    "habitat": "Legendary Animals: Patterned"
+    "mapLocation": "Legendary Maza Cougar",
+    "legendaryType": "patterned",
+    "legendaryType": "patterned"
   },
   {
     "name": "Legendary Ota Fox",
@@ -2099,7 +2250,8 @@
     "isSamplable": true,
     "isPhotographable": true,
     "isLocked": false,
-    "habitat": "Legendary Animals: Patterned"
+    "mapLocation": "Legendary Ota Fox",
+    "legendaryType": "patterned"
   },
   {
     "name": "Legendary Marble Fox",
@@ -2126,7 +2278,8 @@
     "isSamplable": true,
     "isPhotographable": true,
     "isLocked": false,
-    "habitat": "Legendary Animals: Patterned"
+    "mapLocation": "Legendary Marble Fox",
+    "legendaryType": "patterned"
   },
   {
     "name": "Legendary Cross Fox",
@@ -2153,6 +2306,82 @@
     "isSamplable": true,
     "isPhotographable": true,
     "isLocked": false,
-    "habitat": "Legendary Animals: Patterned"
+    "mapLocation": "Legendary Cross Fox",
+    "legendaryType": "patterned"
+  },
+
+  {
+    "name": "Legendary Teca Gator",
+    "englishName": "Legendary Teca Gator",
+    "description": "This alligator is rumored to reside in the Lannahechee River, southwest of Saint Denis.",
+
+    "isLegendary": true,
+    "thumbnailName": "MP_ANIMAL_ALLIGATOR_LEGENDARY_01",
+    "photoName": "MP_ANIMALS_ALLIGATOR_LEGENDARY_01_PHOTO",
+    "legendaryDescriptions": [
+      "This alligator is rumored to reside in the Lannahechee River, southwest of Saint Denis.",
+      "This alligator is rumored to reside in the Lannahechee River, southwest of Saint Denis. It is famous for its slick black skin, a prized trophy for any poacher.",
+      "This alligator is rumored to reside in the Lannahechee River, southwest of Saint Denis. It is famous for its slick black skin, a prized trophy for any poacher. If approaching, be wary of its powerful jaws which can deliver a deadly bite.",
+      "This alligator is rumored to reside in the Lannahechee River, southwest of Saint Denis. It is famous for its slick black skin, a prized trophy for any poacher. If approaching, be wary of its powerful jaws which can deliver a deadly bite. This species is most active at night, when it is well camouflaged in the dark water.",
+      "This alligator is rumored to reside in the Lannahechee River, southwest of Saint Denis. It is famous for its slick black skin, a prized trophy for any poacher. If approaching, be wary of its powerful jaws which can deliver a deadly bite. This species is most active at night, when it is well camouflaged in the dark water. It can often be spotted during heavy storms."
+    ],
+    "isKillable": true,
+    "isSkinnable": true,
+    "isCollectable": false,
+    "isTrackable": true,
+    "isSedatable": true,
+    "isSamplable": true,
+    "isPhotographable": true,
+    "isLocked": false,
+    "legendaryType": "dark"
+  },
+  {
+    "name": "Legendary Midnight Paw Coyote",
+    "englishName": "Legendary Midnight Paw Coyote",
+    "description": "Hunting southeast of Strawberry, this coyote is well-known to the local people, even if few have seen it firsthand.",
+
+    "isLegendary": true,
+    "thumbnailName": "MP_ANIMAL_COYOTE_LEGENDARY_02",
+    "photoName": "MP_ANIMALS_COYOTE_LEGENDARY_02_PHOTO",
+    "legendaryDescriptions": [
+      "Hunting southeast of Strawberry, this coyote is well-known to the local people, even if few have seen it firsthand.",
+      "Hunting southeast of Strawberry, this coyote is well-known to the local people, even if few have seen it firsthand. With unique yellow eyes and black fur, it is easily distinguished from the more common coyotes in the area.",
+      "Hunting southeast of Strawberry, this coyote is well-known to the local people, even if few have seen it firsthand. With unique yellow eyes and black fur, it is easily distinguished from the more common coyotes in the area. Highly cautious, coyotes will flee from nearby humans.",
+      "Hunting southeast of Strawberry, this coyote is well-known to the local people, even if few have seen it firsthand. With unique yellow eyes and black fur, it is easily distinguished from the more common coyotes in the area. Highly cautious, coyotes will flee from nearby humans. They are active from dawn, hunting late into the day.",
+      "Hunting southeast of Strawberry, this coyote is well-known to the local people, even if few have seen it firsthand. With unique yellow eyes and black fur, it is easily distinguished from the more common coyotes in the area. Highly cautious, coyotes will flee from nearby humans. They are active from dawn, hunting late into the day. They prefer dry weather over rain."
+    ],
+    "isKillable": true,
+    "isSkinnable": true,
+    "isCollectable": false,
+    "isTrackable": true,
+    "isSedatable": true,
+    "isSamplable": true,
+    "isPhotographable": true,
+    "isLocked": false,
+    "legendaryType": "dark"
+  },
+  {
+    "name": "Legendary Rutile Horn Ram",
+    "englishName": "Legendary Rutile Horn Ram",
+    "description": "This rare ram has been sighted in Rio Bravo and in Cholla Springs.",
+    "isLegendary": true,
+    "thumbnailName": "MP_ANIMAL_RAM_LEGENDARY_03",
+    "photoName": "MP_ANIMALS_RAM_LEGENDARY_03_PHOTO",
+    "legendaryDescriptions": [
+      "This rare ram has been sighted in Rio Bravo and in Cholla Springs.",
+      "This rare ram has been sighted in Rio Bravo and in Cholla Springs. Its wool is black and its horns dark red.",
+      "This rare ram has been sighted in Rio Bravo and in Cholla Springs. Its wool is black and its horns dark red. It is known to charge at passersby and attack other animals in its territory.",
+      "This rare ram has been sighted in Rio Bravo and in Cholla Springs. Its wool is black and its horns dark red. It is known to charge at passersby and attack other animals in its territory. Word has spread fast, due to the aggressive nature of the ram.",
+      "This rare ram has been sighted in Rio Bravo and in Cholla Springs. Its wool is black and its horns dark red. It is known to charge at passersby and attack other animals in its territory. Word has spread fast, due to the aggressive nature of the ram. Those studying it should keep a safe distance to avoid being charged."
+    ],
+    "isKillable": true,
+    "isSkinnable": true,
+    "isCollectable": false,
+    "isTrackable": true,
+    "isSedatable": true,
+    "isSamplable": true,
+    "isPhotographable": true,
+    "isLocked": false,
+    "legendaryType": "dark"
   }
 ]
