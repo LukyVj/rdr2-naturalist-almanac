@@ -2333,7 +2333,8 @@
     "isSamplable": true,
     "isPhotographable": true,
     "isLocked": false,
-    "legendaryType": "dark"
+    "legendaryType": "dark",
+    "mapLocation": "Legendary Teca Gator"
   },
   {
     "name": "Legendary Midnight Paw Coyote",
