@@ -1743,7 +1743,7 @@
     "legendaryType": "dark",
     "spawnConditions": {
       "time": {
-        "morning": false,
+        "morning": true,
         "day": false,
         "evening": false,
         "night": false
@@ -1752,7 +1752,7 @@
         "clear": false,
         "rain": false,
         "storm": false,
-        "fog": false
+        "fog": true
       }
     },
     "crafts": []
@@ -1789,10 +1789,10 @@
         "morning": false,
         "day": false,
         "evening": false,
-        "night": false
+        "night": true
       },
       "weather": {
-        "clear": false,
+        "clear": true,
         "rain": false,
         "storm": false,
         "fog": false
@@ -1829,14 +1829,14 @@
     "legendaryType": "light",
     "spawnConditions": {
       "time": {
-        "morning": false,
+        "morning": true,
         "day": false,
-        "evening": false,
+        "evening": true,
         "night": false
       },
       "weather": {
         "clear": false,
-        "rain": false,
+        "rain": true,
         "storm": false,
         "fog": false
       }
@@ -1875,10 +1875,10 @@
         "morning": false,
         "day": false,
         "evening": false,
-        "night": false
+        "night": true
       },
       "weather": {
-        "clear": false,
+        "clear": true,
         "rain": false,
         "storm": false,
         "fog": false
@@ -1915,13 +1915,13 @@
     "legendaryType": "light",
     "spawnConditions": {
       "time": {
-        "morning": false,
+        "morning": true,
         "day": false,
         "evening": false,
         "night": false
       },
       "weather": {
-        "clear": false,
+        "clear": true,
         "rain": false,
         "storm": false,
         "fog": false
@@ -2087,13 +2087,13 @@
     "legendaryType": "light",
     "spawnConditions": {
       "time": {
-        "morning": false,
-        "day": false,
+        "morning": true,
+        "day": true,
         "evening": false,
         "night": false
       },
       "weather": {
-        "clear": false,
+        "clear": true,
         "rain": false,
         "storm": false,
         "fog": false
@@ -2130,7 +2130,7 @@
     "legendaryType": "red-blond",
     "spawnConditions": {
       "time": {
-        "morning": false,
+        "morning": true,
         "day": false,
         "evening": false,
         "night": false
@@ -2139,7 +2139,7 @@
         "clear": false,
         "rain": false,
         "storm": false,
-        "fog": false
+        "fog": true
       }
     },
     "crafts": []
@@ -2260,14 +2260,14 @@
     "spawnConditions": {
       "time": {
         "morning": false,
-        "day": false,
-        "evening": false,
+        "day": true,
+        "evening": true,
         "night": false
       },
       "weather": {
-        "clear": false,
-        "rain": false,
-        "storm": false,
+        "clear": true,
+        "rain": true,
+        "storm": true,
         "fog": false
       }
     },
@@ -2347,12 +2347,12 @@
       "time": {
         "morning": false,
         "day": false,
-        "evening": false,
-        "night": false
+        "evening": true,
+        "night": true
       },
       "weather": {
-        "clear": false,
-        "rain": false,
+        "clear": true,
+        "rain": true,
         "storm": false,
         "fog": false
       }
@@ -2388,16 +2388,16 @@
     "legendaryType": "red-blond",
     "spawnConditions": {
       "time": {
-        "morning": false,
+        "morning": true,
         "day": false,
-        "evening": false,
+        "evening": true,
         "night": false
       },
       "weather": {
-        "clear": false,
-        "rain": false,
-        "storm": false,
-        "fog": false
+        "clear": true,
+        "rain": true,
+        "storm": true,
+        "fog": true
       }
     },
     "crafts": []
@@ -2431,13 +2431,13 @@
     "legendaryType": "red-blond",
     "spawnConditions": {
       "time": {
-        "morning": false,
+        "morning": true,
         "day": false,
         "evening": false,
         "night": false
       },
       "weather": {
-        "clear": false,
+        "clear": true,
         "rain": false,
         "storm": false,
         "fog": false
@@ -2518,12 +2518,12 @@
     "spawnConditions": {
       "time": {
         "morning": false,
-        "day": false,
+        "day": true,
         "evening": false,
         "night": false
       },
       "weather": {
-        "clear": false,
+        "clear": true,
         "rain": false,
         "storm": false,
         "fog": false
@@ -2560,13 +2560,13 @@
     "legendaryType": "patterned",
     "spawnConditions": {
       "time": {
-        "morning": false,
+        "morning": true,
         "day": false,
         "evening": false,
         "night": false
       },
       "weather": {
-        "clear": false,
+        "clear": true,
         "rain": false,
         "storm": false,
         "fog": false
@@ -2603,13 +2603,13 @@
     "legendaryType": "patterned",
     "spawnConditions": {
       "time": {
-        "morning": false,
+        "morning": true,
         "day": false,
-        "evening": false,
+        "evening": true,
         "night": false
       },
       "weather": {
-        "clear": false,
+        "clear": true,
         "rain": false,
         "storm": false,
         "fog": false
@@ -2646,13 +2646,13 @@
     "legendaryType": "patterned",
     "spawnConditions": {
       "time": {
-        "morning": false,
+        "morning": true,
         "day": false,
-        "evening": false,
+        "evening": true,
         "night": false
       },
       "weather": {
-        "clear": false,
+        "clear": true,
         "rain": false,
         "storm": false,
         "fog": false
@@ -2772,13 +2772,13 @@
     "legendaryType": "dark",
     "spawnConditions": {
       "time": {
-        "morning": false,
-        "day": false,
+        "morning": true,
+        "day": true,
         "evening": false,
         "night": false
       },
       "weather": {
-        "clear": false,
+        "clear": true,
         "rain": false,
         "storm": false,
         "fog": false
