@@ -1611,7 +1611,22 @@
     "isPhotographable": true,
     "isLocked": false,
     "mapLocation": "Legendary Night Beaver",
-    "legendaryType": "dark"
+    "legendaryType": "dark",
+    "spawnConditions": {
+      "time": {
+        "morning": false,
+        "day": false,
+        "evening": false,
+        "night": false
+      },
+      "weather": {
+        "clear": false,
+        "rain": false,
+        "storm": false,
+        "fog": false
+      }
+    },
+    "crafts": []
   },
   {
     "name": "Legendary Tatanka Bison",
@@ -1639,7 +1654,22 @@
     "isPhotographable": true,
     "isLocked": false,
     "mapLocation": "Legendary Tatanka Bison",
-    "legendaryType": "dark"
+    "legendaryType": "dark",
+    "spawnConditions": {
+      "time": {
+        "morning": false,
+        "day": false,
+        "evening": false,
+        "night": false
+      },
+      "weather": {
+        "clear": false,
+        "rain": false,
+        "storm": false,
+        "fog": false
+      }
+    },
+    "crafts": []
   },
   {
     "name": "Legendary Sapa Cougar",
@@ -1667,7 +1697,22 @@
     "isPhotographable": true,
     "isLocked": false,
     "mapLocation": "Legendary Sapa Cougar",
-    "legendaryType": "dark"
+    "legendaryType": "dark",
+    "spawnConditions": {
+      "time": {
+        "morning": false,
+        "day": false,
+        "evening": false,
+        "night": false
+      },
+      "weather": {
+        "clear": false,
+        "rain": false,
+        "storm": false,
+        "fog": false
+      }
+    },
+    "crafts": []
   },
   {
     "name": "Legendary Katata Elk",
@@ -1695,7 +1740,22 @@
     "isPhotographable": true,
     "isLocked": false,
     "mapLocation": "Legendary Katata Elk",
-    "legendaryType": "dark"
+    "legendaryType": "dark",
+    "spawnConditions": {
+      "time": {
+        "morning": false,
+        "day": false,
+        "evening": false,
+        "night": false
+      },
+      "weather": {
+        "clear": false,
+        "rain": false,
+        "storm": false,
+        "fog": false
+      }
+    },
+    "crafts": []
   },
   {
     "name": "Legendary Onyx Wolf",
@@ -1723,7 +1783,22 @@
     "isPhotographable": true,
     "isLocked": false,
     "mapLocation": "Legendary Onyx Wolf",
-    "legendaryType": "dark"
+    "legendaryType": "dark",
+    "spawnConditions": {
+      "time": {
+        "morning": false,
+        "day": false,
+        "evening": false,
+        "night": false
+      },
+      "weather": {
+        "clear": false,
+        "rain": false,
+        "storm": false,
+        "fog": false
+      }
+    },
+    "crafts": []
   },
   {
     "name": "Legendary Moon Beaver",
@@ -1751,7 +1826,22 @@
     "isPhotographable": true,
     "isLocked": false,
     "mapLocation": "Legendary Moon Beaver",
-    "legendaryType": "light"
+    "legendaryType": "light",
+    "spawnConditions": {
+      "time": {
+        "morning": false,
+        "day": false,
+        "evening": false,
+        "night": false
+      },
+      "weather": {
+        "clear": false,
+        "rain": false,
+        "storm": false,
+        "fog": false
+      }
+    },
+    "crafts": []
   },
   {
     "name": "Legendary Winyan Bison",
@@ -1779,7 +1869,22 @@
     "isPhotographable": true,
     "isLocked": false,
     "mapLocation": "Legendary Winyan Bison",
-    "legendaryType": "light"
+    "legendaryType": "light",
+    "spawnConditions": {
+      "time": {
+        "morning": false,
+        "day": false,
+        "evening": false,
+        "night": false
+      },
+      "weather": {
+        "clear": false,
+        "rain": false,
+        "storm": false,
+        "fog": false
+      }
+    },
+    "crafts": []
   },
   {
     "name": "Legendary Snow Buck",
@@ -1806,8 +1911,23 @@
     "isSamplable": true,
     "isPhotographable": true,
     "isLocked": false,
+    "mapLocation": "Legendary Snow Buck",
     "legendaryType": "light",
-    "mapLocation": "Legendary Snow Buck"
+    "spawnConditions": {
+      "time": {
+        "morning": false,
+        "day": false,
+        "evening": false,
+        "night": false
+      },
+      "weather": {
+        "clear": false,
+        "rain": false,
+        "storm": false,
+        "fog": false
+      }
+    },
+    "crafts": []
   },
   {
     "name": "Legendary Iguga Cougar",
@@ -1835,7 +1955,22 @@
     "isPhotographable": true,
     "isLocked": false,
     "mapLocation": "Legendary Iguga Cougar",
-    "legendaryType": "light"
+    "legendaryType": "light",
+    "spawnConditions": {
+      "time": {
+        "morning": false,
+        "day": false,
+        "evening": false,
+        "night": false
+      },
+      "weather": {
+        "clear": false,
+        "rain": false,
+        "storm": false,
+        "fog": false
+      }
+    },
+    "crafts": []
   },
   {
     "name": "Legendary Inahme Elk",
@@ -1863,7 +1998,22 @@
     "isPhotographable": true,
     "isLocked": false,
     "mapLocation": "Legendary Inahme Elk",
-    "legendaryType": "light"
+    "legendaryType": "light",
+    "spawnConditions": {
+      "time": {
+        "morning": false,
+        "day": false,
+        "evening": false,
+        "night": false
+      },
+      "weather": {
+        "clear": false,
+        "rain": false,
+        "storm": false,
+        "fog": false
+      }
+    },
+    "crafts": []
   },
   {
     "name": "Legendary Moonstone Wolf",
@@ -1891,7 +2041,22 @@
     "isPhotographable": true,
     "isLocked": false,
     "mapLocation": "Legendary Moonstone Wolf",
-    "legendaryType": "light"
+    "legendaryType": "light",
+    "spawnConditions": {
+      "time": {
+        "morning": false,
+        "day": false,
+        "evening": false,
+        "night": false
+      },
+      "weather": {
+        "clear": false,
+        "rain": false,
+        "storm": false,
+        "fog": false
+      }
+    },
+    "crafts": []
   },
   {
     "name": "Legendary Gabbro Horn Ram",
@@ -1918,8 +2083,23 @@
     "isSamplable": true,
     "isPhotographable": true,
     "isLocked": false,
+    "mapLocation": "Legendary Gabbro Horn Ram",
     "legendaryType": "light",
-    "mapLocation": "Legendary Gabbro Horn Ram"
+    "spawnConditions": {
+      "time": {
+        "morning": false,
+        "day": false,
+        "evening": false,
+        "night": false
+      },
+      "weather": {
+        "clear": false,
+        "rain": false,
+        "storm": false,
+        "fog": false
+      }
+    },
+    "crafts": []
   },
   {
     "name": "Legendary Sun Gator",
@@ -1946,8 +2126,23 @@
     "isSamplable": true,
     "isPhotographable": true,
     "isLocked": false,
+    "mapLocation": "Legendary Sun Gator",
     "legendaryType": "red-blond",
-    "mapLocation": "Legendary Sun Gator"
+    "spawnConditions": {
+      "time": {
+        "morning": false,
+        "day": false,
+        "evening": false,
+        "night": false
+      },
+      "weather": {
+        "clear": false,
+        "rain": false,
+        "storm": false,
+        "fog": false
+      }
+    },
+    "crafts": []
   },
   {
     "name": "Legendary Payta Bison",
@@ -1975,7 +2170,22 @@
     "isPhotographable": true,
     "isLocked": false,
     "mapLocation": "Legendary Payta Bison",
-    "legendaryType": "red-blond"
+    "legendaryType": "red-blond",
+    "spawnConditions": {
+      "time": {
+        "morning": false,
+        "day": false,
+        "evening": false,
+        "night": false
+      },
+      "weather": {
+        "clear": false,
+        "rain": false,
+        "storm": false,
+        "fog": false
+      }
+    },
+    "crafts": []
   },
   {
     "name": "Legendary Wakpa Boar",
@@ -2003,7 +2213,22 @@
     "isPhotographable": true,
     "isLocked": false,
     "mapLocation": "Legendary Wakpa Boar",
-    "legendaryType": "red-blond"
+    "legendaryType": "red-blond",
+    "spawnConditions": {
+      "time": {
+        "morning": false,
+        "day": false,
+        "evening": false,
+        "night": false
+      },
+      "weather": {
+        "clear": false,
+        "rain": false,
+        "storm": false,
+        "fog": false
+      }
+    },
+    "crafts": []
   },
   {
     "name": "Legendary Red Streak Coyote",
@@ -2030,8 +2255,23 @@
     "isSamplable": true,
     "isPhotographable": true,
     "isLocked": false,
+    "mapLocation": "Legendary Red Streak Coyote",
     "legendaryType": "red-blond",
-    "mapLocation": "Legendary Red Streak Coyote"
+    "spawnConditions": {
+      "time": {
+        "morning": false,
+        "day": false,
+        "evening": false,
+        "night": false
+      },
+      "weather": {
+        "clear": false,
+        "rain": false,
+        "storm": false,
+        "fog": false
+      }
+    },
+    "crafts": []
   },
   {
     "name": "Legendary Ozula Elk",
@@ -2059,7 +2299,22 @@
     "isPhotographable": true,
     "isLocked": false,
     "mapLocation": "Legendary Ozula Elk",
-    "legendaryType": "red-blond"
+    "legendaryType": "red-blond",
+    "spawnConditions": {
+      "time": {
+        "morning": false,
+        "day": false,
+        "evening": false,
+        "night": false
+      },
+      "weather": {
+        "clear": false,
+        "rain": false,
+        "storm": false,
+        "fog": false
+      }
+    },
+    "crafts": []
   },
   {
     "name": "Legendary Emerald Wolf",
@@ -2087,7 +2342,22 @@
     "isPhotographable": true,
     "isLocked": false,
     "mapLocation": "Legendary Emerald Wolf",
-    "legendaryType": "red-blond"
+    "legendaryType": "red-blond",
+    "spawnConditions": {
+      "time": {
+        "morning": false,
+        "day": false,
+        "evening": false,
+        "night": false
+      },
+      "weather": {
+        "clear": false,
+        "rain": false,
+        "storm": false,
+        "fog": false
+      }
+    },
+    "crafts": []
   },
   {
     "name": "Legendary Zizi Beaver",
@@ -2115,7 +2385,22 @@
     "isPhotographable": true,
     "isLocked": false,
     "mapLocation": "Legendary Zizi Beaver",
-    "legendaryType": "red-blond"
+    "legendaryType": "red-blond",
+    "spawnConditions": {
+      "time": {
+        "morning": false,
+        "day": false,
+        "evening": false,
+        "night": false
+      },
+      "weather": {
+        "clear": false,
+        "rain": false,
+        "storm": false,
+        "fog": false
+      }
+    },
+    "crafts": []
   },
   {
     "name": "Legendary Cogi Boar",
@@ -2143,7 +2428,22 @@
     "isPhotographable": true,
     "isLocked": false,
     "mapLocation": "Legendary Cogi Boar",
-    "legendaryType": "red-blond"
+    "legendaryType": "red-blond",
+    "spawnConditions": {
+      "time": {
+        "morning": false,
+        "day": false,
+        "evening": false,
+        "night": false
+      },
+      "weather": {
+        "clear": false,
+        "rain": false,
+        "storm": false,
+        "fog": false
+      }
+    },
+    "crafts": []
   },
   {
     "name": "Legendary Icahi Boar",
@@ -2171,7 +2471,22 @@
     "isPhotographable": true,
     "isLocked": false,
     "mapLocation": "Legendary Icahi Boar",
-    "legendaryType": "patterned"
+    "legendaryType": "patterned",
+    "spawnConditions": {
+      "time": {
+        "morning": false,
+        "day": false,
+        "evening": false,
+        "night": false
+      },
+      "weather": {
+        "clear": false,
+        "rain": false,
+        "storm": false,
+        "fog": false
+      }
+    },
+    "crafts": []
   },
   {
     "name": "Legendary Mud Runner Buck",
@@ -2198,8 +2513,23 @@
     "isSamplable": true,
     "isPhotographable": true,
     "isLocked": false,
+    "mapLocation": "Legendary Mud Runner Buck",
     "legendaryType": "patterned",
-    "mapLocation": "Legendary Mud Runner Buck"
+    "spawnConditions": {
+      "time": {
+        "morning": false,
+        "day": false,
+        "evening": false,
+        "night": false
+      },
+      "weather": {
+        "clear": false,
+        "rain": false,
+        "storm": false,
+        "fog": false
+      }
+    },
+    "crafts": []
   },
   {
     "name": "Legendary Maza Cougar",
@@ -2228,7 +2558,21 @@
     "isLocked": false,
     "mapLocation": "Legendary Maza Cougar",
     "legendaryType": "patterned",
-    "legendaryType": "patterned"
+    "spawnConditions": {
+      "time": {
+        "morning": false,
+        "day": false,
+        "evening": false,
+        "night": false
+      },
+      "weather": {
+        "clear": false,
+        "rain": false,
+        "storm": false,
+        "fog": false
+      }
+    },
+    "crafts": []
   },
   {
     "name": "Legendary Ota Fox",
@@ -2256,7 +2600,22 @@
     "isPhotographable": true,
     "isLocked": false,
     "mapLocation": "Legendary Ota Fox",
-    "legendaryType": "patterned"
+    "legendaryType": "patterned",
+    "spawnConditions": {
+      "time": {
+        "morning": false,
+        "day": false,
+        "evening": false,
+        "night": false
+      },
+      "weather": {
+        "clear": false,
+        "rain": false,
+        "storm": false,
+        "fog": false
+      }
+    },
+    "crafts": []
   },
   {
     "name": "Legendary Marble Fox",
@@ -2284,7 +2643,22 @@
     "isPhotographable": true,
     "isLocked": false,
     "mapLocation": "Legendary Marble Fox",
-    "legendaryType": "patterned"
+    "legendaryType": "patterned",
+    "spawnConditions": {
+      "time": {
+        "morning": false,
+        "day": false,
+        "evening": false,
+        "night": false
+      },
+      "weather": {
+        "clear": false,
+        "rain": false,
+        "storm": false,
+        "fog": false
+      }
+    },
+    "crafts": []
   },
   {
     "name": "Legendary Cross Fox",
@@ -2312,7 +2686,22 @@
     "isPhotographable": true,
     "isLocked": false,
     "mapLocation": "Legendary Cross Fox",
-    "legendaryType": "patterned"
+    "legendaryType": "patterned",
+    "spawnConditions": {
+      "time": {
+        "morning": false,
+        "day": false,
+        "evening": false,
+        "night": false
+      },
+      "weather": {
+        "clear": false,
+        "rain": false,
+        "storm": false,
+        "fog": false
+      }
+    },
+    "crafts": []
   },
 
   {
@@ -2338,8 +2727,23 @@
     "isSamplable": true,
     "isPhotographable": true,
     "isLocked": false,
+    "mapLocation": "Legendary Teca Gator",
     "legendaryType": "dark",
-    "mapLocation": "Legendary Teca Gator"
+    "spawnConditions": {
+      "time": {
+        "morning": false,
+        "day": false,
+        "evening": false,
+        "night": false
+      },
+      "weather": {
+        "clear": false,
+        "rain": false,
+        "storm": false,
+        "fog": false
+      }
+    },
+    "crafts": []
   },
   {
     "name": "Legendary Midnight Paw Coyote",
@@ -2364,8 +2768,23 @@
     "isSamplable": true,
     "isPhotographable": true,
     "isLocked": false,
+    "mapLocation": "legendary-midnight-paw-coyote",
     "legendaryType": "dark",
-    "mapLocation": "legendary-midnight-paw-coyote"
+    "spawnConditions": {
+      "time": {
+        "morning": false,
+        "day": false,
+        "evening": false,
+        "night": false
+      },
+      "weather": {
+        "clear": false,
+        "rain": false,
+        "storm": false,
+        "fog": false
+      }
+    },
+    "crafts": []
   },
   {
     "name": "Legendary Rutile Horn Ram",
@@ -2389,7 +2808,22 @@
     "isSamplable": true,
     "isPhotographable": true,
     "isLocked": false,
+    "mapLocation": "Legendary Rutile Horn Ram",
     "legendaryType": "dark",
-    "mapLocation": "Legendary Rutile Horn Ram"
+    "spawnConditions": {
+      "time": {
+        "morning": false,
+        "day": false,
+        "evening": false,
+        "night": false
+      },
+      "weather": {
+        "clear": false,
+        "rain": false,
+        "storm": false,
+        "fog": false
+      }
+    },
+    "crafts": []
   }
 ]
