@@ -2037,6 +2037,35 @@
     "crafts": []
   },
   {
+    "name": "Legendary Banded Gator",
+    "englishName": "Legendary Banded Gator",
+    "description": "Word has spread about a strange alligator near Saint Denis.",
+    "statName": -980475203,
+    "stampName": -842833246,
+    "studyAward": -926066958,
+    "isLegendary": true,
+    "thumbnailName": "MP_ANIMAL_ALLIGATOR_LEGENDARY_03",
+    "photoName": "MP_ANIMALS_ALLIGATOR_LEGENDARY_03_PHOTO",
+    "legendaryDescriptions": [
+      "Word has spread about a strange alligator near Saint Denis.",
+      "Word has spread about a strange alligator near Saint Denis. It is said to have white skin and a red striped back.",
+      "Word has spread about a strange alligator near Saint Denis. It is said to have white skin and a red striped back. With a nest so close to the city, the Legendary Banded Gator is likely to become defensive and territorial.",
+      "Word has spread about a strange alligator near Saint Denis. It is said to have white skin and a red striped back. With a nest so close to the city, the Legendary Banded Gator is likely to become defensive and territorial. Poachers have been spotted in the area, undeterred by warnings. ",
+      "Word has spread about a strange alligator near Saint Denis. It is said to have white skin and a red striped back. With a nest so close to the city, the Legendary Banded Gator is likely to become defensive and territorial. Poachers have been spotted in the area, undeterred by warnings. Do not be fooled by its size. This gator can move with considerable speed."
+    ],
+    "isKillable": true,
+    "isSkinnable": true,
+    "isCollectable": false,
+    "isTrackable": true,
+    "isSedatable": true,
+    "isSamplable": true,
+    "isPhotographable": true,
+    "isLocked": false,
+    "mapLocation": "Legendary Banded Gator",
+    "legendaryType": "red-blond",
+    "spawnConditions": []
+  },
+  {
     "name": "Legendary Payta Bison",
     "englishName": "Legendary Payta Bison",
     "description": "The rare Legendary Payta Bison has been spotted leading a herd in Little Creek.",
@@ -2485,20 +2514,36 @@
     "isLocked": false,
     "mapLocation": "Legendary Cross Fox",
     "legendaryType": "patterned",
-    "spawnConditions": {
-      "time": {
-        "morning": false,
-        "day": false,
-        "evening": false,
-        "night": false
-      },
-      "weather": {
-        "clear": false,
-        "rain": false,
-        "storm": false,
-        "fog": false
-      }
-    },
+    "spawnConditions": [{}],
+    "crafts": []
+  },
+  {
+    "name": "Legendary Chalk Horn Ram",
+    "englishName": "Legendary Chalk Horn Ram",
+    "description": "This ram has been spotted high up in the Grizzlies, east of the Calumet Ravine.",
+    "statName": 306251731,
+    "stampName": -739464745,
+    "studyAward": -1805675561,
+    "isLegendary": true,
+    "thumbnailName": "MP_ANIMAL_RAM_LEGENDARY_02",
+    "photoName": "MP_ANIMALS_RAM_LEGENDARY_02_PHOTO",
+    "legendaryDescriptions": [
+      "This ram has been spotted high up in the Grizzlies, east of the Calumet Ravine.",
+      "This ram has been spotted high up in the Grizzlies, east of the Calumet Ravine. With a gray body and a bright white head, this ram is of great interest to Naturalists in the area.",
+      "This ram has been spotted high up in the Grizzlies, east of the Calumet Ravine. With a gray body and a bright white head, this ram is of great interest to Naturalists in the area. It has no issue negotiating the rocky landscape.",
+      "This ram has been spotted high up in the Grizzlies, east of the Calumet Ravine. With a gray body and a bright white head, this ram is of great interest to Naturalists in the area. It has no issue negotiating the rocky landscape and has been seen in both broad daylight and the low light of dusk.",
+      "This ram has been spotted high up in the Grizzlies, east of the Calumet Ravine. With a gray body and a bright white head, this ram is of great interest to Naturalists in the area. It has no issue negotiating the rocky landscape and has been seen in both broad daylight and the low light of dusk. However, it is rarely spotted in wet weather."
+    ],
+    "isKillable": true,
+    "isSkinnable": true,
+    "isCollectable": false,
+    "isTrackable": true,
+    "isSedatable": true,
+    "isSamplable": true,
+    "isPhotographable": true,
+    "isLocked": false,
+    "legendaryType": "patterned",
+    "spawnConditions": [{}],
     "crafts": []
   },
 
