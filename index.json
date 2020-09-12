@@ -2063,7 +2063,7 @@
     "isLocked": false,
     "mapLocation": "Legendary Banded Gator",
     "legendaryType": "red-blond",
-    "spawnConditions": []
+    "spawnConditions": [{}]
   },
   {
     "name": "Legendary Payta Bison",
