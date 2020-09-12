@@ -2543,6 +2543,7 @@
     "isPhotographable": true,
     "isLocked": false,
     "legendaryType": "patterned",
+    "mapLocation": "Legendary Chalk Horn Ram",
     "spawnConditions": [{}],
     "crafts": []
   },
