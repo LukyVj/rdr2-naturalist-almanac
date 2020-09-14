@@ -16,7 +16,7 @@
     "isLocked": false,
     "habitat": "Farmland Habitats",
     "mapLocation": "cow",
-    "type": "animal"
+    "type": "animals"
   },
   {
     "name": "Angus Bull",
@@ -35,7 +35,7 @@
     "isLocked": false,
     "habitat": "Farmland Habitats",
     "mapLocation": "bull",
-    "type": "animal"
+    "type": "animals"
   },
   {
     "name": "Devon Bull",
@@ -54,7 +54,7 @@
     "isLocked": false,
     "habitat": "Farmland Habitats",
     "mapLocation": "bull",
-    "type": "animal"
+    "type": "animals"
   },
   {
     "name": "Hereford Bull",
@@ -73,7 +73,7 @@
     "isLocked": false,
     "habitat": "Farmland Habitats",
     "mapLocation": "bull",
-    "type": "animal"
+    "type": "animals"
   },
   {
     "name": "Angus Ox",
@@ -92,7 +92,7 @@
     "isLocked": false,
     "habitat": "Farmland Habitats",
     "mapLocation": "ox",
-    "type": "animal"
+    "type": "animals"
   },
   {
     "name": "Devon Ox",
@@ -111,7 +111,7 @@
     "isLocked": false,
     "habitat": "Farmland Habitats",
     "mapLocation": "ox",
-    "type": "animal"
+    "type": "animals"
   },
   {
     "name": "Old Spot Pig",
@@ -130,7 +130,7 @@
     "isLocked": false,
     "habitat": "Farmland Habitats",
     "mapLocation": "pig",
-    "type": "animal"
+    "type": "animals"
   },
   {
     "name": "Berkshire Pig",
@@ -149,7 +149,7 @@
     "isLocked": false,
     "habitat": "Farmland Habitats",
     "mapLocation": "pig",
-    "type": "animal"
+    "type": "animals"
   },
   {
     "name": "Big China Pig",
@@ -168,7 +168,7 @@
     "isLocked": false,
     "habitat": "Farmland Habitats",
     "mapLocation": "pig",
-    "type": "animal"
+    "type": "animals"
   },
   {
     "name": "Merino Sheep",
@@ -187,7 +187,7 @@
     "isLocked": false,
     "habitat": "Farmland Habitats",
     "mapLocation": "sheep",
-    "type": "animal"
+    "type": "animals"
   },
   {
     "name": "Alpine Goat",
@@ -206,7 +206,7 @@
     "isLocked": false,
     "habitat": "Farmland Habitats",
     "mapLocation": "goat",
-    "type": "animal"
+    "type": "animals"
   },
 
   {
@@ -226,7 +226,7 @@
     "isLocked": false,
     "habitat": "Desert Habitats",
     "mapLocation": "iguana-desert",
-    "type": "animal"
+    "type": "animals"
   },
   {
     "name": "Banded Gila Monster",
@@ -245,7 +245,7 @@
     "isLocked": false,
     "habitat": "Desert Habitats",
     "mapLocation": "gila-monster",
-    "type": "animal"
+    "type": "animals"
   },
   {
     "name": "Nine-Banded Armadillo",
@@ -264,7 +264,7 @@
     "isLocked": false,
     "habitat": "Desert Habitats",
     "mapLocation": "armadillo",
-    "type": "animal"
+    "type": "animals"
   },
   {
     "name": "Baja California Pronghorn Buck",
@@ -283,7 +283,7 @@
     "isLocked": false,
     "habitat": "Desert Habitats",
     "mapLocation": "pronghorn-baja-california-buck",
-    "type": "animal"
+    "type": "animals"
   },
   {
     "name": "Baja California Pronghorn Doe",
@@ -302,7 +302,7 @@
     "isLocked": false,
     "habitat": "Desert Habitats",
     "mapLocation": "pronghorn-baja-california-doe",
-    "type": "animal"
+    "type": "animals"
   },
   {
     "name": "Collared Peccary",
@@ -321,7 +321,7 @@
     "isLocked": false,
     "habitat": "Desert Habitats",
     "mapLocation": "peccary",
-    "type": "animal"
+    "type": "animals"
   },
   {
     "name": "Sonoran Pronghorn Buck",
@@ -340,7 +340,7 @@
     "isLocked": false,
     "habitat": "Desert Habitats",
     "mapLocation": "Pronghorn - Baja California Buck",
-    "type": "animal"
+    "type": "animals"
   },
   {
     "name": "Sonoran Pronghorn Doe",
@@ -359,7 +359,7 @@
     "isLocked": false,
     "habitat": "Desert Habitats",
     "mapLocation": "Pronghorn - Baja California Doe",
-    "type": "animal"
+    "type": "animals"
   },
   {
     "name": "Desert Bighorn Ram",
@@ -378,7 +378,7 @@
     "isLocked": false,
     "habitat": "Desert Habitats",
     "mapLocation": "Bighorn Ram - Desert",
-    "type": "animal"
+    "type": "animals"
   },
   {
     "name": "Desert Bighorn Sheep",
@@ -397,7 +397,7 @@
     "isLocked": false,
     "habitat": "Desert Habitats",
     "mapLocation": "Bighorn Sheep - Desert",
-    "type": "animal"
+    "type": "animals"
   },
   {
     "name": "Sierra Nevada Bighorn Ram",
@@ -416,7 +416,7 @@
     "isLocked": false,
     "habitat": "Desert Habitats",
     "mapLocation": "Bighorn Ram - Sierra Nevada",
-    "type": "animal"
+    "type": "animals"
   },
   {
     "name": "Sierra Nevada Bighorn Sheep",
@@ -435,7 +435,7 @@
     "isLocked": false,
     "habitat": "Desert Habitats",
     "mapLocation": "Bighorn Sheep - Sierra Nevada",
-    "type": "animal"
+    "type": "animals"
   },
   {
     "name": "Black-tailed Rattlesnake",
@@ -454,7 +454,7 @@
     "isLocked": false,
     "habitat": "Desert Habitats",
     "mapLocation": "Snake - Rattlesnake",
-    "type": "animal"
+    "type": "animals"
   },
   {
     "name": "Cougar",
@@ -473,7 +473,7 @@
     "isLocked": false,
     "habitat": "Desert Habitats",
     "mapLocation": "cougar",
-    "type": "animal"
+    "type": "animals"
   },
   {
     "name": "American Alligator (small)",
@@ -492,7 +492,7 @@
     "isLocked": false,
     "habitat": "Wetland Habitats",
     "mapLocation": "Alligator - Small",
-    "type": "animal"
+    "type": "animals"
   },
   {
     "name": "Green Iguana",
@@ -511,7 +511,7 @@
     "isLocked": false,
     "habitat": "Wetland Habitats",
     "mapLocation": "Iguana Green",
-    "type": "animal"
+    "type": "animals"
   },
   {
     "name": "Alligator Snapping Turtle",
@@ -530,7 +530,7 @@
     "isLocked": false,
     "habitat": "Wetland Habitats",
     "mapLocation": "Snapping turtle",
-    "type": "animal"
+    "type": "animals"
   },
   {
     "name": "Panther",
@@ -549,7 +549,7 @@
     "isLocked": false,
     "habitat": "Wetland Habitats",
     "mapLocation": "panther",
-    "type": "animal"
+    "type": "animals"
   },
   {
     "name": "Florida Panther",
@@ -568,7 +568,7 @@
     "isLocked": false,
     "habitat": "Wetland Habitats",
     "mapLocation": "panther",
-    "type": "animal"
+    "type": "animals"
   },
   {
     "name": "American Alligator",
@@ -587,7 +587,7 @@
     "isLocked": false,
     "habitat": "Wetland Habitats",
     "mapLocation": "alligator",
-    "type": "animal"
+    "type": "animals"
   },
   {
     "name": "Diamondback Rattlesnake",
@@ -606,7 +606,7 @@
     "isLocked": false,
     "habitat": "Wetland Habitats",
     "mapLocation": "Snake - Rattlesnake",
-    "type": "animal"
+    "type": "animals"
   },
   {
     "name": "Midland Water Snake",
@@ -625,7 +625,7 @@
     "isLocked": false,
     "habitat": "Wetland Habitats",
     "mapLocation": "Snake - Water",
-    "type": "animal"
+    "type": "animals"
   },
   {
     "name": "Timber Rattlesnake",
@@ -644,7 +644,7 @@
     "isLocked": false,
     "habitat": "Wetland Habitats",
     "mapLocation": "Snake - Rattlesnake",
-    "type": "animal"
+    "type": "animals"
   },
   {
     "name": "Northern Copperhead Snake",
@@ -663,7 +663,7 @@
     "isLocked": false,
     "habitat": "Wetland Habitats",
     "mapLocation": "Snake - Copperhead",
-    "type": "animal"
+    "type": "animals"
   },
   {
     "name": "Southern Copperhead Snake",
@@ -682,7 +682,7 @@
     "isLocked": false,
     "habitat": "Wetland Habitats",
     "mapLocation": "Snake - Copperhead",
-    "type": "animal"
+    "type": "animals"
   },
   {
     "name": "Cottonmouth Snake",
@@ -701,7 +701,7 @@
     "isLocked": false,
     "habitat": "Wetland Habitats",
     "mapLocation": "snake",
-    "type": "animal"
+    "type": "animals"
   },
   {
     "name": "Northern Water Snake",
@@ -720,7 +720,7 @@
     "isLocked": false,
     "habitat": "Wetland Habitats",
     "mapLocation": "Snake - Water",
-    "type": "animal"
+    "type": "animals"
   },
   {
     "name": "Rocky Mountain Bull Elk",
@@ -739,7 +739,7 @@
     "isLocked": false,
     "habitat": "Mountain & Grassland Habitats",
     "mapLocation": "Elk - bull",
-    "type": "animal"
+    "type": "animals"
   },
   {
     "name": "Rocky Mountain Cow Elk",
@@ -758,7 +758,7 @@
     "isLocked": false,
     "habitat": "Mountain & Grassland Habitats",
     "mapLocation": "Elk - bull",
-    "type": "animal"
+    "type": "animals"
   },
   {
     "name": "American Badger",
@@ -777,7 +777,7 @@
     "isLocked": false,
     "habitat": "Mountain & Grassland Habitats",
     "mapLocation": "badger",
-    "type": "animal"
+    "type": "animals"
   },
   {
     "name": "Gray Wolf",
@@ -796,7 +796,7 @@
     "isLocked": false,
     "habitat": "Mountain & Grassland Habitats",
     "mapLocation": "wolf",
-    "type": "animal"
+    "type": "animals"
   },
   {
     "name": "Timber Wolf",
@@ -815,7 +815,7 @@
     "isLocked": false,
     "habitat": "Mountain & Grassland Habitats",
     "mapLocation": "wolf",
-    "type": "animal"
+    "type": "animals"
   },
   {
     "name": "Rocky Mountain Bighorn Ram",
@@ -834,7 +834,7 @@
     "isLocked": false,
     "habitat": "Mountain & Grassland Habitats",
     "mapLocation": "Bighorn Ram - Rocky Mountain",
-    "type": "animal"
+    "type": "animals"
   },
   {
     "name": "Rocky Mountain Bighorn Sheep",
@@ -853,7 +853,7 @@
     "isLocked": false,
     "habitat": "Mountain & Grassland Habitats",
     "mapLocation": "Bighorn Sheep - Rocky Mountain",
-    "type": "animal"
+    "type": "animals"
   },
   {
     "name": "California Valley Coyote",
@@ -872,7 +872,7 @@
     "isLocked": false,
     "habitat": "Mountain & Grassland Habitats",
     "mapLocation": "coyote",
-    "type": "animal"
+    "type": "animals"
   },
   {
     "name": "Whitetail Buck",
@@ -891,7 +891,7 @@
     "isLocked": false,
     "habitat": "Mountain & Grassland Habitats",
     "mapLocation": "buck",
-    "type": "animal"
+    "type": "animals"
   },
   {
     "name": "Whitetail Deer",
@@ -910,7 +910,7 @@
     "isLocked": false,
     "habitat": "Mountain & Grassland Habitats",
     "mapLocation": "Deer",
-    "type": "animal"
+    "type": "animals"
   },
   {
     "name": "Wild Boar",
@@ -929,7 +929,7 @@
     "isLocked": false,
     "habitat": "Mountain & Grassland Habitats",
     "mapLocation": "boar",
-    "type": "animal"
+    "type": "animals"
   },
   {
     "name": "American Bison",
@@ -948,7 +948,7 @@
     "isLocked": false,
     "habitat": "Mountain & Grassland Habitats",
     "mapLocation": "bison",
-    "type": "animal"
+    "type": "animals"
   },
   {
     "name": "American Pronghorn Buck",
@@ -967,7 +967,7 @@
     "isLocked": false,
     "habitat": "Mountain & Grassland Habitats",
     "mapLocation": "Pronghorn - American Buck",
-    "type": "animal"
+    "type": "animals"
   },
   {
     "name": "American Pronghorn Doe",
@@ -986,7 +986,7 @@
     "isLocked": false,
     "habitat": "Mountain & Grassland Habitats",
     "mapLocation": "Pronghorn - American doe",
-    "type": "animal"
+    "type": "animals"
   },
   {
     "name": "American Black Bear",
@@ -1005,7 +1005,7 @@
     "isLocked": false,
     "habitat": "Forest & River Habitats",
     "mapLocation": "Bear - Black",
-    "type": "animal"
+    "type": "animals"
   },
   {
     "name": "North American Beaver",
@@ -1024,7 +1024,7 @@
     "isLocked": false,
     "habitat": "Forest & River Habitats",
     "mapLocation": "beaver",
-    "type": "animal"
+    "type": "animals"
   },
   {
     "name": "North American Raccoon",
@@ -1043,7 +1043,7 @@
     "isLocked": false,
     "habitat": "Forest & River Habitats",
     "mapLocation": "racoon",
-    "type": "animal"
+    "type": "animals"
   },
   {
     "name": "American Red Fox",
@@ -1062,7 +1062,7 @@
     "isLocked": false,
     "habitat": "Forest & River Habitats",
     "mapLocation": "Fox - Red",
-    "type": "animal"
+    "type": "animals"
   },
   {
     "name": "American Gray Fox",
@@ -1081,7 +1081,7 @@
     "isLocked": false,
     "habitat": "Forest & River Habitats",
     "mapLocation": "Fox - Grizzlies",
-    "type": "animal"
+    "type": "animals"
   },
   {
     "name": "Silver Fox",
@@ -1100,7 +1100,7 @@
     "isLocked": false,
     "habitat": "Forest & River Habitats",
     "mapLocation": "Fox - Grizzlies",
-    "type": "animal"
+    "type": "animals"
   },
   {
     "name": "Striped Skunk",
@@ -1119,7 +1119,7 @@
     "isLocked": false,
     "habitat": "Forest & River Habitats",
     "mapLocation": "skunk",
-    "type": "animal"
+    "type": "animals"
   },
   {
     "name": "Virginia Opossum",
@@ -1138,7 +1138,7 @@
     "isLocked": false,
     "habitat": "Forest & River Habitats",
     "mapLocation": "Possum",
-    "type": "animal"
+    "type": "animals"
   },
   {
     "name": "American Muskrat",
@@ -1157,7 +1157,7 @@
     "isLocked": false,
     "habitat": "Forest & River Habitats",
     "mapLocation": "muskrat",
-    "type": "animal"
+    "type": "animals"
   },
   {
     "name": "Western Bull Moose",
@@ -1176,7 +1176,7 @@
     "isLocked": false,
     "habitat": "Forest & River Habitats",
     "mapLocation": "moose",
-    "type": "animal"
+    "type": "animals"
   },
   {
     "name": "Western Moose",
@@ -1195,7 +1195,7 @@
     "isLocked": false,
     "habitat": "Forest & River Habitats",
     "mapLocation": "moose",
-    "type": "animal"
+    "type": "animals"
   },
   {
     "name": "Grizzly Bear",
@@ -1214,7 +1214,7 @@
     "isLocked": false,
     "habitat": "Forest & River Habitats",
     "mapLocation": "Bear - Grizzly",
-    "type": "animal"
+    "type": "animals"
   },
   {
     "name": "Black-tailed Jackrabbit",
@@ -1233,7 +1233,7 @@
     "isLocked": false,
     "habitat": "Forest & River Habitats",
     "mapLocation": "rabbit",
-    "type": "animal"
+    "type": "animals"
   },
   {
     "name": "Little Brown Bat",
@@ -1252,7 +1252,7 @@
     "isLocked": false,
     "habitat": "Common Critters",
     "mapLocation": "bat",
-    "type": "animal"
+    "type": "animals"
   },
   {
     "name": "American Bullfrog",
@@ -1271,7 +1271,7 @@
     "isLocked": false,
     "habitat": "Common Critters",
     "mapLocation": "bullfrog",
-    "type": "animal"
+    "type": "animals"
   },
   {
     "name": "Western Chipmunk",
@@ -1290,7 +1290,7 @@
     "isLocked": false,
     "habitat": "Common Critters",
     "mapLocation": "chipmunk",
-    "type": "animal"
+    "type": "animals"
   },
   {
     "name": "Cuban Land Crab",
@@ -1309,7 +1309,7 @@
     "isLocked": false,
     "habitat": "Common Critters",
     "mapLocation": "crab",
-    "type": "animal"
+    "type": "animals"
   },
   {
     "name": "Black Rat",
@@ -1328,7 +1328,7 @@
     "isLocked": false,
     "habitat": "Common Critters",
     "mapLocation": "rat",
-    "type": "animal"
+    "type": "animals"
   },
   {
     "name": "Brown Rat",
@@ -1347,7 +1347,7 @@
     "isLocked": false,
     "habitat": "Common Critters",
     "mapLocation": "rat",
-    "type": "animal"
+    "type": "animals"
   },
   {
     "name": "American Red Squirrel",
@@ -1366,7 +1366,7 @@
     "isLocked": false,
     "habitat": "Common Critters",
     "mapLocation": "squirrel",
-    "type": "animal"
+    "type": "animals"
   },
   {
     "name": "Western Gray Squirrel",
@@ -1385,7 +1385,7 @@
     "isLocked": false,
     "habitat": "Common Critters",
     "mapLocation": "squirrel",
-    "type": "animal"
+    "type": "animals"
   },
   {
     "name": "Black Squirrel",
@@ -1404,7 +1404,7 @@
     "isLocked": false,
     "habitat": "Common Critters",
     "mapLocation": "squirrel",
-    "type": "animal"
+    "type": "animals"
   },
   {
     "name": "Western Toad",
@@ -1423,7 +1423,7 @@
     "isLocked": false,
     "habitat": "Common Critters",
     "mapLocation": "toad",
-    "type": "animal"
+    "type": "animals"
   },
   {
     "name": "Sonoran Desert Toad",
@@ -1442,7 +1442,7 @@
     "isLocked": false,
     "habitat": "Common Critters",
     "mapLocation": "Toad - Sonoran Desert",
-    "type": "animal"
+    "type": "animals"
   },
   {
     "name": "Legendary Night Beaver",
@@ -1467,7 +1467,7 @@
     "isPhotographable": true,
     "isLocked": false,
     "mapLocation": "Legendary Night Beaver",
-    "type": "animal",
+    "type": "animals",
     "legendaryType": "dark",
     "spawnConditions": {
       "time": {
@@ -1508,7 +1508,7 @@
     "isPhotographable": true,
     "isLocked": false,
     "mapLocation": "Legendary Tatanka Bison",
-    "type": "animal",
+    "type": "animals",
     "legendaryType": "dark",
     "spawnConditions": [{ "rain": true, "day": true }],
     "crafts": []
@@ -1536,7 +1536,7 @@
     "isPhotographable": true,
     "isLocked": false,
     "mapLocation": "Legendary Sapa Cougar",
-    "type": "animal",
+    "type": "animals",
     "legendaryType": "dark",
     "spawnConditions": {
       "time": {
@@ -1577,7 +1577,7 @@
     "isPhotographable": true,
     "isLocked": false,
     "mapLocation": "Legendary Katata Elk",
-    "type": "animal",
+    "type": "animals",
     "legendaryType": "dark",
     "spawnConditions": [
       { "fog": true, "morning": true },
@@ -1608,7 +1608,7 @@
     "isPhotographable": true,
     "isLocked": false,
     "mapLocation": "Legendary Onyx Wolf",
-    "type": "animal",
+    "type": "animals",
     "legendaryType": "dark",
     "spawnConditions": [{ "clear": true, "night": true }],
     "crafts": []
@@ -1636,7 +1636,7 @@
     "isPhotographable": true,
     "isLocked": false,
     "mapLocation": "Legendary Moon Beaver",
-    "type": "animal",
+    "type": "animals",
     "legendaryType": "light",
     "spawnConditions": [
       { "rain": true, "morning": true },
@@ -1667,7 +1667,7 @@
     "isPhotographable": true,
     "isLocked": false,
     "mapLocation": "Legendary Winyan Bison",
-    "type": "animal",
+    "type": "animals",
     "legendaryType": "light",
     "spawnConditions": [{ "clear": true, "night": true }],
     "crafts": []
@@ -1695,7 +1695,7 @@
     "isPhotographable": true,
     "isLocked": false,
     "mapLocation": "Legendary Snow Buck",
-    "type": "animal",
+    "type": "animals",
     "legendaryType": "light",
     "spawnConditions": [{ "clear": true, "mornging": true }],
     "crafts": []
@@ -1723,7 +1723,7 @@
     "isPhotographable": true,
     "isLocked": false,
     "mapLocation": "Legendary Iguga Cougar",
-    "type": "animal",
+    "type": "animals",
     "legendaryType": "light",
     "spawnConditions": [{ "storm": true, "evening": true }],
     "crafts": []
@@ -1751,7 +1751,7 @@
     "isPhotographable": true,
     "isLocked": false,
     "mapLocation": "Legendary Inahme Elk",
-    "type": "animal",
+    "type": "animals",
     "legendaryType": "light",
     "spawnConditions": {
       "time": {
@@ -1792,7 +1792,7 @@
     "isPhotographable": true,
     "isLocked": false,
     "mapLocation": "Legendary Moonstone Wolf",
-    "type": "animal",
+    "type": "animals",
     "legendaryType": "light",
     "spawnConditions": {
       "time": {
@@ -1833,7 +1833,7 @@
     "isPhotographable": true,
     "isLocked": false,
     "mapLocation": "Legendary Gabbro Horn Ram",
-    "type": "animal",
+    "type": "animals",
     "legendaryType": "light",
     "spawnConditions": [
       { "clear": true, "mornging": true },
@@ -1864,7 +1864,7 @@
     "isPhotographable": true,
     "isLocked": false,
     "mapLocation": "Legendary Sun Gator",
-    "type": "animal",
+    "type": "animals",
     "legendaryType": "red-blond",
     "spawnConditions": [{ "fog": true, "morning": true }],
     "crafts": []
@@ -1892,7 +1892,7 @@
     "isPhotographable": true,
     "isLocked": false,
     "mapLocation": "Legendary Banded Gator",
-    "type": "animal",
+    "type": "animals",
     "legendaryType": "red-blond",
     "spawnConditions": [{}]
   },
@@ -1919,7 +1919,7 @@
     "isPhotographable": true,
     "isLocked": false,
     "mapLocation": "Legendary Payta Bison",
-    "type": "animal",
+    "type": "animals",
     "legendaryType": "red-blond",
     "spawnConditions": {
       "time": {
@@ -1960,7 +1960,7 @@
     "isPhotographable": true,
     "isLocked": false,
     "mapLocation": "Legendary Wakpa Boar",
-    "type": "animal",
+    "type": "animals",
     "legendaryType": "red-blond",
     "spawnConditions": [{ "rain": true, "day": true }],
     "crafts": []
@@ -1988,7 +1988,7 @@
     "isPhotographable": true,
     "isLocked": false,
     "mapLocation": "Legendary Red Streak Coyote",
-    "type": "animal",
+    "type": "animals",
     "legendaryType": "red-blond",
     "spawnConditions": [
       { "clear": true, "day": true },
@@ -2025,7 +2025,7 @@
     "isPhotographable": true,
     "isLocked": false,
     "mapLocation": "Legendary Ozula Elk",
-    "type": "animal",
+    "type": "animals",
     "legendaryType": "red-blond",
     "spawnConditions": [
       { "fog": true, "night": true },
@@ -2056,7 +2056,7 @@
     "isPhotographable": true,
     "isLocked": false,
     "mapLocation": "Legendary Emerald Wolf",
-    "type": "animal",
+    "type": "animals",
     "legendaryType": "red-blond",
     "spawnConditions": [
       { "rain": true, "night": true },
@@ -2093,7 +2093,7 @@
     "isPhotographable": true,
     "isLocked": false,
     "mapLocation": "Legendary Zizi Beaver",
-    "type": "animal",
+    "type": "animals",
     "legendaryType": "red-blond",
     "spawnConditions": [
       { "clear": true, "mornging": true },
@@ -2130,7 +2130,7 @@
     "isPhotographable": true,
     "isLocked": false,
     "mapLocation": "Legendary Cogi Boar",
-    "type": "animal",
+    "type": "animals",
     "legendaryType": "red-blond",
     "spawnConditions": [{ "clear": true, "mornging": true }],
     "crafts": []
@@ -2158,7 +2158,7 @@
     "isPhotographable": true,
     "isLocked": false,
     "mapLocation": "Legendary Icahi Boar",
-    "type": "animal",
+    "type": "animals",
     "legendaryType": "patterned",
     "spawnConditions": {
       "time": {
@@ -2199,7 +2199,7 @@
     "isPhotographable": true,
     "isLocked": false,
     "mapLocation": "Legendary Mud Runner Buck",
-    "type": "animal",
+    "type": "animals",
     "legendaryType": "patterned",
     "spawnConditions": [{ "clear": true, "day": true }],
     "crafts": []
@@ -2227,7 +2227,7 @@
     "isPhotographable": true,
     "isLocked": false,
     "mapLocation": "Legendary Maza Cougar",
-    "type": "animal",
+    "type": "animals",
     "legendaryType": "patterned",
     "spawnConditions": [{ "clear": true, "mornging": true }],
     "crafts": []
@@ -2255,7 +2255,7 @@
     "isPhotographable": true,
     "isLocked": false,
     "mapLocation": "Legendary Ota Fox",
-    "type": "animal",
+    "type": "animals",
     "legendaryType": "patterned",
     "spawnConditions": [
       { "clear": true, "mornging": true },
@@ -2286,7 +2286,7 @@
     "isPhotographable": true,
     "isLocked": false,
     "mapLocation": "Legendary Marble Fox",
-    "type": "animal",
+    "type": "animals",
     "legendaryType": "patterned",
     "spawnConditions": [
       { "clear": true, "mornging": true },
@@ -2317,7 +2317,7 @@
     "isPhotographable": true,
     "isLocked": false,
     "mapLocation": "Legendary Cross Fox",
-    "type": "animal",
+    "type": "animals",
     "legendaryType": "patterned",
     "spawnConditions": [{}],
     "crafts": []
@@ -2346,7 +2346,7 @@
     "isLocked": false,
     "legendaryType": "patterned",
     "mapLocation": "Legendary Chalk Horn Ram",
-    "type": "animal",
+    "type": "animals",
     "spawnConditions": [{}],
     "crafts": []
   },
@@ -2374,7 +2374,7 @@
     "isPhotographable": true,
     "isLocked": false,
     "mapLocation": "Legendary Teca Gator",
-    "type": "animal",
+    "type": "animals",
     "legendaryType": "dark",
     "spawnConditions": [{ "storm": true, "night": true }],
     "crafts": []
@@ -2402,7 +2402,7 @@
     "isPhotographable": true,
     "isLocked": false,
     "mapLocation": "legendary-midnight-paw-coyote",
-    "type": "animal",
+    "type": "animals",
     "legendaryType": "dark",
     "spawnConditions": [
       { "clear": true, "mornging": true },
@@ -2433,7 +2433,7 @@
     "isPhotographable": true,
     "isLocked": false,
     "mapLocation": "Legendary Rutile Horn Ram",
-    "type": "animal",
+    "type": "animals",
     "legendaryType": "dark",
     "spawnConditions": {
       "time": {
@@ -2474,7 +2474,7 @@
     "isPhotographable": true,
     "isLocked": false,
     "mapLocation": "Legendary Milk Coyote",
-    "type": "animal",
+    "type": "animals",
     "legendaryType": "light",
     "spawnConditions": {
       "time": {
