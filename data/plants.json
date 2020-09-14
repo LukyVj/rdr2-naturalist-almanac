@@ -425,7 +425,7 @@
     "photoName": "yarrow.jpg",
     "thumbnailName": "yarrow.png",
     "description": null,
-    "habitat": null,
+    "habitat": false,
     "mapLocation": null,
     "type": "plant"
   }
