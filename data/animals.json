@@ -18,7 +18,8 @@
     "isPhotographable": true,
     "isLocked": false,
     "habitat": "Farmland Habitats",
-    "mapLocation": "cow"
+    "mapLocation": "cow",
+    "type": "animal"
   },
   {
     "name": "Angus Bull",
