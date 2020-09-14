@@ -2,259 +2,259 @@
   {
     "name": "Acuna's Star Orchid",
     "value": "acuna_s_star_orchid",
-    "photo": "https://vignette.wikia.nocookie.net/reddeadredemption/images/3/39/Acuna%27s-Star-Orchid_03.jpg/revision/latest/scale-to-width-down/700?cb=20190119151444",
+    "photo": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/acuna_s_star_orchid.jpg",
     "icon": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/acuna_s_star_orchid.png"
   },
   {
     "name": "Alaskan Ginseng",
     "value": "alaskan_ginseng",
-    "photo": "https://vignette.wikia.nocookie.net/reddeadredemption/images/3/32/Alaskan_Ginseng.jpg/revision/latest/scale_to-width-down/699?cb=20181229204957",
+    "photo": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/alaskan_ginseng.jpg",
     "icon": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/alaskan_ginseng.png"
   },
   {
     "name": "American Ginseng",
     "value": "american_ginseng",
-    "photo": "https://vignette.wikia.nocookie.net/reddeadredemption/images/e/e2/American_Ginseng.jpg/revision/latest/scale-to-width-down/699?cb=20181229203802",
+    "photo": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/american_ginseng.jpg",
     "icon": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/american_ginseng.png"
   },
   {
     "name": "Bay Bolete",
     "value": "bay_bolete",
-    "photo": "https://vignette.wikia.nocookie.net/reddeadredemption/images/e/ec/Bay-Bolete.jpg/revision/latest/scale-to-width-down/700?cb=20190120172050",
+    "photo": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/bay_bolete.jpg",
     "icon": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/bay_bolete.png"
   },
   {
     "name": "Blackberry",
     "value": "blackberry",
-    "photo": "https://vignette.wikia.nocookie.net/reddeadredemption/images/3/3e/Blackberry.jpg/revision/latest?cb=20181229214805",
+    "photo": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/blackberry.jpg",
     "icon": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/blackberry.png"
   },
   {
     "name": "Blackcurrant",
     "value": "blackcurrant",
-    "photo": "https://vignette.wikia.nocookie.net/reddeadredemption/images/4/4a/Blackcurrant_03.jpg/revision/latest/scale-to-width-down/700?cb=20190120173018",
+    "photo": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/blackcurrant.jpg",
     "icon": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/blackcurrant.png"
   },
   {
     "name": "Burdock Root",
     "value": "burdock_root",
-    "photo": false,
+    "photo": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/burdock_root.jpg",
     "icon": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/burdock_root.png"
   },
   {
     "name": "Chanterelles",
     "value": "chanterelles",
-    "photo": false,
+    "photo": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/chanterelles.jpg",
     "icon": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/chanterelles.png"
   },
   {
     "name": "Cigar Orchid",
     "value": "cigar_orchid",
-    "photo": false,
+    "photo": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/cigar_orchid.jpg",
     "icon": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/cigar_orchid.png"
   },
   {
     "name": "Clamshell Orchid",
     "value": "clamshell_orchid",
-    "photo": false,
+    "photo": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/clamshell_orchid.jpg",
     "icon": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/clamshell_orchid.png"
   },
   {
     "name": "Common Bulrush",
-    "value": "common-bulrush",
-    "photo": false,
+    "value": "common_bulrush",
+    "photo": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/common_bulrush.jpg",
     "icon": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/common_bulrush.png"
   },
   {
     "name": "Creeping Thyme",
     "value": "creeping_thyme",
-    "photo": false,
+    "photo": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/creeping_thyme.jpg",
     "icon": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/creeping_thyme.png"
   },
   {
     "name": "Desert Sage",
     "value": "desert_sage",
-    "photo": false,
+    "photo": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/desert_sage.jpg",
     "icon": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/desert_sage.png"
   },
   {
     "name": "Dragon's Mouth Orchid",
     "value": "dragon_s_mouth_orchid",
-    "photo": false,
+    "photo": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/dragon_s_mouth_orchid.jpg",
     "icon": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/dragon_s_mouth_orchid.png"
   },
   {
     "name": "English Mace",
     "value": "english_mace",
-    "photo": false,
+    "photo": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/english_mace.jpg",
     "icon": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/english_mace.png"
   },
   {
     "name": "Evergreen Huckleberry",
     "value": "evergreen_huckleberry",
-    "photo": false,
+    "photo": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/evergreen_huckleberry.jpg",
     "icon": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/evergreen_huckleberry.png"
   },
   {
     "name": "Ghost Orchid",
     "value": "ghost_orchid",
-    "photo": false,
+    "photo": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/ghost_orchid.jpg",
     "icon": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/ghost_orchid.png"
   },
   {
     "name": "Golden Currant",
     "value": "golden_currant",
-    "photo": false,
+    "photo": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/golden_currant.jpg",
     "icon": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/golden_currant.png"
   },
   {
     "name": "Hummingbird Sage",
     "value": "hummingbird_sage",
-    "photo": false,
+    "photo": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/hummingbird_sage.jpg",
     "icon": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/hummingbird_sage.png"
   },
   {
     "name": "Indian Tobacco",
     "value": "indian_tobacco",
-    "photo": false,
+    "photo": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/indian_tobacco.jpg",
     "icon": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/indian_tobacco.png"
   },
   {
     "name": "Lady of the Night Orchid",
     "value": "lady_of_the_night_orchid",
-    "photo": false,
+    "photo": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/lady_of_the_night_orchid.jpg",
     "icon": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/lady_of_the_night_orchid.png"
   },
   {
     "name": "Lady Slipper Orchid",
     "value": "lady_slipper_orchid",
-    "photo": false,
+    "photo": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/lady_slipper_orchid.jpg",
     "icon": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/lady_slipper_orchid.png"
   },
   {
     "name": "Milkweed",
     "value": "milkweed",
-    "photo": false,
+    "photo": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/milkweed.jpg",
     "icon": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/milkweed.png"
   },
   {
     "name": "Moccasin Orchid",
     "value": "moccasin_orchid",
-    "photo": false,
+    "photo": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/moccasin_orchid.jpg",
     "icon": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/moccasin_orchid.png"
   },
   {
     "name": "Night scented Orchid",
     "value": "night_scented_orchid",
-    "photo": false,
+    "photo": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/night_scented_orchid.jpg",
     "icon": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/night_scented_orchid.png"
   },
   {
     "name": "Oleander Sage",
     "value": "oleander_sage",
-    "photo": false,
+    "photo": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/oleander_sage.jpg",
     "icon": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/oleander_sage.png"
   },
   {
     "name": "Oregano",
     "value": "oregano",
-    "photo": false,
+    "photo": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/oregano.jpg",
     "icon": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/oregano.png"
   },
   {
     "name": "Parasol Mushroom",
     "value": "parasol-mushroom",
-    "photo": false,
+    "photo": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/parasol_mushroom.jpg",
     "icon": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/parasol_mushroom.png"
   },
   {
     "name": "Prairie Poppy",
     "value": "prairie_poppy",
-    "photo": false,
+    "photo": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/prairie_poppy.jpg",
     "icon": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/prairie_poppy.png"
   },
   {
     "name": "Queen's Orchid",
     "value": "queen_s_orchid",
-    "photo": false,
+    "photo": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/queen_s_orchid.jpg",
     "icon": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/queen_s_orchid.png"
   },
   {
     "name": "Ram's Head",
     "value": "ram_s_head",
-    "photo": false,
+    "photo": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/ram_s_head.jpg",
     "icon": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/ram_s_head.png"
   },
   {
     "name": "Rat Tail Orchid",
     "value": "rat_tail_orchid",
-    "photo": false,
+    "photo": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/rat_tail_orchid.jpg",
     "icon": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/rat_tail_orchid.png"
   },
   {
     "name": "Red Raspberry",
     "value": "red_raspberry",
-    "photo": false,
+    "photo": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/red_raspberry.jpg",
     "icon": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/red_raspberry.png"
   },
   {
     "name": "Red Sage",
     "value": "red_sage",
-    "photo": false,
+    "photo": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/red_sage.jpg",
     "icon": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/red_sage.png"
   },
   {
     "name": "Sparrow Egg Orchid",
     "value": "sparrow_egg_orchid",
-    "photo": false,
+    "photo": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/sparrow_egg_orchid.jpg",
     "icon": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/sparrow_egg_orchid.png"
   },
   {
     "name": "Spider Orchid",
     "value": "spider_orchid",
-    "photo": false,
+    "photo": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/spider_orchid.jpg",
     "icon": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/spider_orchid.png"
   },
   {
     "name": "Vanilla Flower",
     "value": "vanilla_flower",
-    "photo": false,
+    "photo": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/vanilla_flower.jpg",
     "icon": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/vanilla_flower.png"
   },
   {
     "name": "Violet Snowdrop",
     "value": "violet_snowdrop",
-    "photo": false,
+    "photo": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/violet_snowdrop.jpg",
     "icon": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/violet_snowdrop.png"
   },
   {
     "name": "Wild Carrot",
     "value": "wild_carrot",
-    "photo": false,
+    "photo": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/wild_carrot.jpg",
     "icon": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/wild_carrot.png"
   },
   {
     "name": "Wild Feverfew",
     "value": "wild_feverfew",
-    "photo": false,
+    "photo": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/wild_feverfew.jpg",
     "icon": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/wild_feverfew.png"
   },
   {
     "name": "Wild Mint",
     "value": "wild-mint",
-    "photo": false,
+    "photo": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/wild_mint.jpg",
     "icon": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/wild_mint.png"
   },
   {
     "name": "Wintergreen Berry",
     "value": "wintergreen_berry",
-    "photo": false,
+    "photo": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/wintergreen_berry.jpg",
     "icon": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/wintergreen_berry.png"
   },
   {
     "name": "Yarrow",
     "value": "yarrow",
-    "photo": false,
+    "photo": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/yarrow.jpg",
     "icon": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/yarrow.png"
   }
 ]
