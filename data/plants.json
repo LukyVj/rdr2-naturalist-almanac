@@ -2,259 +2,388 @@
   {
     "name": "Acuna's Star Orchid",
     "value": "acuna_s_star_orchid",
-    "photo": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/acuna_s_star_orchid.jpg",
-    "icon": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/acuna_s_star_orchid.png"
+    "photoName": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/acuna_s_star_orchid.jpg",
+    "thumbnailName": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/acuna_s_star_orchid.png",
+    "description": null,
+    "habitat": null,
+    "mapLocation": null
   },
   {
     "name": "Alaskan Ginseng",
     "value": "alaskan_ginseng",
-    "photo": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/alaskan_ginseng.jpg",
-    "icon": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/alaskan_ginseng.png"
+    "photoName": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/alaskan_ginseng.jpg",
+    "thumbnailName": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/alaskan_ginseng.png",
+    "description": null,
+    "habitat": null,
+    "mapLocation": null
   },
   {
     "name": "American Ginseng",
     "value": "american_ginseng",
-    "photo": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/american_ginseng.jpg",
-    "icon": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/american_ginseng.png"
+    "photoName": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/american_ginseng.jpg",
+    "thumbnailName": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/american_ginseng.png",
+    "description": null,
+    "habitat": null,
+    "mapLocation": null
   },
   {
     "name": "Bay Bolete",
     "value": "bay_bolete",
-    "photo": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/bay_bolete.jpg",
-    "icon": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/bay_bolete.png"
+    "photoName": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/bay_bolete.jpg",
+    "thumbnailName": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/bay_bolete.png",
+    "description": null,
+    "habitat": null,
+    "mapLocation": null
   },
   {
     "name": "Blackberry",
     "value": "blackberry",
-    "photo": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/blackberry.jpg",
-    "icon": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/blackberry.png"
+    "photoName": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/blackberry.jpg",
+    "thumbnailName": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/blackberry.png",
+    "description": null,
+    "habitat": null,
+    "mapLocation": null
   },
   {
     "name": "Blackcurrant",
     "value": "blackcurrant",
-    "photo": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/blackcurrant.jpg",
-    "icon": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/blackcurrant.png"
+    "photoName": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/blackcurrant.jpg",
+    "thumbnailName": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/blackcurrant.png",
+    "description": null,
+    "habitat": null,
+    "mapLocation": null
   },
   {
     "name": "Burdock Root",
     "value": "burdock_root",
-    "photo": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/burdock_root.jpg",
-    "icon": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/burdock_root.png"
+    "photoName": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/burdock_root.jpg",
+    "thumbnailName": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/burdock_root.png",
+    "description": null,
+    "habitat": null,
+    "mapLocation": null
   },
   {
     "name": "Chanterelles",
     "value": "chanterelles",
-    "photo": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/chanterelles.jpg",
-    "icon": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/chanterelles.png"
+    "photoName": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/chanterelles.jpg",
+    "thumbnailName": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/chanterelles.png",
+    "description": null,
+    "habitat": null,
+    "mapLocation": null
   },
   {
     "name": "Cigar Orchid",
     "value": "cigar_orchid",
-    "photo": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/cigar_orchid.jpg",
-    "icon": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/cigar_orchid.png"
+    "photoName": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/cigar_orchid.jpg",
+    "thumbnailName": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/cigar_orchid.png",
+    "description": null,
+    "habitat": null,
+    "mapLocation": null
   },
   {
     "name": "Clamshell Orchid",
     "value": "clamshell_orchid",
-    "photo": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/clamshell_orchid.jpg",
-    "icon": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/clamshell_orchid.png"
+    "photoName": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/clamshell_orchid.jpg",
+    "thumbnailName": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/clamshell_orchid.png",
+    "description": null,
+    "habitat": null,
+    "mapLocation": null
   },
   {
     "name": "Common Bulrush",
     "value": "common_bulrush",
-    "photo": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/common_bulrush.jpg",
-    "icon": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/common_bulrush.png"
+    "photoName": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/common_bulrush.jpg",
+    "thumbnailName": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/common_bulrush.png",
+    "description": null,
+    "habitat": null,
+    "mapLocation": null
   },
   {
     "name": "Creeping Thyme",
     "value": "creeping_thyme",
-    "photo": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/creeping_thyme.jpg",
-    "icon": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/creeping_thyme.png"
+    "photoName": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/creeping_thyme.jpg",
+    "thumbnailName": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/creeping_thyme.png",
+    "description": null,
+    "habitat": null,
+    "mapLocation": null
   },
   {
     "name": "Desert Sage",
     "value": "desert_sage",
-    "photo": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/desert_sage.jpg",
-    "icon": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/desert_sage.png"
+    "photoName": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/desert_sage.jpg",
+    "thumbnailName": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/desert_sage.png",
+    "description": null,
+    "habitat": null,
+    "mapLocation": null
   },
   {
     "name": "Dragon's Mouth Orchid",
     "value": "dragon_s_mouth_orchid",
-    "photo": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/dragon_s_mouth_orchid.jpg",
-    "icon": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/dragon_s_mouth_orchid.png"
+    "photoName": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/dragon_s_mouth_orchid.jpg",
+    "thumbnailName": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/dragon_s_mouth_orchid.png",
+    "description": null,
+    "habitat": null,
+    "mapLocation": null
   },
   {
     "name": "English Mace",
     "value": "english_mace",
-    "photo": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/english_mace.jpg",
-    "icon": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/english_mace.png"
+    "photoName": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/english_mace.jpg",
+    "thumbnailName": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/english_mace.png",
+    "description": null,
+    "habitat": null,
+    "mapLocation": null
   },
   {
     "name": "Evergreen Huckleberry",
     "value": "evergreen_huckleberry",
-    "photo": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/evergreen_huckleberry.jpg",
-    "icon": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/evergreen_huckleberry.png"
+    "photoName": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/evergreen_huckleberry.jpg",
+    "thumbnailName": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/evergreen_huckleberry.png",
+    "description": null,
+    "habitat": null,
+    "mapLocation": null
   },
   {
     "name": "Ghost Orchid",
     "value": "ghost_orchid",
-    "photo": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/ghost_orchid.jpg",
-    "icon": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/ghost_orchid.png"
+    "photoName": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/ghost_orchid.jpg",
+    "thumbnailName": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/ghost_orchid.png",
+    "description": null,
+    "habitat": null,
+    "mapLocation": null
   },
   {
     "name": "Golden Currant",
     "value": "golden_currant",
-    "photo": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/golden_currant.jpg",
-    "icon": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/golden_currant.png"
+    "photoName": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/golden_currant.jpg",
+    "thumbnailName": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/golden_currant.png",
+    "description": null,
+    "habitat": null,
+    "mapLocation": null
   },
   {
     "name": "Hummingbird Sage",
     "value": "hummingbird_sage",
-    "photo": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/hummingbird_sage.jpg",
-    "icon": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/hummingbird_sage.png"
+    "photoName": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/hummingbird_sage.jpg",
+    "thumbnailName": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/hummingbird_sage.png",
+    "description": null,
+    "habitat": null,
+    "mapLocation": null
   },
   {
     "name": "Indian Tobacco",
     "value": "indian_tobacco",
-    "photo": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/indian_tobacco.jpg",
-    "icon": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/indian_tobacco.png"
+    "photoName": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/indian_tobacco.jpg",
+    "thumbnailName": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/indian_tobacco.png",
+    "description": null,
+    "habitat": null,
+    "mapLocation": null
   },
   {
     "name": "Lady of the Night Orchid",
     "value": "lady_of_the_night_orchid",
-    "photo": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/lady_of_the_night_orchid.jpg",
-    "icon": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/lady_of_the_night_orchid.png"
+    "photoName": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/lady_of_the_night_orchid.jpg",
+    "thumbnailName": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/lady_of_the_night_orchid.png",
+    "description": null,
+    "habitat": null,
+    "mapLocation": null
   },
   {
     "name": "Lady Slipper Orchid",
     "value": "lady_slipper_orchid",
-    "photo": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/lady_slipper_orchid.jpg",
-    "icon": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/lady_slipper_orchid.png"
+    "photoName": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/lady_slipper_orchid.jpg",
+    "thumbnailName": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/lady_slipper_orchid.png",
+    "description": null,
+    "habitat": null,
+    "mapLocation": null
   },
   {
     "name": "Milkweed",
     "value": "milkweed",
-    "photo": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/milkweed.jpg",
-    "icon": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/milkweed.png"
+    "photoName": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/milkweed.jpg",
+    "thumbnailName": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/milkweed.png",
+    "description": null,
+    "habitat": null,
+    "mapLocation": null
   },
   {
     "name": "Moccasin Orchid",
     "value": "moccasin_orchid",
-    "photo": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/moccasin_orchid.jpg",
-    "icon": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/moccasin_orchid.png"
+    "photoName": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/moccasin_orchid.jpg",
+    "thumbnailName": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/moccasin_orchid.png",
+    "description": null,
+    "habitat": null,
+    "mapLocation": null
   },
   {
     "name": "Night scented Orchid",
     "value": "night_scented_orchid",
-    "photo": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/night_scented_orchid.jpg",
-    "icon": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/night_scented_orchid.png"
+    "photoName": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/night_scented_orchid.jpg",
+    "thumbnailName": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/night_scented_orchid.png",
+    "description": null,
+    "habitat": null,
+    "mapLocation": null
   },
   {
     "name": "Oleander Sage",
     "value": "oleander_sage",
-    "photo": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/oleander_sage.jpg",
-    "icon": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/oleander_sage.png"
+    "photoName": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/oleander_sage.jpg",
+    "thumbnailName": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/oleander_sage.png",
+    "description": null,
+    "habitat": null,
+    "mapLocation": null
   },
   {
     "name": "Oregano",
     "value": "oregano",
-    "photo": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/oregano.jpg",
-    "icon": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/oregano.png"
+    "photoName": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/oregano.jpg",
+    "thumbnailName": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/oregano.png",
+    "description": null,
+    "habitat": null,
+    "mapLocation": null
   },
   {
     "name": "Parasol Mushroom",
     "value": "parasol-mushroom",
-    "photo": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/parasol_mushroom.jpg",
-    "icon": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/parasol_mushroom.png"
+    "photoName": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/parasol_mushroom.jpg",
+    "thumbnailName": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/parasol_mushroom.png",
+    "description": null,
+    "habitat": null,
+    "mapLocation": null
   },
   {
     "name": "Prairie Poppy",
     "value": "prairie_poppy",
-    "photo": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/prairie_poppy.jpg",
-    "icon": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/prairie_poppy.png"
+    "photoName": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/prairie_poppy.jpg",
+    "thumbnailName": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/prairie_poppy.png",
+    "description": null,
+    "habitat": null,
+    "mapLocation": null
   },
   {
     "name": "Queen's Orchid",
     "value": "queen_s_orchid",
-    "photo": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/queen_s_orchid.jpg",
-    "icon": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/queen_s_orchid.png"
+    "photoName": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/queen_s_orchid.jpg",
+    "thumbnailName": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/queen_s_orchid.png",
+    "description": null,
+    "habitat": null,
+    "mapLocation": null
   },
   {
     "name": "Ram's Head",
     "value": "ram_s_head",
-    "photo": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/ram_s_head.jpg",
-    "icon": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/ram_s_head.png"
+    "photoName": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/ram_s_head.jpg",
+    "thumbnailName": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/ram_s_head.png",
+    "description": null,
+    "habitat": null,
+    "mapLocation": null
   },
   {
     "name": "Rat Tail Orchid",
     "value": "rat_tail_orchid",
-    "photo": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/rat_tail_orchid.jpg",
-    "icon": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/rat_tail_orchid.png"
+    "photoName": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/rat_tail_orchid.jpg",
+    "thumbnailName": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/rat_tail_orchid.png",
+    "description": null,
+    "habitat": null,
+    "mapLocation": null
   },
   {
     "name": "Red Raspberry",
     "value": "red_raspberry",
-    "photo": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/red_raspberry.jpg",
-    "icon": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/red_raspberry.png"
+    "photoName": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/red_raspberry.jpg",
+    "thumbnailName": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/red_raspberry.png",
+    "description": null,
+    "habitat": null,
+    "mapLocation": null
   },
   {
     "name": "Red Sage",
     "value": "red_sage",
-    "photo": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/red_sage.jpg",
-    "icon": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/red_sage.png"
+    "photoName": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/red_sage.jpg",
+    "thumbnailName": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/red_sage.png",
+    "description": null,
+    "habitat": null,
+    "mapLocation": null
   },
   {
     "name": "Sparrow Egg Orchid",
     "value": "sparrow_egg_orchid",
-    "photo": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/sparrow_egg_orchid.jpg",
-    "icon": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/sparrow_egg_orchid.png"
+    "photoName": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/sparrow_egg_orchid.jpg",
+    "thumbnailName": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/sparrow_egg_orchid.png",
+    "description": null,
+    "habitat": null,
+    "mapLocation": null
   },
   {
     "name": "Spider Orchid",
     "value": "spider_orchid",
-    "photo": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/spider_orchid.jpg",
-    "icon": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/spider_orchid.png"
+    "photoName": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/spider_orchid.jpg",
+    "thumbnailName": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/spider_orchid.png",
+    "description": null,
+    "habitat": null,
+    "mapLocation": null
   },
   {
     "name": "Vanilla Flower",
     "value": "vanilla_flower",
-    "photo": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/vanilla_flower.jpg",
-    "icon": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/vanilla_flower.png"
+    "photoName": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/vanilla_flower.jpg",
+    "thumbnailName": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/vanilla_flower.png",
+    "description": null,
+    "habitat": null,
+    "mapLocation": null
   },
   {
     "name": "Violet Snowdrop",
     "value": "violet_snowdrop",
-    "photo": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/violet_snowdrop.jpg",
-    "icon": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/violet_snowdrop.png"
+    "photoName": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/violet_snowdrop.jpg",
+    "thumbnailName": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/violet_snowdrop.png",
+    "description": null,
+    "habitat": null,
+    "mapLocation": null
   },
   {
     "name": "Wild Carrot",
     "value": "wild_carrot",
-    "photo": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/wild_carrot.jpg",
-    "icon": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/wild_carrot.png"
+    "photoName": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/wild_carrot.jpg",
+    "thumbnailName": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/wild_carrot.png",
+    "description": null,
+    "habitat": null,
+    "mapLocation": null
   },
   {
     "name": "Wild Feverfew",
     "value": "wild_feverfew",
-    "photo": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/wild_feverfew.jpg",
-    "icon": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/wild_feverfew.png"
+    "photoName": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/wild_feverfew.jpg",
+    "thumbnailName": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/wild_feverfew.png",
+    "description": null,
+    "habitat": null,
+    "mapLocation": null
   },
   {
     "name": "Wild Mint",
     "value": "wild-mint",
-    "photo": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/wild_mint.jpg",
-    "icon": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/wild_mint.png"
+    "photoName": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/wild_mint.jpg",
+    "thumbnailName": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/wild_mint.png",
+    "description": null,
+    "habitat": null,
+    "mapLocation": null
   },
   {
     "name": "Wintergreen Berry",
     "value": "wintergreen_berry",
-    "photo": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/wintergreen_berry.jpg",
-    "icon": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/wintergreen_berry.png"
+    "photoName": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/wintergreen_berry.jpg",
+    "thumbnailName": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/wintergreen_berry.png",
+    "description": null,
+    "habitat": null,
+    "mapLocation": null
   },
   {
     "name": "Yarrow",
     "value": "yarrow",
-    "photo": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/yarrow.jpg",
-    "icon": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/yarrow.png"
+    "photoName": "https://lukyvj.github.iordr2-naturalist-almanac/plants/photos/yarrow.jpg",
+    "thumbnailName": "https://lukyvj.github.io/rdr2-naturalist-almanac/plants/icons/yarrow.png",
+    "description": null,
+    "habitat": null,
+    "mapLocation": null
   }
 ]
