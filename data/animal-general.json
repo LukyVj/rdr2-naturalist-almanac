@@ -1,0 +1,23 @@
+[
+  {
+    "name": "American Domestic Cat",
+    "englishName": "American Domestic Cat",
+    "description": "The American Domestic Cat can be found on ranches and in towns across the states. Though carnivorous in nature, the domesticated cat will consume oatmeal porridge, and bread soaked in milk. Cats make good household pets as they can deal with pest problems within their environment.",
+    "otherDesc": "Cats make good household pets as they can maintain any pest problems within their environment.",
+    "thumbnailName": "animals/icons/ANIMALS_CAT",
+    "photoName": "animals/photos/ANIMALS_CAT_PHOTO",
+    "isLegendary": false,
+    "isNaturalist": false,
+    "isKillable": true,
+    "isSkinnable": true,
+    "isCollectable": false,
+    "isTrackable": false,
+    "isSedatable": true,
+    "isSamplable": true,
+    "isPhotographable": true,
+    "isLocked": false,
+    "habitat": "",
+    "mapLocation": "baddger",
+    "type": "animal-general"
+  }
+]
