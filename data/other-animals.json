@@ -16,8 +16,8 @@
     "isSamplable": true,
     "isPhotographable": true,
     "isLocked": false,
-    "habitat": "Farmland Habitats",
-    "mapLocation": "cow",
+    "habitat": "",
+    "mapLocation": "baddger",
     "type": "animals-other"
   }
 ]
