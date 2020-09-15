@@ -1,0 +1,23 @@
+[
+  {
+    "name": "American Badger",
+    "englishName": "American Badger",
+    "description": "The American Badger can be found across the more arid climates of America. It is a fossorial carnivore, preying on squirrels, moles, prairie dogs and voles. Using a Varmint Rifle whilst hunting should result in a clean kill. Badger claws and pelts can be used for crafting, and badger meat can be eaten.",
+    "otherDesc": "Yields a pelt, claws and stringy meat. Used in crafting and cooking or can be sold. Use a Varmint Rifle for a clean kill.",
+    "thumbnailName": "animals/icons/CMPNDM_ANIMALS/ANIMAL_BADGER",
+    "photoName": "animals/photos/ANIMALS_BADGER_PHOTO",
+    "isLegendary": false,
+    "isNaturalist": false,
+    "isKillable": true,
+    "isSkinnable": true,
+    "isCollectable": false,
+    "isTrackable": false,
+    "isSedatable": true,
+    "isSamplable": true,
+    "isPhotographable": true,
+    "isLocked": false,
+    "habitat": "Farmland Habitats",
+    "mapLocation": "cow",
+    "type": "animals-other"
+  }
+]
