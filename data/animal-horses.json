@@ -1,13 +1,7 @@
 [
     {
-    "id": "2798",
-    "lang": "en-GB",
-    "hits": 3,
     "name": "Piebald Gypsy Cob",
     "photoName": "https://www.gtabase.com/igallery/6901-7000/RDR2_GypsyCob_PiebaldGypsyCob-6937-360.jpg",
-    "catid": "34",
-    "slug": "2798:piebald-gypsy-cob",
-    "catslug": "34",
     "attr": {
       "handling0": {
         "value": ["gypsy-cob-horse"],
@@ -105,19 +99,11 @@
         "type": "range"
       }
     },
-    "featured": "0",
-    "access": "1",
     "type":"animal-horses"
   },
   {
-    "id": "2797",
-    "lang": "en-GB",
-    "hits": 3,
     "name": "White Blagdon Gypsy Cob",
     "photoName": "https://www.gtabase.com/igallery/6901-7000/RDR2_GypsyCob_WhiteBlagdonGypsyCob-6938-360.jpg",
-    "catid": "34",
-    "slug": "2797:white-blagdon-gypsy-cob",
-    "catslug": "34",
     "attr": {
       "handling0": {
         "value": ["gypsy-cob-horse"],
@@ -215,19 +201,11 @@
         "type": "range"
       }
     },
-    "featured": "0",
-    "access": "1",
     "type":"animal-horses"
   },
   {
-    "id": "2796",
-    "lang": "en-GB",
-    "hits": 5,
     "name": "Palomino Blagdon Gypsy Cob",
     "photoName": "https://www.gtabase.com/igallery/6901-7000/RDR2_GypsyCob_PalominoBlagdonGypsyCob-6935-360.jpg",
-    "catid": "34",
-    "slug": "2796:palomino-blagdon-gypsy-cob",
-    "catslug": "34",
     "attr": {
       "handling0": {
         "value": ["gypsy-cob-horse"],
@@ -325,19 +303,11 @@
         "type": "range"
       }
     },
-    "featured": "0",
-    "access": "1",
     "type":"animal-horses"
   },
   {
-    "id": "2795",
-    "lang": "en-GB",
-    "hits": 4,
     "name": "Skewbald Gypsy Cob",
     "photoName": "https://www.gtabase.com/igallery/6901-7000/RDR2_GypsyCob_SkewbaldGypsyCob-6936-360.jpg",
-    "catid": "34",
-    "slug": "2795:skewbald-gypsy-cob",
-    "catslug": "34",
     "attr": {
       "handling0": {
         "value": ["gypsy-cob-horse"],
@@ -435,19 +405,11 @@
         "type": "range"
       }
     },
-    "featured": "0",
-    "access": "1",
     "type":"animal-horses"
   },
   {
-    "id": "2794",
-    "lang": "en-GB",
-    "hits": 4,
     "name": "Splashed Piebald Gypsy Cob",
     "photoName": "https://www.gtabase.com/igallery/6901-7000/RDR2_GypsyCob_SplashedPiebaldGypsyCob-6933-360.jpg",
-    "catid": "34",
-    "slug": "2794:splashed-piebald-gypsy-cob",
-    "catslug": "34",
     "attr": {
       "handling0": {
         "value": ["gypsy-cob-horse"],
@@ -545,19 +507,11 @@
         "type": "range"
       }
     },
-    "featured": "0",
-    "access": "1",
     "type":"animal-horses"
   },
   {
-    "id": "2793",
-    "lang": "en-GB",
-    "hits": 4,
     "name": "Splashed Bay Gypsy Cob",
     "photoName": "https://www.gtabase.com/igallery/6901-7000/RDR2_GypsyCob_SplashedBayGypsyCob-6934-360.jpg",
-    "catid": "34",
-    "slug": "2793:splashed-bay-gypsy-cob",
-    "catslug": "34",
     "attr": {
       "handling0": {
         "value": ["gypsy-cob-horse"],
@@ -655,19 +609,11 @@
         "type": "range"
       }
     },
-    "featured": "0",
-    "access": "1",
     "type":"animal-horses"
   },
   {
-    "id": "2450",
-    "lang": "en-GB",
-    "hits": 11318,
     "name": "Spotted Tricolor Norfolk Roadster",
     "photoName": "https://www.gtabase.com/igallery/6901-7000/RDR2_NorfolkRoadster_SpottedTricolorNorfolkRoadster-6940-360.jpg",
-    "catid": "34",
-    "slug": "2450:dappled-buckskin-norfolk-roadster-2",
-    "catslug": "34",
     "attr": {
       "handling0": {
         "value": ["norfolk-roadster"],
@@ -765,19 +711,11 @@
         "type": "multiple"
       }
     },
-    "featured": "0",
-    "access": "1",
     "type":"animal-horses"
   },
   {
-    "id": "2449",
-    "lang": "en-GB",
-    "hits": 7041,
     "name": "Dappled Buckskin Norfolk Roadster",
     "photoName": "https://www.gtabase.com/igallery/6901-7000/RDR2_NorfolkRoadster_DappledBuckskinNorfolkRoadster-6939-360.jpg",
-    "catid": "34",
-    "slug": "2449:dappled-buckskin-norfolk-roadster",
-    "catslug": "34",
     "attr": {
       "handling0": {
         "value": ["norfolk-roadster"],
@@ -875,19 +813,11 @@
         "type": "multiple"
       }
     },
-    "featured": "0",
-    "access": "1",
     "type":"animal-horses"
   },
   {
-    "id": "2448",
-    "lang": "en-GB",
-    "hits": 2296,
     "name": "Rose Grey Norfolk Roadster",
     "photoName": "https://www.gtabase.com/igallery/6901-7000/RDR2_NorfolkRoadster_RoseGreyNorfolkRoadster-6942-360.jpg",
-    "catid": "34",
-    "slug": "2448:rose-grey-norfolk-roadster",
-    "catslug": "34",
     "attr": {
       "handling0": {
         "value": ["norfolk-roadster"],
@@ -985,19 +915,11 @@
         "type": "multiple"
       }
     },
-    "featured": "0",
-    "access": "1",
     "type":"animal-horses"
   },
   {
-    "id": "2447",
-    "lang": "en-GB",
-    "hits": 2573,
     "name": "Piebaldo Roan Norfolk Roadster",
     "photoName": "https://www.gtabase.com/igallery/6901-7000/RDR2_NorfolkRoadster_PiebaldoRoanNorfolkRoadster-6941-360.jpg",
-    "catid": "34",
-    "slug": "2447:piebaldo-roan-norfolk-roadster",
-    "catslug": "34",
     "attr": {
       "handling0": {
         "value": ["norfolk-roadster"],
@@ -1095,19 +1017,11 @@
         "type": "multiple"
       }
     },
-    "featured": "0",
-    "access": "1",
     "type":"animal-horses"
   },
   {
-    "id": "2446",
-    "lang": "en-GB",
-    "hits": 3205,
     "name": "Black Norfolk Roadster",
     "photoName": "https://www.gtabase.com/igallery/6901-7000/RDR2_NorfolkRoadster_BlackNorfolkRoadster-6944-360.jpg",
-    "catid": "34",
-    "slug": "2446:black-norfolk-roadster",
-    "catslug": "34",
     "attr": {
       "handling0": {
         "value": ["norfolk-roadster"],
@@ -1205,19 +1119,11 @@
         "type": "multiple"
       }
     },
-    "featured": "0",
-    "access": "1",
     "type":"animal-horses"
   },
   {
-    "id": "2445",
-    "lang": "en-GB",
-    "hits": 3987,
     "name": "Speckled Grey Norfolk Roadster",
     "photoName": "https://www.gtabase.com/igallery/6901-7000/RDR2_NorfolkRoadster_SpeckledGreyNorfolkRoadster-6943-360.jpg",
-    "catid": "34",
-    "slug": "2445:speckled-grey-norfolk-roadster",
-    "catslug": "34",
     "attr": {
       "handling0": {
         "value": ["norfolk-roadster"],
@@ -1315,19 +1221,11 @@
         "type": "multiple"
       }
     },
-    "featured": "0",
-    "access": "1",
     "type":"animal-horses"
   },
   {
-    "id": "2337",
-    "lang": "en-GB",
-    "hits": 5662,
     "name": "Gold Palomino Tennessee Walker",
     "photoName": "https://www.gtabase.com/igallery/4201-4300/RDR2_Horses_TennesseeWalker_GoldPalominoTennesseeWalker-4227-360.jpg",
-    "catid": "34",
-    "slug": "2337:gold-palomino-tennessee-walker",
-    "catslug": "34",
     "attr": {
       "handling0": {
         "value": ["tennessee-walker"],
@@ -1435,19 +1333,11 @@
         "type": "multiple"
       }
     },
-    "featured": "0",
-    "access": "1",
     "type":"animal-horses"
   },
   {
-    "id": "2336",
-    "lang": "en-GB",
-    "hits": 5320,
     "name": "Liver Chestnut Morgan Horse",
     "photoName": "https://www.gtabase.com/igallery/4201-4300/RDR2_Horses_Morgan_LiverChestnutMorgan-4228-360.jpg",
-    "catid": "34",
-    "slug": "2336:liver-chestnut-morgan-horse",
-    "catslug": "34",
     "attr": {
       "handling0": {
         "value": ["morgan-horse"],
@@ -1555,19 +1445,11 @@
         "type": "multiple"
       }
     },
-    "featured": "0",
-    "access": "1",
     "type":"animal-horses"
   },
   {
-    "id": "2335",
-    "lang": "en-GB",
-    "hits": 10079,
     "name": "Buttermilk Buckskin Kentucky Saddler",
     "photoName": "https://www.gtabase.com/igallery/4201-4300/RDR2_Horses_ButtermilkBuckskinKentuckySaddler-4226-360.jpg",
-    "catid": "34",
-    "slug": "2335:buttermilk-buckskin-kentucky-saddler",
-    "catslug": "34",
     "attr": {
       "handling0": {
         "value": ["kentucky-saddler"],
@@ -1675,19 +1557,11 @@
         "type": "multiple"
       }
     },
-    "featured": "0",
-    "access": "1",
     "type":"animal-horses"
   },
   {
-    "id": "2334",
-    "lang": "en-GB",
-    "hits": 15771,
     "name": "Few Spots Appaloosa",
     "photoName": "https://www.gtabase.com/igallery/4201-4300/RDR2_Horses_Appaloosa_FewSpotsAppaloosa-4225-360.jpg",
-    "catid": "34",
-    "slug": "2334:few-spots-appaloosa",
-    "catslug": "34",
     "attr": {
       "handling0": {
         "value": ["appaloosa"],
@@ -1795,19 +1669,11 @@
         "type": "multiple"
       }
     },
-    "featured": "0",
-    "access": "1",
     "type":"animal-horses"
   },
   {
-    "id": "2333",
-    "lang": "en-GB",
-    "hits": 20792,
     "name": "Warped Brindle Arabian Horse",
     "photoName": "https://www.gtabase.com/igallery/4201-4300/RDR2_Horses_ArabianHorse_WarpedBrindleArabian_2-4222-360.jpg",
-    "catid": "34",
-    "slug": "2333:warped-brindle-arabian-horse",
-    "catslug": "34",
     "attr": {
       "handling0": {
         "value": ["arabian-horse"],
@@ -1915,19 +1781,11 @@
         "type": "multiple"
       }
     },
-    "featured": "0",
-    "access": "1",
     "type":"animal-horses"
   },
   {
-    "id": "2288",
-    "lang": "en-GB",
-    "hits": 20034,
     "name": "Dapple Rose Grey Kladruber",
     "photoName": "https://www.gtabase.com/igallery/6901-7000/RDR2_Kladbruber_DappleRoseGreyKladbruber-6945-360.jpg",
-    "catid": "34",
-    "slug": "2288:dapple-rose-grey-kladruber",
-    "catslug": "34",
     "attr": {
       "handling0": {
         "value": ["kladruber"],
@@ -2025,19 +1883,11 @@
         "type": "multiple"
       }
     },
-    "featured": "0",
-    "access": "1",
     "type":"animal-horses"
   },
   {
-    "id": "2287",
-    "lang": "en-GB",
-    "hits": 11435,
     "name": "Silver Kladruber",
     "photoName": "https://www.gtabase.com/igallery/6901-7000/RDR2_Kladbruber_SilverKladbruber-6946-360.jpg",
-    "catid": "34",
-    "slug": "2287:silver-kladruber",
-    "catslug": "34",
     "attr": {
       "handling0": {
         "value": ["kladruber"],
@@ -2135,19 +1985,11 @@
         "type": "multiple"
       }
     },
-    "featured": "0",
-    "access": "1",
     "type":"animal-horses"
   },
   {
-    "id": "2286",
-    "lang": "en-GB",
-    "hits": 6604,
     "name": "Cremello Kladruber",
     "photoName": "https://www.gtabase.com/igallery/6901-7000/RDR2_Kladbruber_CremelloKladbruber-6947-360.jpg",
-    "catid": "34",
-    "slug": "2286:cremello-kladruber",
-    "catslug": "34",
     "attr": {
       "handling0": {
         "value": ["kladruber"],
@@ -2245,19 +2087,11 @@
         "type": "multiple"
       }
     },
-    "featured": "0",
-    "access": "1",
     "type":"animal-horses"
   },
   {
-    "id": "2285",
-    "lang": "en-GB",
-    "hits": 3890,
     "name": "Grey Kladruber",
     "photoName": "https://www.gtabase.com/igallery/6901-7000/RDR2_Kladbruber_GreyKladbruber-6948-360.jpg",
-    "catid": "34",
-    "slug": "2285:grey-kladruber",
-    "catslug": "34",
     "attr": {
       "handling0": {
         "value": ["kladruber"],
@@ -2355,19 +2189,11 @@
         "type": "multiple"
       }
     },
-    "featured": "0",
-    "access": "1",
     "type":"animal-horses"
   },
   {
-    "id": "2284",
-    "lang": "en-GB",
-    "hits": 5782,
     "name": "White Kladruber",
     "photoName": "https://www.gtabase.com/igallery/6901-7000/RDR2_Kladbruber_WhiteKladbruber-6949-360.jpg",
-    "catid": "34",
-    "slug": "2284:white-kladruber",
-    "catslug": "34",
     "attr": {
       "handling0": {
         "value": ["kladruber"],
@@ -2465,19 +2291,11 @@
         "type": "multiple"
       }
     },
-    "featured": "0",
-    "access": "1",
     "type":"animal-horses"
   },
   {
-    "id": "2283",
-    "lang": "en-GB",
-    "hits": 15867,
     "name": "Black Kladruber",
     "photoName": "https://www.gtabase.com/igallery/6901-7000/RDR2_Kladbruber_BlackKladbruber-6950-360.jpg",
-    "catid": "34",
-    "slug": "2283:black-kladruber",
-    "catslug": "34",
     "attr": {
       "handling0": {
         "value": ["kladruber"],
@@ -2575,19 +2393,11 @@
         "type": "multiple"
       }
     },
-    "featured": "0",
-    "access": "1",
     "type":"animal-horses"
   },
   {
-    "id": "2282",
-    "lang": "en-GB",
-    "hits": 20019,
     "name": "Marble Sabino Criollo",
     "photoName": "https://www.gtabase.com/igallery/6901-7000/RDR2_Criollo_MarbleSabinoCriollo-6951-360.jpg",
-    "catid": "34",
-    "slug": "2282:marble-sabino-criollo",
-    "catslug": "34",
     "attr": {
       "handling0": {
         "value": ["criollo"],
@@ -2685,19 +2495,11 @@
         "type": "multiple"
       }
     },
-    "featured": "0",
-    "access": "1",
     "type":"animal-horses"
   },
   {
-    "id": "2281",
-    "lang": "en-GB",
-    "hits": 11996,
     "name": "Bay Frame Overo Criollo",
     "photoName": "https://www.gtabase.com/igallery/6901-7000/RDR2_Criollo_BayFrameOveroCriollo-6952-360.jpg",
-    "catid": "34",
-    "slug": "2281:bay-frame-overo-criollo",
-    "catslug": "34",
     "attr": {
       "handling0": {
         "value": ["criollo"],
@@ -2795,19 +2597,11 @@
         "type": "multiple"
       }
     },
-    "featured": "0",
-    "access": "1",
     "type":"animal-horses"
   },
   {
-    "id": "2280",
-    "lang": "en-GB",
-    "hits": 6085,
     "name": "Bay Brindle Criollo",
     "photoName": "https://www.gtabase.com/igallery/6901-7000/RDR2_Criollo_BayBrindleCriollo-6953-360.jpg",
-    "catid": "34",
-    "slug": "2280:bay-brindle-criollo",
-    "catslug": "34",
     "attr": {
       "handling0": {
         "value": ["criollo"],
@@ -2905,19 +2699,11 @@
         "type": "multiple"
       }
     },
-    "featured": "0",
-    "access": "1",
     "type":"animal-horses"
   },
   {
-    "id": "2279",
-    "lang": "en-GB",
-    "hits": 6198,
     "name": "Sorrel Overo Criollo",
     "photoName": "https://www.gtabase.com/igallery/6901-7000/RDR2_Criollo_SorrelOveroCriollo-6954-360.jpg",
-    "catid": "34",
-    "slug": "2279:sorrel-overo-criollo",
-    "catslug": "34",
     "attr": {
       "handling0": {
         "value": ["criollo"],
@@ -3015,19 +2801,11 @@
         "type": "multiple"
       }
     },
-    "featured": "0",
-    "access": "1",
     "type":"animal-horses"
   },
   {
-    "id": "2278",
-    "lang": "en-GB",
-    "hits": 5537,
     "name": "Blue Roan Overo Criollo",
     "photoName": "https://www.gtabase.com/igallery/6901-7000/RDR2_Criollo_BlueRoanOveroCriollo-6955-360.jpg",
-    "catid": "34",
-    "slug": "2278:blue-roan-overo-criollo",
-    "catslug": "34",
     "attr": {
       "handling0": {
         "value": ["criollo"],
@@ -3125,19 +2903,11 @@
         "type": "multiple"
       }
     },
-    "featured": "0",
-    "access": "1",
     "type":"animal-horses"
   },
   {
-    "id": "2277",
-    "lang": "en-GB",
-    "hits": 10378,
     "name": "Dun Criollo",
     "photoName": "https://www.gtabase.com/igallery/6901-7000/RDR2_Criollo_DunCriollo-6956-360.jpg",
-    "catid": "34",
-    "slug": "2277:dun-criollo",
-    "catslug": "34",
     "attr": {
       "handling0": {
         "value": ["criollo"],
@@ -3235,19 +3005,11 @@
         "type": "multiple"
       }
     },
-    "featured": "0",
-    "access": "1",
     "type":"animal-horses"
   },
   {
-    "id": "2276",
-    "lang": "en-GB",
-    "hits": 16901,
     "name": "Steel Grey Breton",
     "photoName": "https://www.gtabase.com/igallery/6901-7000/RDR2_Breton_SteelGreyBreton-6962-360.jpg",
-    "catid": "34",
-    "slug": "2276:steel-grey-breton",
-    "catslug": "34",
     "attr": {
       "handling0": {
         "value": ["breton"],
@@ -3345,19 +3107,11 @@
         "type": "multiple"
       }
     },
-    "featured": "0",
-    "access": "1",
     "type":"animal-horses"
   },
   {
-    "id": "2275",
-    "lang": "en-GB",
-    "hits": 9100,
     "name": "Mealy Dapple Breton",
     "photoName": "https://www.gtabase.com/igallery/6901-7000/RDR2_Breton_MealyDappleBreton-6957-360.jpg",
-    "catid": "34",
-    "slug": "2275:mealy-dapple-breton",
-    "catslug": "34",
     "attr": {
       "handling0": {
         "value": ["breton"],
@@ -3455,19 +3209,11 @@
         "type": "multiple"
       }
     },
-    "featured": "0",
-    "access": "1",
     "type":"animal-horses"
   },
   {
-    "id": "2274",
-    "lang": "en-GB",
-    "hits": 8963,
     "name": "Seal Brown Breton",
     "photoName": "https://www.gtabase.com/igallery/6901-7000/RDR2_Breton_SealBrownBreton-6958-360.jpg",
-    "catid": "34",
-    "slug": "2274:seal-brown-breton",
-    "catslug": "34",
     "attr": {
       "handling0": {
         "value": ["breton"],
@@ -3565,19 +3311,11 @@
         "type": "multiple"
       }
     },
-    "featured": "0",
-    "access": "1",
     "type":"animal-horses"
   },
   {
-    "id": "2273",
-    "lang": "en-GB",
-    "hits": 5495,
     "name": "Grullo Dun Breton",
     "photoName": "https://www.gtabase.com/igallery/6901-7000/RDR2_Breton_GrulloDunBreton-6959-360.jpg",
-    "catid": "34",
-    "slug": "2273:grullo-dun-breton",
-    "catslug": "34",
     "attr": {
       "handling0": {
         "value": ["breton"],
@@ -3675,19 +3413,11 @@
         "type": "multiple"
       }
     },
-    "featured": "0",
-    "access": "1",
     "type":"animal-horses"
   },
   {
-    "id": "2272",
-    "lang": "en-GB",
-    "hits": 6793,
     "name": "Sorrel Breton",
     "photoName": "https://www.gtabase.com/igallery/6901-7000/RDR2_Breton_SorrelBreton-6960-360.jpg",
-    "catid": "34",
-    "slug": "2272:sorrel-breton",
-    "catslug": "34",
     "attr": {
       "handling0": {
         "value": ["breton"],
@@ -3785,19 +3515,11 @@
         "type": "multiple"
       }
     },
-    "featured": "0",
-    "access": "1",
     "type":"animal-horses"
   },
   {
-    "id": "2271",
-    "lang": "en-GB",
-    "hits": 7712,
     "name": "Red Roan Breton",
     "photoName": "https://www.gtabase.com/igallery/6901-7000/RDR2_Breton_RedRoanBreton-6961-360.jpg",
-    "catid": "34",
-    "slug": "2271:red-roan-breton",
-    "catslug": "34",
     "attr": {
       "handling0": {
         "value": ["breton"],
@@ -3895,19 +3617,11 @@
         "type": "multiple"
       }
     },
-    "featured": "0",
-    "access": "1",
     "type":"animal-horses"
   },
   {
-    "id": "2138",
-    "lang": "en-GB",
-    "hits": 34148,
     "name": "Perlino Andalusian Horse",
     "photoName": "https://www.gtabase.com/igallery/4001-4100/RDR2_Horses_AndalusianHorse_PerlinoAndalusianHorse_1-4097-360.jpg",
-    "catid": "34",
-    "slug": "2138:perlino-andalusian-horse",
-    "catslug": "34",
     "attr": {
       "handling0": {
         "value": ["andalusian-horse"],
@@ -4017,19 +3731,11 @@
         "type": "multiple"
       }
     },
-    "featured": "0",
-    "access": "1",
     "type":"animal-horses"
   },
   {
-    "id": "1557",
-    "lang": "en-GB",
-    "hits": 62465,
     "name": "Seal Brown Thoroughbred (Rachel)",
     "photoName": "https://www.gtabase.com/igallery/3101-3200/RDR2_Horses_Thoroughbred_SealBrownThoroughbred-3101-360.jpg",
-    "catid": "34",
-    "slug": "1557:seal-brown-thoroughbred",
-    "catslug": "34",
     "attr": {
       "handling0": {
         "value": ["thoroughbred"],
@@ -4131,19 +3837,11 @@
         "type": "date"
       }
     },
-    "featured": "0",
-    "access": "1",
     "type":"animal-horses"
   },
   {
-    "id": "1556",
-    "lang": "en-GB",
-    "hits": 69875,
     "name": "Cremello Gold Dutch Warmblood (Buell)",
     "photoName": "https://www.gtabase.com/igallery/3001-3100/RDR2_Horses_DutchWarmblood_CremelloGoldDutchWarmblood_2-3076-360.jpg",
-    "catid": "34",
-    "slug": "1556:cremello-dutch-warmblood",
-    "catslug": "34",
     "attr": {
       "handling0": {
         "value": ["dutch-warmblood"],
@@ -4245,19 +3943,11 @@
         "type": "multiple"
       }
     },
-    "featured": "0",
-    "access": "1",
     "type":"animal-horses"
   },
   {
-    "id": "1550",
-    "lang": "en-GB",
-    "hits": 30516,
     "name": "Dapple Grey Thoroughbred",
     "photoName": "https://www.gtabase.com/igallery/3201-3300/RDR2_Horses_Thoroughbred_DappleGreyThoroughbred_2-3216-360.jpg",
-    "catid": "34",
-    "slug": "1550:dapple-grey-thoroughbred",
-    "catslug": "34",
     "attr": {
       "ct5": {
         "value": ["all"],
@@ -4365,19 +4055,11 @@
         "type": "value"
       }
     },
-    "featured": "0",
-    "access": "1",
     "type":"animal-horses"
   },
   {
-    "id": "1549",
-    "lang": "en-GB",
-    "hits": 22275,
     "name": "White Roan Nokota Horse",
     "photoName": "https://www.gtabase.com/igallery/3101-3200/RDR2_Horses_NokotaHorse_WhiteRoanNokotaHorse_1-3191-360.jpg",
-    "catid": "34",
-    "slug": "1549:white-roan-nokota-horse",
-    "catslug": "34",
     "attr": {
       "ct5": {
         "value": ["all"],
@@ -4485,19 +4167,11 @@
         "type": "value"
       }
     },
-    "featured": "0",
-    "access": "1",
     "type":"animal-horses"
   },
   {
-    "id": "1548",
-    "lang": "en-GB",
-    "hits": 30322,
     "name": "Wild Bay Mustang",
     "photoName": "https://www.gtabase.com/igallery/3101-3200/RDR2_Horses_Mustang_WildBayMustang_2-3186-360.jpg",
-    "catid": "34",
-    "slug": "1548:wild-bay-mustang",
-    "catslug": "34",
     "attr": {
       "ct5": {
         "value": ["all"],
@@ -4605,19 +4279,11 @@
         "type": "value"
       }
     },
-    "featured": "0",
-    "access": "1",
     "type":"animal-horses"
   },
   {
-    "id": "1547",
-    "lang": "en-GB",
-    "hits": 35049,
     "name": "Grullo Dun Mustang",
     "photoName": "https://www.gtabase.com/igallery/3101-3200/RDR2_Horses_Mustang_GrulloDunMustang_1-3181-360.jpg",
-    "catid": "34",
-    "slug": "1547:grullo-dun-mustang",
-    "catslug": "34",
     "attr": {
       "ct5": {
         "value": ["all"],
@@ -4725,19 +4391,11 @@
         "type": "value"
       }
     },
-    "featured": "0",
-    "access": "1",
     "type":"animal-horses"
   },
   {
-    "id": "1546",
-    "lang": "en-GB",
-    "hits": 16927,
     "name": "Flaxen Chestnut Hungarian Halfbred",
     "photoName": "https://www.gtabase.com/igallery/2301-2400/RDR2_Wildlife_Screenshot_05-2386-360.jpg",
-    "catid": "34",
-    "slug": "1546:flaxen-chestnut-hungarian-halfbred",
-    "catslug": "34",
     "attr": {
       "ct5": {
         "value": ["all"],
@@ -4845,19 +4503,11 @@
         "type": "value"
       }
     },
-    "featured": "0",
-    "access": "1",
     "type":"animal-horses"
   },
   {
-    "id": "1545",
-    "lang": "en-GB",
-    "hits": 19644,
     "name": "Leopard Blanket Appaloosa",
     "photoName": "https://www.gtabase.com/igallery/3101-3200/RDR2_Horses_Appaloosa_LeopardBlanketAppaloosa_2-3136-360.jpg",
-    "catid": "34",
-    "slug": "1545:leopard-blanket-appaloosa",
-    "catslug": "34",
     "attr": {
       "ct5": {
         "value": ["all"],
@@ -4965,19 +4615,11 @@
         "type": "value"
       }
     },
-    "featured": "0",
-    "access": "1",
     "type":"animal-horses"
   },
   {
-    "id": "1544",
-    "lang": "en-GB",
-    "hits": 25277,
     "name": "Buckskin American Standardbred",
     "photoName": "https://www.gtabase.com/igallery/2601-2700/RDR2_Horses_AmericanStandardbred_BuckskinAmericanStandardbred-2647-360.jpg",
-    "catid": "34",
-    "slug": "1544:buckskin-american-standardbred",
-    "catslug": "34",
     "attr": {
       "ct5": {
         "value": ["all"],
@@ -5085,19 +4727,11 @@
         "type": "value"
       }
     },
-    "featured": "0",
-    "access": "1",
     "type":"animal-horses"
   },
   {
-    "id": "1543",
-    "lang": "en-GB",
-    "hits": 18153,
     "name": "Tobiano American Paint Horse",
     "photoName": "https://www.gtabase.com/https://www.gtabase.com/igallery/3401-3500/RDR2_Horses_AmericanPaintHorse_TobianoAmericanPaintHorse-3485-360.jpg",
-    "catid": "34",
-    "slug": "1543:tobiano-american-paint-horse",
-    "catslug": "34",
     "attr": {
       "ct5": {
         "value": ["all"],
@@ -5205,19 +4839,11 @@
         "type": "value"
       }
     },
-    "featured": "0",
-    "access": "1",
     "type":"animal-horses"
   },
   {
-    "id": "1542",
-    "lang": "en-GB",
-    "hits": 38425,
     "name": "Blood Bay Thoroughbred",
     "photoName": "https://www.gtabase.com/igallery/3201-3300/RDR2_Horses_Thoroughbred_BloodBayThoroughbred_1-3211-360.jpg",
-    "catid": "34",
-    "slug": "1542:blood-bay-thoroughbred",
-    "catslug": "34",
     "attr": {
       "ct5": {
         "value": ["all"],
@@ -5325,19 +4951,11 @@
         "type": "value"
       }
     },
-    "featured": "0",
-    "access": "1",
     "type":"animal-horses"
   },
   {
-    "id": "1541",
-    "lang": "en-GB",
-    "hits": 30418,
     "name": "Blue Roan Nokota Horse",
     "photoName": "https://www.gtabase.com/igallery/3101-3200/RDR2_Horses_NokotaHorse_BlueRoanNokotaHorse_1-3187-360.jpg",
-    "catid": "34",
-    "slug": "1541:blue-roan-nokota-horse",
-    "catslug": "34",
     "attr": {
       "ct5": {
         "value": ["all"],
@@ -5445,19 +5063,11 @@
         "type": "value"
       }
     },
-    "featured": "0",
-    "access": "1",
     "type":"animal-horses"
   },
   {
-    "id": "1540",
-    "lang": "en-GB",
-    "hits": 144618,
     "name": "Tiger Striped Bay Mustang",
     "photoName": "https://www.gtabase.com/igallery/3101-3200/RDR2_Horses_Mustang_TigerStripedBayMustang_1-3183-360.jpg",
-    "catid": "34",
-    "slug": "1540:tiger-striped-bay-mustang",
-    "catslug": "34",
     "attr": {
       "ct5": {
         "value": ["all"],
@@ -5565,19 +5175,11 @@
         "type": "value"
       }
     },
-    "featured": "0",
-    "access": "1",
     "type":"animal-horses"
   },
   {
-    "id": "1539",
-    "lang": "en-GB",
-    "hits": 37499,
     "name": "Piebald Tobiano Hungarian Halfbred",
     "photoName": "https://www.gtabase.com/igallery/2601-2700/RDR2_Horses_HungarianHalfbred_PiebaldTobianoHungarianHalfbred-2651-360.jpg",
-    "catid": "34",
-    "slug": "1539:piebald-tobiano-hungarian-halfbred",
-    "catslug": "34",
     "attr": {
       "ct5": {
         "value": ["all"],
@@ -5685,19 +5287,11 @@
         "type": "value"
       }
     },
-    "featured": "0",
-    "access": "1",
     "type":"animal-horses"
   },
   {
-    "id": "1538",
-    "lang": "en-GB",
-    "hits": 90748,
     "name": "White Arabian Horse",
     "photoName": "https://www.gtabase.com/igallery/3101-3200/RDR2_Horses_ArabianHorse_WhiteArabianHorse_23-3140-360.jpg",
-    "catid": "34",
-    "slug": "1538:white-arabian-horse",
-    "catslug": "34",
     "attr": {
       "ct5": {
         "value": ["all"],
@@ -5805,19 +5399,11 @@
         "type": "value"
       }
     },
-    "featured": "0",
-    "access": "1",
     "type":"animal-horses"
   },
   {
-    "id": "1537",
-    "lang": "en-GB",
-    "hits": 14018,
     "name": "Blanket Appaloosa",
     "photoName": "https://www.gtabase.com/igallery/3101-3200/RDR2_Horses_Appaloosa_BlanketAppaloosa_1-3129-360.jpg",
-    "catid": "34",
-    "slug": "1537:blanket-appaloosa",
-    "catslug": "34",
     "attr": {
       "ct5": {
         "value": ["all"],
@@ -5925,19 +5511,11 @@
         "type": "value"
       }
     },
-    "featured": "0",
-    "access": "1",
     "type":"animal-horses"
   },
   {
-    "id": "1536",
-    "lang": "en-GB",
-    "hits": 27554,
     "name": "Black American Standardbred",
     "photoName": "https://www.gtabase.com/igallery/3101-3200/RDR2_Horses_AmericanStandardbred_BlackAmericanStandardbred_29-3118-360.jpg",
-    "catid": "34",
-    "slug": "1536:black-american-standardbred",
-    "catslug": "34",
     "attr": {
       "ct5": {
         "value": ["all"],
@@ -6045,19 +5623,11 @@
         "type": "value"
       }
     },
-    "featured": "0",
-    "access": "1",
     "type":"animal-horses"
   },
   {
-    "id": "1535",
-    "lang": "en-GB",
-    "hits": 37974,
     "name": "Splashed White American Paint Horse",
     "photoName": "https://www.gtabase.com/igallery/3101-3200/RDR2_Horses_AmericanPaintHorse_SplashedWhiteAmericanPaintHorse_1-3114-360.jpg",
-    "catid": "34",
-    "slug": "1535:splashed-white-american-paint-horse",
-    "catslug": "34",
     "attr": {
       "ct5": {
         "value": ["all"],
@@ -6165,19 +5735,11 @@
         "type": "value"
       }
     },
-    "featured": "0",
-    "access": "1",
     "type":"animal-horses"
   },
   {
-    "id": "1534",
-    "lang": "en-GB",
-    "hits": 21526,
     "name": "Overo American Paint Horse",
     "photoName": "https://www.gtabase.com/igallery/3401-3500/RDR2_Horses_AmericanPaintHorse_OveroAmericanPaintHorse-3484-360.jpg",
-    "catid": "34",
-    "slug": "1534:overo-american-paint-horse",
-    "catslug": "34",
     "attr": {
       "ct5": {
         "value": ["all"],
@@ -6285,19 +5847,11 @@
         "type": "value"
       }
     },
-    "featured": "0",
-    "access": "1",
     "type":"animal-horses"
   },
   {
-    "id": "1533",
-    "lang": "en-GB",
-    "hits": 7810,
     "name": "Chestnut Tennessee Walker",
     "photoName": "https://www.gtabase.com/igallery/3201-3300/RDR2_Horses_TennesseeWalker_ChestnutTennesseeWalker_2-3204-360.jpg",
-    "catid": "34",
-    "slug": "1533:chestnut-tennessee-walker",
-    "catslug": "34",
     "attr": {
       "ct5": {
         "value": ["all"],
@@ -6405,19 +5959,11 @@
         "type": "value"
       }
     },
-    "featured": "0",
-    "access": "1",
     "type":"animal-horses"
   },
   {
-    "id": "1532",
-    "lang": "en-GB",
-    "hits": 6128,
     "name": "Flaxen Chestnut Morgan Horse",
     "photoName": "https://www.gtabase.com/igallery/3101-3200/RDR2_Horses_MorganHorse_FlaxenChestnutMorganHorse_1-3177-360.jpg",
-    "catid": "34",
-    "slug": "1532:flaxen-chestnut-morgan-horse",
-    "catslug": "34",
     "attr": {
       "ct5": {
         "value": ["all"],
@@ -6525,19 +6071,11 @@
         "type": "value"
       }
     },
-    "featured": "0",
-    "access": "1",
     "type":"animal-horses"
   },
   {
-    "id": "1531",
-    "lang": "en-GB",
-    "hits": 6774,
     "name": "Silver Bay Kentucky Saddler",
     "photoName": "https://www.gtabase.com/igallery/3101-3200/RDR2_Horses_KentuckySaddler_SilverBayKentuckySaddler_2-3168-360.jpg",
-    "catid": "34",
-    "slug": "1531:silver-bay-kentucky-saddler",
-    "catslug": "34",
     "attr": {
       "ct5": {
         "value": ["all"],
@@ -6645,19 +6183,11 @@
         "type": "value"
       }
     },
-    "featured": "0",
-    "access": "1",
     "type":"animal-horses"
   },
   {
-    "id": "1530",
-    "lang": "en-GB",
-    "hits": 9853,
     "name": "Black Kentucky Saddler",
     "photoName": "https://www.gtabase.com/igallery/3101-3200/RDR2_Horses_KentuckySaddler_BlackKentuckySaddler_1-3161-360.jpg",
-    "catid": "34",
-    "slug": "1530:black-kentucky-saddler",
-    "catslug": "34",
     "attr": {
       "ct5": {
         "value": ["all"],
@@ -6765,19 +6295,11 @@
         "type": "value"
       }
     },
-    "featured": "0",
-    "access": "1",
     "type":"animal-horses"
   },
   {
-    "id": "1529",
-    "lang": "en-GB",
-    "hits": 8788,
     "name": "Red Chestnut Suffolk Punch Horse",
     "photoName": "https://www.gtabase.com/igallery/3101-3200/RDR2_Horses_SuffolkPunchHorse_RedChestnutSuffolkPunchHorse_1-3197-360.jpg",
-    "catid": "34",
-    "slug": "1529:red-chestnut-suffolk-punch-horse",
-    "catslug": "34",
     "attr": {
       "ct5": {
         "value": ["all"],
@@ -6879,19 +6401,11 @@
         "type": "date"
       }
     },
-    "featured": "0",
-    "access": "1",
     "type":"animal-horses"
   },
   {
-    "id": "1528",
-    "lang": "en-GB",
-    "hits": 13136,
     "name": "Dark Bay Shire Horse",
     "photoName": "https://www.gtabase.com/igallery/3101-3200/RDR2_Horses_ShireHorse_DarkBayShireHorse_1-3193-360.jpg",
-    "catid": "34",
-    "slug": "1528:dark-bay-shire-horse",
-    "catslug": "34",
     "attr": {
       "ct5": {
         "value": ["all"],
@@ -6993,19 +6507,11 @@
         "type": "date"
       }
     },
-    "featured": "0",
-    "access": "1",
     "type":"animal-horses"
   },
   {
-    "id": "1527",
-    "lang": "en-GB",
-    "hits": 7639,
     "name": "Blond Chestnut Belgian Horse",
     "photoName": "https://www.gtabase.com/igallery/3101-3200/RDR2_Horses_BelgianHorse_BlondChestnutBelgianHorse_1-3145-360.jpg",
-    "catid": "34",
-    "slug": "1527:blond-chestnut-belgian-horse",
-    "catslug": "34",
     "attr": {
       "ct5": {
         "value": ["all"],
@@ -7107,19 +6613,11 @@
         "type": "date"
       }
     },
-    "featured": "0",
-    "access": "1",
     "type":"animal-horses"
   },
   {
-    "id": "1526",
-    "lang": "en-GB",
-    "hits": 7477,
     "name": "Dapple Bay Tennessee Walker",
     "photoName": "https://www.gtabase.com/igallery/3201-3300/RDR2_Horses_TennesseeWalker_DappleBayTennesseeWalker_1-3205-360.jpg",
-    "catid": "34",
-    "slug": "1526:dapple-bay-tennessee-walker",
-    "catslug": "34",
     "attr": {
       "ct5": {
         "value": ["all"],
@@ -7227,19 +6725,11 @@
         "type": "value"
       }
     },
-    "featured": "0",
-    "access": "1",
     "type":"animal-horses"
   },
   {
-    "id": "1525",
-    "lang": "en-GB",
-    "hits": 10193,
     "name": "Black Rabicano Tennessee Walker",
     "photoName": "https://www.gtabase.com/igallery/3201-3300/RDR2_Horses_TennesseeWalker_BlackRabicanoTennesseeWalker_1-3201-360.jpg",
-    "catid": "34",
-    "slug": "1525:black-rabicano-tennessee-walker",
-    "catslug": "34",
     "attr": {
       "ct5": {
         "value": ["all"],
@@ -7347,19 +6837,11 @@
         "type": "value"
       }
     },
-    "featured": "0",
-    "access": "1",
     "type":"animal-horses"
   },
   {
-    "id": "1524",
-    "lang": "en-GB",
-    "hits": 5541,
     "name": "Bay Morgan Horse",
     "photoName": "https://www.gtabase.com/igallery/3101-3200/RDR2_Horses_MorganHorse_BayMorganHorse_1-3173-360.jpg",
-    "catid": "34",
-    "slug": "1524:bay-morgan-horse",
-    "catslug": "34",
     "attr": {
       "ct5": {
         "value": ["all"],
@@ -7467,19 +6949,11 @@
         "type": "value"
       }
     },
-    "featured": "0",
-    "access": "1",
     "type":"animal-horses"
   },
   {
-    "id": "1523",
-    "lang": "en-GB",
-    "hits": 7576,
     "name": "Chestnut Pinto Kentucky Saddler",
     "photoName": "https://www.gtabase.com/igallery/3101-3200/RDR2_Horses_KentuckySaddler_ChestnutPintoKentuckySaddler_2-3164-360.jpg",
-    "catid": "34",
-    "slug": "1523:chestnut-pinto-kentucky-saddler",
-    "catslug": "34",
     "attr": {
       "ct5": {
         "value": ["all"],
@@ -7587,19 +7061,11 @@
         "type": "value"
       }
     },
-    "featured": "0",
-    "access": "1",
     "type":"animal-horses"
   },
   {
-    "id": "1522",
-    "lang": "en-GB",
-    "hits": 7487,
     "name": "Sorrel Suffolk Punch Horse",
     "photoName": "https://www.gtabase.com/igallery/2601-2700/RDR2_Horses_SuffolkPunchHorse_SorrelSuffolkPunchHorse-2642-360.jpg",
-    "catid": "34",
-    "slug": "1522:sorrel-suffolk-punch-horse",
-    "catslug": "34",
     "attr": {
       "ct5": {
         "value": ["all"],
@@ -7701,19 +7167,11 @@
         "type": "date"
       }
     },
-    "featured": "0",
-    "access": "1",
     "type":"animal-horses"
   },
   {
-    "id": "1521",
-    "lang": "en-GB",
-    "hits": 12155,
     "name": "Light Grey Shire Horse",
     "photoName": "https://www.gtabase.com/igallery/3101-3200/RDR2_Horses_ShireHorse_LightGreyShireHorse_2-3196-360.jpg",
-    "catid": "34",
-    "slug": "1521:light-grey-shire-horse",
-    "catslug": "34",
     "attr": {
       "ct5": {
         "value": ["all"],
@@ -7815,19 +7273,11 @@
         "type": "date"
       }
     },
-    "featured": "0",
-    "access": "1",
     "type":"animal-horses"
   },
   {
-    "id": "1520",
-    "lang": "en-GB",
-    "hits": 8209,
     "name": "Mealy Chestnut Belgian Horse",
     "photoName": "https://www.gtabase.com/igallery/3101-3200/RDR2_Horses_BelgianHorse_MealyChestnutBelgianHorse_1-3147-360.jpg",
-    "catid": "34",
-    "slug": "1520:mealy-chestnut-belgian-horse",
-    "catslug": "34",
     "attr": {
       "ct5": {
         "value": ["all"],
@@ -7929,19 +7379,11 @@
         "type": "date"
       }
     },
-    "featured": "0",
-    "access": "1",
     "type":"animal-horses"
   },
   {
-    "id": "1519",
-    "lang": "en-GB",
-    "hits": 81044,
     "name": "Silver Turkoman Horse",
     "photoName": "https://www.gtabase.com/igallery/3201-3300/RDR2_Horses_TurkomanHorse_SilverTurkomanHorse_1-3221-360.jpg",
-    "catid": "34",
-    "slug": "1519:silver-turkoman-horse",
-    "catslug": "34",
     "attr": {
       "ct5": {
         "value": ["all"],
@@ -8049,19 +7491,11 @@
         "type": "date"
       }
     },
-    "featured": "0",
-    "access": "1",
     "type":"animal-horses"
   },
   {
-    "id": "1518",
-    "lang": "en-GB",
-    "hits": 87563,
     "name": "Dark Bay Turkoman Horse",
     "photoName": "https://www.gtabase.com/igallery/3201-3300/RDR2_Horses_TurkomanHorse_DarkBayTurkomanHorse_1-3217-360.jpg",
-    "catid": "34",
-    "slug": "1518:dark-bay-turkoman-horse",
-    "catslug": "34",
     "attr": {
       "ct5": {
         "value": ["all"],
@@ -8169,19 +7603,11 @@
         "type": "date"
       }
     },
-    "featured": "0",
-    "access": "1",
     "type":"animal-horses"
   },
   {
-    "id": "1517",
-    "lang": "en-GB",
-    "hits": 97106,
     "name": "Silver Dapple Pinto Missouri Fox Trotter",
     "photoName": "https://www.gtabase.com/igallery/3101-3200/RDR2_Horses_MissouriFoxTrotter_SilverDapplePintoMissouriFox_Trotter_2-3172-360.jpg",
-    "catid": "34",
-    "slug": "1517:silver-dapple-pinto-missouri-fox-trotter",
-    "catslug": "34",
     "attr": {
       "ct5": {
         "value": ["all"],
@@ -8289,19 +7715,11 @@
         "type": "date"
       }
     },
-    "featured": "0",
-    "access": "1",
     "type":"animal-horses"
   },
   {
-    "id": "1516",
-    "lang": "en-GB",
-    "hits": 25276,
     "name": "Brown Leopard Appaloosa",
     "photoName": "https://www.gtabase.com/igallery/3101-3200/RDR2_Horses_Appaloosa_BrownLeopardAppaloosa_2-3132-360.jpg",
-    "catid": "34",
-    "slug": "1516:brown-leopard-appaloosa",
-    "catslug": "34",
     "attr": {
       "ct5": {
         "value": ["all"],
@@ -8409,19 +7827,11 @@
         "type": "date"
       }
     },
-    "featured": "0",
-    "access": "1",
     "type":"animal-horses"
   },
   {
-    "id": "1515",
-    "lang": "en-GB",
-    "hits": 28433,
     "name": "Grey Overo American Paint Horse",
     "photoName": "https://www.gtabase.com/igallery/3101-3200/RDR2_Horses_AmericanPaintHorse_GreyOveroAmericanPaintHorse_1-3111-360.jpg",
-    "catid": "34",
-    "slug": "1515:grey-overo-american-paint-horse",
-    "catslug": "34",
     "attr": {
       "ct5": {
         "value": ["all"],
@@ -8529,19 +7939,11 @@
         "type": "date"
       }
     },
-    "featured": "0",
-    "access": "1",
     "type":"animal-horses"
   },
   {
-    "id": "1514",
-    "lang": "en-GB",
-    "hits": 37820,
     "name": "Leopard Appaloosa",
     "photoName": "https://www.gtabase.com/igallery/3101-3200/RDR2_Horses_Appaloosa_LeopardAppaloosa_25-3134-360.jpg",
-    "catid": "34",
-    "slug": "1514:leopard-appaloosa",
-    "catslug": "34",
     "attr": {
       "ct5": {
         "value": ["all"],
@@ -8649,19 +8051,11 @@
         "type": "date"
       }
     },
-    "featured": "0",
-    "access": "1",
     "type":"animal-horses"
   },
   {
-    "id": "1513",
-    "lang": "en-GB",
-    "hits": 77442,
     "name": "Gold Turkoman Horse",
     "photoName": "https://www.gtabase.com/igallery/2801-2900/RDR2_Horses_Turkoman_GoldTurkoman-2805-360.jpg",
-    "catid": "34",
-    "slug": "1513:gold-turkoman-horse",
-    "catslug": "34",
     "attr": {
       "ct5": {
         "value": ["all"],
@@ -8769,19 +8163,11 @@
         "type": "date"
       }
     },
-    "featured": "0",
-    "access": "1",
     "type":"animal-horses"
   },
   {
-    "id": "1512",
-    "lang": "en-GB",
-    "hits": 95405,
     "name": "Black Arabian Horse",
     "photoName": "https://www.gtabase.com/igallery/3101-3200/RDR2_Horses_ArabianHorse_BlackArabianHorse_1-3137-360.jpg",
-    "catid": "34",
-    "slug": "1512:black-arabian-horse",
-    "catslug": "34",
     "attr": {
       "ct5": {
         "value": ["all"],
@@ -8889,19 +8275,11 @@
         "type": "date"
       }
     },
-    "featured": "0",
-    "access": "1",
     "type":"animal-horses"
   },
   {
-    "id": "1511",
-    "lang": "en-GB",
-    "hits": 60686,
     "name": "Brindle Thoroughbred",
     "photoName": "https://www.gtabase.com/igallery/2801-2900/RDR2_Horses_Thoroughbred_BrindleThoroughbred-2804-360.jpg",
-    "catid": "34",
-    "slug": "1511:brindle-thoroughbred",
-    "catslug": "34",
     "attr": {
       "ct5": {
         "value": ["all"],
@@ -9009,19 +8387,11 @@
         "type": "date"
       }
     },
-    "featured": "0",
-    "access": "1",
     "type":"animal-horses"
   },
   {
-    "id": "1510",
-    "lang": "en-GB",
-    "hits": 15100,
     "name": "Flaxen Roan Tennessee Walker",
     "photoName": "https://www.gtabase.com/igallery/3201-3300/RDR2_Horses_TennesseeWalker_FlaxenRoanTennesseeWalker_2-3208-360.jpg",
-    "catid": "34",
-    "slug": "1510:flaxen-roan-tennessee-walker",
-    "catslug": "34",
     "attr": {
       "ct5": {
         "value": ["all"],
@@ -9129,19 +8499,11 @@
         "type": "date"
       }
     },
-    "featured": "0",
-    "access": "1",
     "type":"animal-horses"
   },
   {
-    "id": "1509",
-    "lang": "en-GB",
-    "hits": 130571,
     "name": "Rose Grey Bay Arabian Horse",
     "photoName": "https://www.gtabase.com/igallery/3101-3200/RDR2_Horses_ArabianHorse_RoseGreyBayArabianHorse-3107-360.jpg",
-    "catid": "34",
-    "slug": "1509:rose-grey-bay-arabian-horse",
-    "catslug": "34",
     "attr": {
       "ct5": {
         "value": ["single-player"],
@@ -9243,19 +8605,11 @@
         "type": "date"
       }
     },
-    "featured": "0",
-    "access": "1",
     "type":"animal-horses"
   },
   {
-    "id": "1508",
-    "lang": "en-GB",
-    "hits": 38102,
     "name": "Silver Tail Buckskin American Standardbred",
     "photoName": "https://www.gtabase.com/igallery/3101-3200/RDR2_Horses_AmericanStandardbred_SilverTailBuckskinAmericanStandardbred_2-3124-360.jpg",
-    "catid": "34",
-    "slug": "1508:silver-tail-buckskin-american-standardbred",
-    "catslug": "34",
     "attr": {
       "ct5": {
         "value": ["all"],
@@ -9363,19 +8717,11 @@
         "type": "date"
       }
     },
-    "featured": "0",
-    "access": "1",
     "type":"animal-horses"
   },
   {
-    "id": "1507",
-    "lang": "en-GB",
-    "hits": 34879,
     "name": "Strawberry Roan Ardennes",
     "photoName": "https://www.gtabase.com/igallery/3101-3200/RDR2_Horses_Ardennes_BayRoanArdennes_1-3141-360.jpg",
-    "catid": "34",
-    "slug": "1507:strawberry-roan-ardennes",
-    "catslug": "34",
     "attr": {
       "ct5": {
         "value": ["all"],
@@ -9483,19 +8829,11 @@
         "type": "date"
       }
     },
-    "featured": "0",
-    "access": "1",
     "type":"animal-horses"
   },
   {
-    "id": "1506",
-    "lang": "en-GB",
-    "hits": 37306,
     "name": "Rose Grey Andalusian Horse",
     "photoName": "https://www.gtabase.com/igallery/3101-3200/RDR2_Horses_AndalusianHorse_RoseGreyAndalusianHorse_2-3128-360.jpg",
-    "catid": "34",
-    "slug": "1506:rose-grey-andalusian-horse",
-    "catslug": "34",
     "attr": {
       "ct5": {
         "value": ["all"],
@@ -9603,19 +8941,11 @@
         "type": "date"
       }
     },
-    "featured": "0",
-    "access": "1",
     "type":"animal-horses"
   },
   {
-    "id": "1505",
-    "lang": "en-GB",
-    "hits": 38711,
     "name": "Reverse Dapple Roan Nokota Horse",
     "photoName": "https://www.gtabase.com/igallery/3101-3200/RDR2_Horses_NokotaHorse_ReverseDappleRoanNokotaHorse_1-3189-360.jpg",
-    "catid": "34",
-    "slug": "1505:reverse-dapple-roan-nokota-horse",
-    "catslug": "34",
     "attr": {
       "ct5": {
         "value": ["all"],
@@ -9723,19 +9053,11 @@
         "type": "date"
       }
     },
-    "featured": "0",
-    "access": "1",
     "type":"animal-horses"
   },
   {
-    "id": "1504",
-    "lang": "en-GB",
-    "hits": 86000,
     "name": "Amber Champagne Missouri Fox Trotter",
     "photoName": "https://www.gtabase.com/igallery/2801-2900/RDR2_Horses_MissouriFoxTrotter_AmberChampagneMissouriFoxTrotter-2802-360.jpg",
-    "catid": "34",
-    "slug": "1504:amber-champagne-missouri-fox-trotter",
-    "catslug": "34",
     "attr": {
       "ct5": {
         "value": ["all"],
@@ -9843,19 +9165,11 @@
         "type": "date"
       }
     },
-    "featured": "0",
-    "access": "1",
     "type":"animal-horses"
   },
   {
-    "id": "1503",
-    "lang": "en-GB",
-    "hits": 23815,
     "name": "Seal Brown Dutch Warmblood",
     "photoName": "https://www.gtabase.com/igallery/3101-3200/RDR2_Horses_DutchWarmblood_SealBrownDutchWarmblood_1-3151-360.jpg",
-    "catid": "34",
-    "slug": "1503:seal-brown-dutch-warmblood",
-    "catslug": "34",
     "attr": {
       "ct5": {
         "value": ["all"],
@@ -9963,19 +9277,11 @@
         "type": "date"
       }
     },
-    "featured": "0",
-    "access": "1",
     "type":"animal-horses"
   },
   {
-    "id": "1502",
-    "lang": "en-GB",
-    "hits": 32798,
     "name": "Dark Bay Andalusian Horse",
     "photoName": "https://www.gtabase.com/igallery/2701-2800/RDR2_Horses_Andalusian_DarkBayAndalusian-2799-360.jpg",
-    "catid": "34",
-    "slug": "1502:dark-bay-andalusian-horse",
-    "catslug": "34",
     "attr": {
       "ct5": {
         "value": ["all"],
@@ -10083,19 +9389,11 @@
         "type": "date"
       }
     },
-    "featured": "0",
-    "access": "1",
     "type":"animal-horses"
   },
   {
-    "id": "1501",
-    "lang": "en-GB",
-    "hits": 22970,
     "name": "Bay Roan Ardennes",
     "photoName": "https://www.gtabase.com/igallery/3101-3200/RDR2_Horses_Ardennes_StrawberryArdennes_1-3143-360.jpg",
-    "catid": "34",
-    "slug": "1501:bay-roan-ardennes",
-    "catslug": "34",
     "attr": {
       "ct5": {
         "value": ["all"],
@@ -10203,19 +9501,11 @@
         "type": "date"
       }
     },
-    "featured": "0",
-    "access": "1",
     "type":"animal-horses"
   },
   {
-    "id": "1500",
-    "lang": "en-GB",
-    "hits": 5771,
     "name": "Bay Roan Morgan Horse",
     "photoName": "https://www.gtabase.com/igallery/3101-3200/RDR2_Horses_MorganHorse_BayRoanMorganHorse_2-3176-360.jpg",
-    "catid": "34",
-    "slug": "1500:bay-roan-morgan-horse",
-    "catslug": "34",
     "attr": {
       "ct5": {
         "value": ["all"],
@@ -10329,19 +9619,11 @@
         "type": "value"
       }
     },
-    "featured": "0",
-    "access": "1",
     "type":"animal-horses"
   },
   {
-    "id": "1499",
-    "lang": "en-GB",
-    "hits": 11530,
     "name": "Palomino Morgan Horse",
     "photoName": "https://www.gtabase.com/igallery/3101-3200/RDR2_Horses_MorganHorse_PalominoMorganHorse_1-3179-360.jpg",
-    "catid": "34",
-    "slug": "1499:palomino-morgan-horse",
-    "catslug": "34",
     "attr": {
       "ct5": {
         "value": ["all"],
@@ -10449,19 +9731,11 @@
         "type": "date"
       }
     },
-    "featured": "0",
-    "access": "1",
     "type":"animal-horses"
   },
   {
-    "id": "1498",
-    "lang": "en-GB",
-    "hits": 30359,
     "name": "Chocolate Roan Dutch Warmblood",
     "photoName": "https://www.gtabase.com/igallery/3101-3200/RDR2_Horses_DutchWarmblood_ChocolateRoanDutchWarmblood_1-3149-360.jpg",
-    "catid": "34",
-    "slug": "1498:chocolate-roan-dutch-warmblood",
-    "catslug": "34",
     "attr": {
       "ct5": {
         "value": ["all"],
@@ -10569,19 +9843,11 @@
         "type": "date"
       }
     },
-    "featured": "0",
-    "access": "1",
     "type":"animal-horses"
   },
   {
-    "id": "1497",
-    "lang": "en-GB",
-    "hits": 46967,
     "name": "Raven Black Shire Horse",
     "photoName": "https://www.gtabase.com/igallery/2501-2600/RDR2_Horses_ShireHorse_RavenBlackShireHorse-2598-360.jpg",
-    "catid": "34",
-    "slug": "1497:raven-black-shire-horse",
-    "catslug": "34",
     "attr": {
       "ct5": {
         "value": ["all"],
@@ -10683,19 +9949,11 @@
         "type": "date"
       }
     },
-    "featured": "0",
-    "access": "1",
     "type":"animal-horses"
   },
   {
-    "id": "1496",
-    "lang": "en-GB",
-    "hits": 21527,
     "name": "Sooty Buckskin Dutch Warmblood",
     "photoName": "https://www.gtabase.com/https://www.gtabase.com/igallery/3101-3200/RDR2_Horses_DutchWarmblood_SootyBuckskinDutchWarmblood_1-3153-360.jpg",
-    "catid": "34",
-    "slug": "1496:sooty-buckskin-dutch-warmblood",
-    "catslug": "34",
     "attr": {
       "ct5": {
         "value": ["all"],
@@ -10803,19 +10061,11 @@
         "type": "date"
       }
     },
-    "featured": "0",
-    "access": "1",
     "type":"animal-horses"
   },
   {
-    "id": "1495",
-    "lang": "en-GB",
-    "hits": 8332,
     "name": "Red Roan Tennessee Walker",
     "photoName": "https://www.gtabase.com/igallery/3201-3300/RDR2_Horses_TennesseeWalker_RedRoanTennesseeWalker_1-3209-360.jpg",
-    "catid": "34",
-    "slug": "1495:red-roan-tennessee-walker",
-    "catslug": "34",
     "attr": {
       "ct5": {
         "value": ["all"],
@@ -10929,19 +10179,11 @@
         "type": "value"
       }
     },
-    "featured": "0",
-    "access": "1",
     "type":"animal-horses"
   },
   {
-    "id": "1494",
-    "lang": "en-GB",
-    "hits": 8263,
     "name": "Grey Kentucky Saddler",
     "photoName": "https://www.gtabase.com/igallery/3101-3200/RDR2_Horses_KentuckySaddler_GreyKentuckySaddler_1-3165-360.jpg",
-    "catid": "34",
-    "slug": "1494:grey-kentucky-saddler",
-    "catslug": "34",
     "attr": {
       "ct5": {
         "value": ["all"],
@@ -11055,19 +10297,11 @@
         "type": "multiple"
       }
     },
-    "featured": "0",
-    "access": "1",
     "type":"animal-horses"
   },
   {
-    "id": "1493",
-    "lang": "en-GB",
-    "hits": 22532,
     "name": "Dapple Dark Grey Hungarian Halfbred",
     "photoName": "https://www.gtabase.com/igallery/3101-3200/RDR2_Horses_HungarianHalfbred_DappleDarkGreyHungarianHalfbred_2-3156-360.jpg",
-    "catid": "34",
-    "slug": "1493:dapple-dark-grey-hungarian-halfbred",
-    "catslug": "34",
     "attr": {
       "ct5": {
         "value": ["all"],
@@ -11175,19 +10409,11 @@
         "type": "date"
       }
     },
-    "featured": "0",
-    "access": "1",
     "type":"animal-horses"
   },
   {
-    "id": "1492",
-    "lang": "en-GB",
-    "hits": 25599,
     "name": "Palomino Dapple American Standardbred",
     "photoName": "https://www.gtabase.com/igallery/3101-3200/RDR2_Horses_AmericanStandardbred_PalominoDappleAmericanStandardbred_1-3121-360.jpg",
-    "catid": "34",
-    "slug": "1492:palomino-dapple-american-standardbred",
-    "catslug": "34",
     "attr": {
       "ct5": {
         "value": ["all"],
@@ -11295,19 +10521,11 @@
         "type": "date"
       }
     },
-    "featured": "0",
-    "access": "1",
     "type":"animal-horses"
   },
   {
-    "id": "1491",
-    "lang": "en-GB",
-    "hits": 26557,
     "name": "Mahogany Bay Tennessee Walker",
     "photoName": "https://www.gtabase.com/igallery/2601-2700/RDR2_Horses_TennesseeWalker_MahoganyBayTennesseeWalker-2665-360.jpg",
-    "catid": "34",
-    "slug": "1491:mahogany-bay-tennessee-walker",
-    "catslug": "34",
     "attr": {
       "ct5": {
         "value": ["all"],
@@ -11415,19 +10633,11 @@
         "type": "value"
       }
     },
-    "featured": "0",
-    "access": "1",
     "type":"animal-horses"
   },
   {
-    "id": "1346",
-    "lang": "en-GB",
-    "hits": 44098,
     "name": "Iron Grey Ardennes (War Horse)",
     "photoName": "https://www.gtabase.com/images/red-dead-redemption-2/horses/war-horse.jpg",
-    "catid": "34",
-    "slug": "1346:iron-grey-ardennes",
-    "catslug": "34",
     "attr": {
       "ct5": {
         "value": ["single-player"],
@@ -11521,19 +10731,11 @@
         "type": "date"
       }
     },
-    "featured": "0",
-    "access": "1",
     "type":"animal-horses"
   },
   {
-    "id": "1343",
-    "lang": "en-GB",
-    "hits": 95806,
     "name": "Red Chestnut Arabian Horse",
     "photoName": "https://www.gtabase.com/igallery/2501-2600/RDR2_EarlyAccess_RedChestnutArabianHorse-2568-360.jpg",
-    "catid": "34",
-    "slug": "1343:red-chestnut-arabian-horse",
-    "catslug": "34",
     "attr": {
       "speed": {
         "value": "50",
@@ -11641,19 +10843,11 @@
         "type": "multiple"
       }
     },
-    "featured": "0",
-    "access": "1",
     "type":"animal-horses"
   },
   {
-    "id": "1338",
-    "lang": "en-GB",
-    "hits": 59521,
     "name": "Dappled Black Thoroughbred",
     "photoName": "https://www.gtabase.com/images/red-dead-redemption-2/horses/dappled-black-thoroughbred.jpg",
-    "catid": "34",
-    "slug": "1338:dappled-black-thoroughbred",
-    "catslug": "34",
     "attr": {
       "speed": {
         "value": "70",
@@ -11747,19 +10941,11 @@
         "type": "date"
       }
     },
-    "featured": "0",
-    "access": "1",
     "type":"animal-horses"
   },
   {
-    "id": "1337",
-    "lang": "en-GB",
-    "hits": 68985,
     "name": "Black Chestnut Thoroughbred",
     "photoName": "https://www.gtabase.com/images/red-dead-redemption-2/horses/black-chestnut-thoroughbred.jpg",
-    "catid": "34",
-    "slug": "1337:black-chestnut-thoroughbred",
-    "catslug": "34",
     "attr": {
       "speed": {
         "value": "70",
@@ -11841,8 +11027,6 @@
         "type": "date"
       }
     },
-    "featured": "0",
-    "access": "1",
     "type":"animal-horses"
   }
 ]
