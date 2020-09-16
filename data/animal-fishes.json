@@ -5,8 +5,8 @@
       "Bluegill is a small freshwater fish, often preyed upon by Muskie and bass. They are quite easily caught using food baits, such as cheese. Bluegill prefer open water and are found in lakes and rivers all over the country. They are particularly active during rain. Fishermen around Scarlett Meadows tell tales of a Legendary Bluegill.",
       "You are most likely to catch these fish with Cheese Bait"
     ],
-    "photoName": "cmpndm_bluegill_photo",
-    "thumbnailName": "fish_bluegill",
+    "photoName": "bluegill_photo",
+    "thumbnailName": "bluegill",
     "habitat": "",
     "mapLocation": "",
     "type": "animal-fishes"
@@ -26,8 +26,8 @@
       "Chain Pickerel are a common sight in many of the country's lakes, rivers and swamps. The Chain Pickerel is a small but energetic, predatory fish. It reportedly favors corn and other food baits. Chain Pickerel prefer sunny weather. Fishermen in Big Valley claim that a Legendary Chain Pickerel can be found some way downriver from Cumberland Falls.",
       "Using a Corn Bait will increase your chances of a successful catch"
     ],
-    "photoName": "cmpndm_chain_photo",
-    "thumnailName": "FISH_CHAINPICKEREL"
+    "photoName": "chain_photo",
+    "thumnailName": "chainpickerel"
   },
   {
     "name": "Redfin Pickerel",
@@ -35,8 +35,8 @@
       "Inhabiting rivers all over the south, Redfin Pickerel is very small and easy to catch. Redfin Pickerel are predators and prefer all food baits, especially bread, over man made lures. They are most active on warm, sunny days. People say that a Legendary Redfin Pickerel dwells somewhere near Thieves' Landing.",
       "Bread Bait will easily attract this type of fish"
     ],
-    "photoName": "cmpndm_redfin_photo",
-    "thumbnailName": "fish_redfinpickerel",
+    "photoName": "redfin_photo",
+    "thumbnailName": "redfinpickerel",
     "habitat": "",
     "mapLocation": "",
     "type": "animal-fishes"
@@ -83,8 +83,8 @@
       "Muskies are long, slender-bodied, predatory fish, inhabiting northern lakes. They will ignore food baits and favors Lake Lures. Muskie are most active on cloudy, overcast days. There are legends of a monster Muskie having been sighted off the coast of Roanoke Ridge.",
       "Using Lake Lures will increase your chances of a successful catch"
     ],
-    "photoName": "cmpndm_muskie_photo",
-    "thumbnailName": "fish_muskie_clear",
+    "photoName": "muskie_photo",
+    "thumbnailName": "muskie_clear",
     "habitat": "",
     "mapLocation": "",
     "type": "animal-fishes"
@@ -113,8 +113,8 @@
       "Rock Bass can be found in clear waters all over the country. Small and active near the surface, they are not too difficult to reel in. Rock Bass will take many food and natural baits, and are especially fond of cheese. They are particularly active on sunny days. Fishermen's lore has it that there is a Legendary Rock Bass living in the peaceful woodland region of Tall Trees.",
       "Bass prefer natural baits like cheese"
     ],
-    "photoName": "cmpndm_rockbass_photo",
-    "thumbnailName": "fish_rockbass",
+    "photoName": "rockbass_photo",
+    "thumbnailName": "rockbass",
     "habitat": "",
     "mapLocation": "",
     "type": "animal-fishes"
@@ -125,8 +125,8 @@
       "Smallmouth Bass are commonly seen in northern rivers. They prefer natural baits, such as crickets, over lures. Larger and tougher than Rock Bass, Smallmouth Bass can put up quite a fight once hooked. They seem to be most active during rain. A Legendary Smallmouth Bass is said to live in western Big Valley.",
       "Using natural baits will increase your chances of a catch"
     ],
-    "photoName": "cmpndm_smmbass_photo",
-    "thumbnailName": "fish_smallmouthbass",
+    "photoName": "smmbass_photo",
+    "thumbnailName": "smallmouthbass",
     "habitat": "",
     "mapLocation": "",
     "type": "animal-fishes"
@@ -137,8 +137,8 @@
       "Sockeye Salmon can sometimes be seen leaping upstream in their habitat of fast-flowing, cold river water. These hefty fish are sought after for their tasty, nutritious flesh. Choosy about bait, Sockeye Salmon will ignore food-baited bobbers, but can be tempted by River Lures. They are known to be more active when the weather is overcast. The remote, freezing territory at the foot of the Western Grizzly Mountains is rumored to be home to a whopping Legendary Sockeye Salmon.",
       "River Lures are a favorite for this species of fish"
     ],
-    "photoName": "cmpndm_salmon_photo",
-    "thumbnailName": "fish_salmon_sockeye",
+    "photoName": "salmon_photo",
+    "thumbnailName": "salmon_sockeye",
     "habitat": "",
     "mapLocation": "",
     "type": "animal-fishes"
@@ -149,8 +149,8 @@
       "Steelhead Trout populations are dotted around various lakes, mostly in the south. Steelhead Trout respond to many types of bait, most especially worms. They are fairly large and good to eat. Bigger specimens can be quite powerful and strongly resist being reeled in. They are notably more active in rainy weather. A few hardy fishermen in the northern Roanoke Valley claim to have seen, but never managed to catch, a Legendary Steelhead Trout.",
       "Worms are the best bait to successfully catch trout"
     ],
-    "photoName": "cmpndm_trout_photo",
-    "thumbnailName": "fish_speckled_trout",
+    "photoName": "trout_photo",
+    "thumbnailName": "speckled_trout",
     "habitat": "",
     "mapLocation": "",
     "type": "animal-fishes"
@@ -215,8 +215,8 @@
       "Largemouth Bass inhabit open and flowing water all around the Southern States. They can be easy to spot, due to swimming energetically near the surface, but less easy to catch. Anglers report that Largemouth Bass don't seem to care for most lures, but respond well to fresh crayfish. Rainy weather is linked with increased activity. Some say that the San Luis River is home to a Legendary Largemouth Bass.",
       "You are most likely to catch this type of fish when it rains"
     ],
-    "photoName": "cmpndm_lgmbass_photo",
-    "thumbnailName": "fish_largemouthbass",
+    "photoName": "lgmbass_photo",
+    "thumbnailName": "largemouthbass",
     "habitat": "",
     "mapLocation": "",
     "type": "animal-fishes"
@@ -245,8 +245,8 @@
       "The Legendary Northern Pike can be found in the waters near O'Creagh's Run. Special Lake Lures are considered to be the best way to attract this fish. Like other Pike, this fish becomes more active when the weather is overcast and gray. Locals have estimated the size of this Legendary Pike to be around fifty inches long and weighing in at over forty pounds.",
       "Rumor states that this fish can be found in O'Creagh's Run"
     ],
-    "photoName": "cmpndm_northern_pike_legendary_photo",
-    "thumbnailName": "fish_legendary_northern_pike",
+    "photoName": "northern_pike_legendary_photo",
+    "thumbnailName": "legendary_northern_pike",
     "habitat": "",
     "mapLocation": "",
     "type": "animal-fishes"
@@ -257,8 +257,8 @@
       "The Legendary Perch can be found in Elysian Pool. Local fishermen state that the best way to attract this fish is with Special Lake Lures. It has been noted that this fish becomes more active during sunnier weather. The estimated size of this Legendary Perch is considered to be around nineteen inches and weighing over two pounds.",
       "Rumor states that this fish inhabits in Elysian Pool"
     ],
-    "photoName": "cmpndm_perch_legendary_photo",
-    "thumbnailName": "fish_legendary_perch",
+    "photoName": "perch_legendary_photo",
+    "thumbnailName": "legendary_perch",
     "habitat": "",
     "mapLocation": "",
     "type": "animal-fishes"
