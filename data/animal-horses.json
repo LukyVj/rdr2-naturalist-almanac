@@ -15,7 +15,7 @@
         "stats_overall": "54.00"
       }
     ],
-    "mapLocation": false,
+    "mapLocation": "",
     "type": "animal-horses"
   },
   {
@@ -34,7 +34,7 @@
         "stats_overall": "68.00"
       }
     ],
-    "mapLocation": false,
+    "mapLocation": "",
     "type": "animal-horses"
   },
   {
@@ -53,7 +53,7 @@
         "stats_overall": "54.00"
       }
     ],
-    "mapLocation": false,
+    "mapLocation": "",
     "type": "animal-horses"
   },
   {
@@ -72,7 +72,7 @@
         "stats_overall": "54.00"
       }
     ],
-    "mapLocation": false,
+    "mapLocation": "",
     "type": "animal-horses"
   },
   {
@@ -91,7 +91,7 @@
         "stats_overall": "60.00"
       }
     ],
-    "mapLocation": false,
+    "mapLocation": "",
     "type": "animal-horses"
   },
   {
@@ -110,7 +110,7 @@
         "stats_overall": "54.00"
       }
     ],
-    "mapLocation": false,
+    "mapLocation": "",
     "type": "animal-horses"
   },
   {
@@ -129,7 +129,7 @@
         "stats_overall": "54.00"
       }
     ],
-    "mapLocation": false,
+    "mapLocation": "",
     "type": "animal-horses"
   },
   {
@@ -148,7 +148,7 @@
         "stats_overall": "54.00"
       }
     ],
-    "mapLocation": false,
+    "mapLocation": "",
     "type": "animal-horses"
   },
   {
@@ -167,7 +167,7 @@
         "stats_overall": "54.00"
       }
     ],
-    "mapLocation": false,
+    "mapLocation": "",
     "type": "animal-horses"
   },
   {
@@ -186,7 +186,7 @@
         "stats_overall": "54.00"
       }
     ],
-    "mapLocation": false,
+    "mapLocation": "",
     "type": "animal-horses"
   },
   {
@@ -205,7 +205,7 @@
         "stats_overall": "54.00"
       }
     ],
-    "mapLocation": false,
+    "mapLocation": "",
     "type": "animal-horses"
   },
   {
@@ -224,7 +224,7 @@
         "stats_overall": "54.00"
       }
     ],
-    "mapLocation": false,
+    "mapLocation": "",
     "type": "animal-horses"
   },
   {
@@ -243,7 +243,7 @@
         "stats_overall": "54.00"
       }
     ],
-    "mapLocation": false,
+    "mapLocation": "",
     "type": "animal-horses"
   },
   {
@@ -262,7 +262,7 @@
         "stats_overall": "54.00"
       }
     ],
-    "mapLocation": false,
+    "mapLocation": "",
     "type": "animal-horses"
   },
   {
@@ -281,7 +281,7 @@
         "stats_overall": "52.00"
       }
     ],
-    "mapLocation": false,
+    "mapLocation": "",
     "type": "animal-horses"
   },
   {
@@ -300,7 +300,7 @@
         "stats_overall": "52.00"
       }
     ],
-    "mapLocation": false,
+    "mapLocation": "",
     "type": "animal-horses"
   },
   {
@@ -319,7 +319,7 @@
         "stats_overall": "54.00"
       }
     ],
-    "mapLocation": false,
+    "mapLocation": "",
     "type": "animal-horses"
   },
   {
@@ -338,7 +338,7 @@
         "stats_overall": "48.00"
       }
     ],
-    "mapLocation": false,
+    "mapLocation": "",
     "type": "animal-horses"
   },
   {
@@ -357,7 +357,7 @@
         "stats_overall": "48.00"
       }
     ],
-    "mapLocation": false,
+    "mapLocation": "",
     "type": "animal-horses"
   },
   {
@@ -376,7 +376,7 @@
         "stats_overall": "48.00"
       }
     ],
-    "mapLocation": false,
+    "mapLocation": "",
     "type": "animal-horses"
   },
   {
@@ -395,7 +395,7 @@
         "stats_overall": "48.00"
       }
     ],
-    "mapLocation": false,
+    "mapLocation": "",
     "type": "animal-horses"
   },
   {
@@ -414,7 +414,7 @@
         "stats_overall": "48.00"
       }
     ],
-    "mapLocation": false,
+    "mapLocation": "",
     "type": "animal-horses"
   },
   {
@@ -433,7 +433,7 @@
         "stats_overall": "46.00"
       }
     ],
-    "mapLocation": false,
+    "mapLocation": "",
     "type": "animal-horses"
   },
   {
@@ -452,7 +452,7 @@
         "stats_overall": "46.00"
       }
     ],
-    "mapLocation": false,
+    "mapLocation": "",
     "type": "animal-horses"
   },
   {
@@ -471,7 +471,7 @@
         "stats_overall": "46.00"
       }
     ],
-    "mapLocation": false,
+    "mapLocation": "",
     "type": "animal-horses"
   },
   {
@@ -490,7 +490,7 @@
         "stats_overall": "46.00"
       }
     ],
-    "mapLocation": false,
+    "mapLocation": "",
     "type": "animal-horses"
   },
   {
@@ -509,7 +509,7 @@
         "stats_overall": "46.00"
       }
     ],
-    "mapLocation": false,
+    "mapLocation": "",
     "type": "animal-horses"
   },
   {
@@ -528,7 +528,7 @@
         "stats_overall": "46.00"
       }
     ],
-    "mapLocation": false,
+    "mapLocation": "",
     "type": "animal-horses"
   },
   {
@@ -547,7 +547,7 @@
         "stats_overall": "46.00"
       }
     ],
-    "mapLocation": false,
+    "mapLocation": "",
     "type": "animal-horses"
   },
   {
@@ -566,7 +566,7 @@
         "stats_overall": "46.00"
       }
     ],
-    "mapLocation": false,
+    "mapLocation": "",
     "type": "animal-horses"
   },
   {
@@ -585,7 +585,7 @@
         "stats_overall": "46.00"
       }
     ],
-    "mapLocation": false,
+    "mapLocation": "",
     "type": "animal-horses"
   },
   {
@@ -604,7 +604,7 @@
         "stats_overall": "44.00"
       }
     ],
-    "mapLocation": false,
+    "mapLocation": "",
     "type": "animal-horses"
   },
   {
@@ -623,7 +623,7 @@
         "stats_overall": "44.00"
       }
     ],
-    "mapLocation": false,
+    "mapLocation": "",
     "type": "animal-horses"
   },
   {
@@ -642,7 +642,7 @@
         "stats_overall": "44.00"
       }
     ],
-    "mapLocation": false,
+    "mapLocation": "",
     "type": "animal-horses"
   },
   {
@@ -661,7 +661,7 @@
         "stats_overall": "44.00"
       }
     ],
-    "mapLocation": false,
+    "mapLocation": "",
     "type": "animal-horses"
   },
   {
@@ -680,7 +680,7 @@
         "stats_overall": "44.00"
       }
     ],
-    "mapLocation": false,
+    "mapLocation": "",
     "type": "animal-horses"
   },
   {
@@ -699,7 +699,7 @@
         "stats_overall": "44.00"
       }
     ],
-    "mapLocation": false,
+    "mapLocation": "",
     "type": "animal-horses"
   },
   {
@@ -718,7 +718,7 @@
         "stats_overall": "44.00"
       }
     ],
-    "mapLocation": false,
+    "mapLocation": "",
     "type": "animal-horses"
   },
   {
@@ -737,7 +737,7 @@
         "stats_overall": "44.00"
       }
     ],
-    "mapLocation": false,
+    "mapLocation": "",
     "type": "animal-horses"
   },
   {
@@ -756,7 +756,7 @@
         "stats_overall": "42.00"
       }
     ],
-    "mapLocation": false,
+    "mapLocation": "",
     "type": "animal-horses"
   },
   {
@@ -775,7 +775,7 @@
         "stats_overall": "42.00"
       }
     ],
-    "mapLocation": false,
+    "mapLocation": "",
     "type": "animal-horses"
   },
   {
@@ -794,7 +794,7 @@
         "stats_overall": "42.00"
       }
     ],
-    "mapLocation": false,
+    "mapLocation": "",
     "type": "animal-horses"
   },
   {
@@ -813,7 +813,7 @@
         "stats_overall": "38.00"
       }
     ],
-    "mapLocation": false,
+    "mapLocation": "",
     "type": "animal-horses"
   },
   {
@@ -832,7 +832,7 @@
         "stats_overall": "38.00"
       }
     ],
-    "mapLocation": false,
+    "mapLocation": "",
     "type": "animal-horses"
   },
   {
@@ -851,7 +851,7 @@
         "stats_overall": "38.00"
       }
     ],
-    "mapLocation": false,
+    "mapLocation": "",
     "type": "animal-horses"
   },
   {
@@ -870,7 +870,7 @@
         "stats_overall": "38.00"
       }
     ],
-    "mapLocation": false,
+    "mapLocation": "",
     "type": "animal-horses"
   },
   {
@@ -889,7 +889,7 @@
         "stats_overall": "38.00"
       }
     ],
-    "mapLocation": false,
+    "mapLocation": "",
     "type": "animal-horses"
   },
   {
@@ -908,7 +908,7 @@
         "stats_overall": "38.00"
       }
     ],
-    "mapLocation": false,
+    "mapLocation": "",
     "type": "animal-horses"
   },
   {
@@ -927,7 +927,7 @@
         "stats_overall": "38.00"
       }
     ],
-    "mapLocation": false,
+    "mapLocation": "",
     "type": "animal-horses"
   },
   {
@@ -946,7 +946,7 @@
         "stats_overall": "46.00"
       }
     ],
-    "mapLocation": false,
+    "mapLocation": "",
     "type": "animal-horses"
   },
   {
@@ -965,7 +965,7 @@
         "stats_overall": "38.00"
       }
     ],
-    "mapLocation": false,
+    "mapLocation": "",
     "type": "animal-horses"
   },
   {
@@ -984,7 +984,7 @@
         "stats_overall": "38.00"
       }
     ],
-    "mapLocation": false,
+    "mapLocation": "",
     "type": "animal-horses"
   },
   {
@@ -1003,7 +1003,7 @@
         "stats_overall": "38.00"
       }
     ],
-    "mapLocation": false,
+    "mapLocation": "",
     "type": "animal-horses"
   },
   {
@@ -1022,7 +1022,7 @@
         "stats_overall": "38.00"
       }
     ],
-    "mapLocation": false,
+    "mapLocation": "",
     "type": "animal-horses"
   },
   {
@@ -1041,7 +1041,7 @@
         "stats_overall": "38.00"
       }
     ],
-    "mapLocation": false,
+    "mapLocation": "",
     "type": "animal-horses"
   },
   {
@@ -1060,7 +1060,7 @@
         "stats_overall": "38.00"
       }
     ],
-    "mapLocation": false,
+    "mapLocation": "",
     "type": "animal-horses"
   },
   {
@@ -1079,7 +1079,7 @@
         "stats_overall": "38.00"
       }
     ],
-    "mapLocation": false,
+    "mapLocation": "",
     "type": "animal-horses"
   },
   {
@@ -1098,7 +1098,7 @@
         "stats_overall": "38.00"
       }
     ],
-    "mapLocation": false,
+    "mapLocation": "",
     "type": "animal-horses"
   },
   {
@@ -1117,7 +1117,7 @@
         "stats_overall": "38.00"
       }
     ],
-    "mapLocation": false,
+    "mapLocation": "",
     "type": "animal-horses"
   },
   {
@@ -1136,7 +1136,7 @@
         "stats_overall": "38.00"
       }
     ],
-    "mapLocation": false,
+    "mapLocation": "",
     "type": "animal-horses"
   },
   {
@@ -1155,7 +1155,7 @@
         "stats_overall": "38.00"
       }
     ],
-    "mapLocation": false,
+    "mapLocation": "",
     "type": "animal-horses"
   },
   {
@@ -1174,7 +1174,7 @@
         "stats_overall": "38.00"
       }
     ],
-    "mapLocation": false,
+    "mapLocation": "",
     "type": "animal-horses"
   },
   {
@@ -1193,7 +1193,7 @@
         "stats_overall": "36.00"
       }
     ],
-    "mapLocation": false,
+    "mapLocation": "",
     "type": "animal-horses"
   },
   {
@@ -1212,7 +1212,7 @@
         "stats_overall": "38.00"
       }
     ],
-    "mapLocation": false,
+    "mapLocation": "",
     "type": "animal-horses"
   },
   {
@@ -1231,7 +1231,7 @@
         "stats_overall": "38.00"
       }
     ],
-    "mapLocation": false,
+    "mapLocation": "",
     "type": "animal-horses"
   },
   {
@@ -1250,7 +1250,7 @@
         "stats_overall": "36.00"
       }
     ],
-    "mapLocation": false,
+    "mapLocation": "",
     "type": "animal-horses"
   },
   {
@@ -1269,7 +1269,7 @@
         "stats_overall": "34.00"
       }
     ],
-    "mapLocation": false,
+    "mapLocation": "",
     "type": "animal-horses"
   },
   {
@@ -1288,7 +1288,7 @@
         "stats_overall": "34.00"
       }
     ],
-    "mapLocation": false,
+    "mapLocation": "",
     "type": "animal-horses"
   },
   {
@@ -1307,7 +1307,7 @@
         "stats_overall": "34.00"
       }
     ],
-    "mapLocation": false,
+    "mapLocation": "",
     "type": "animal-horses"
   },
   {
@@ -1326,7 +1326,7 @@
         "stats_overall": "64.00"
       }
     ],
-    "mapLocation": false,
+    "mapLocation": "",
     "type": "animal-horses"
   },
   {
@@ -1345,7 +1345,7 @@
         "stats_overall": "34.00"
       }
     ],
-    "mapLocation": false,
+    "mapLocation": "",
     "type": "animal-horses"
   },
   {
@@ -1364,7 +1364,7 @@
         "stats_overall": "34.00"
       }
     ],
-    "mapLocation": false,
+    "mapLocation": "",
     "type": "animal-horses"
   },
   {
@@ -1383,7 +1383,7 @@
         "stats_overall": "34.00"
       }
     ],
-    "mapLocation": false,
+    "mapLocation": "",
     "type": "animal-horses"
   },
   {
@@ -1402,7 +1402,7 @@
         "stats_overall": "34.00"
       }
     ],
-    "mapLocation": false,
+    "mapLocation": "",
     "type": "animal-horses"
   },
   {
@@ -1421,7 +1421,7 @@
         "stats_overall": "32.00"
       }
     ],
-    "mapLocation": false,
+    "mapLocation": "",
     "type": "animal-horses"
   },
   {
@@ -1440,7 +1440,7 @@
         "stats_overall": "34.00"
       }
     ],
-    "mapLocation": false,
+    "mapLocation": "",
     "type": "animal-horses"
   },
   {
@@ -1459,7 +1459,7 @@
         "stats_overall": "34.00"
       }
     ],
-    "mapLocation": false,
+    "mapLocation": "",
     "type": "animal-horses"
   },
   {
@@ -1478,7 +1478,7 @@
         "stats_overall": "32.00"
       }
     ],
-    "mapLocation": false,
+    "mapLocation": "",
     "type": "animal-horses"
   },
   {
@@ -1497,7 +1497,7 @@
         "stats_overall": "32.00"
       }
     ],
-    "mapLocation": false,
+    "mapLocation": "",
     "type": "animal-horses"
   },
   {
@@ -1516,7 +1516,7 @@
         "stats_overall": "30.00"
       }
     ],
-    "mapLocation": false,
+    "mapLocation": "",
     "type": "animal-horses"
   },
   {
@@ -1535,7 +1535,7 @@
         "stats_overall": "30.00"
       }
     ],
-    "mapLocation": false,
+    "mapLocation": "",
     "type": "animal-horses"
   },
   {
@@ -1554,7 +1554,7 @@
         "stats_overall": "28.00"
       }
     ],
-    "mapLocation": false,
+    "mapLocation": "",
     "type": "animal-horses"
   },
   {
@@ -1573,7 +1573,7 @@
         "stats_overall": "28.00"
       }
     ],
-    "mapLocation": false,
+    "mapLocation": "",
     "type": "animal-horses"
   },
   {
@@ -1592,7 +1592,7 @@
         "stats_overall": "28.00"
       }
     ],
-    "mapLocation": false,
+    "mapLocation": "",
     "type": "animal-horses"
   },
   {
@@ -1611,7 +1611,7 @@
         "stats_overall": "28.00"
       }
     ],
-    "mapLocation": false,
+    "mapLocation": "",
     "type": "animal-horses"
   },
   {
@@ -1630,7 +1630,7 @@
         "stats_overall": "28.00"
       }
     ],
-    "mapLocation": false,
+    "mapLocation": "",
     "type": "animal-horses"
   },
   {
@@ -1649,7 +1649,7 @@
         "stats_overall": "28.00"
       }
     ],
-    "mapLocation": false,
+    "mapLocation": "",
     "type": "animal-horses"
   },
   {
@@ -1668,7 +1668,7 @@
         "stats_overall": "28.00"
       }
     ],
-    "mapLocation": false,
+    "mapLocation": "",
     "type": "animal-horses"
   },
   {
@@ -1687,7 +1687,7 @@
         "stats_overall": "28.00"
       }
     ],
-    "mapLocation": false,
+    "mapLocation": "",
     "type": "animal-horses"
   },
   {
@@ -1706,7 +1706,7 @@
         "stats_overall": "28.00"
       }
     ],
-    "mapLocation": false,
+    "mapLocation": "",
     "type": "animal-horses"
   },
   {
@@ -1725,7 +1725,7 @@
         "stats_overall": "48.00"
       }
     ],
-    "mapLocation": false,
+    "mapLocation": "",
     "type": "animal-horses"
   },
   {
@@ -1744,7 +1744,7 @@
         "stats_overall": "28.00"
       }
     ],
-    "mapLocation": false,
+    "mapLocation": "",
     "type": "animal-horses"
   },
   {
@@ -1763,7 +1763,7 @@
         "stats_overall": "28.00"
       }
     ],
-    "mapLocation": false,
+    "mapLocation": "",
     "type": "animal-horses"
   },
   {
@@ -1782,7 +1782,7 @@
         "stats_overall": "28.00"
       }
     ],
-    "mapLocation": false,
+    "mapLocation": "",
     "type": "animal-horses"
   },
   {
@@ -1801,7 +1801,7 @@
         "stats_overall": "28.00"
       }
     ],
-    "mapLocation": false,
+    "mapLocation": "",
     "type": "animal-horses"
   },
   {
@@ -1820,7 +1820,7 @@
         "stats_overall": "28.00"
       }
     ],
-    "mapLocation": false,
+    "mapLocation": "",
     "type": "animal-horses"
   },
   {
@@ -1839,7 +1839,7 @@
         "stats_overall": "28.00"
       }
     ],
-    "mapLocation": false,
+    "mapLocation": "",
     "type": "animal-horses"
   },
   {
@@ -1858,7 +1858,7 @@
         "stats_overall": "28.00"
       }
     ],
-    "mapLocation": false,
+    "mapLocation": "",
     "type": "animal-horses"
   },
   {
@@ -1877,7 +1877,7 @@
         "stats_overall": "28.00"
       }
     ],
-    "mapLocation": false,
+    "mapLocation": "",
     "type": "animal-horses"
   },
   {
@@ -1896,7 +1896,7 @@
         "stats_overall": "28.00"
       }
     ],
-    "mapLocation": false,
+    "mapLocation": "",
     "type": "animal-horses"
   },
   {
@@ -1915,7 +1915,7 @@
         "stats_overall": "54.00"
       }
     ],
-    "mapLocation": false,
+    "mapLocation": "",
     "type": "animal-horses"
   },
   {
@@ -1934,7 +1934,7 @@
         "stats_overall": "54.00"
       }
     ],
-    "mapLocation": false,
+    "mapLocation": "",
     "type": "animal-horses"
   }
 ]

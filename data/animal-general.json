@@ -17,7 +17,7 @@
     "isPhotographable": true,
     "isLocked": false,
     "habitat": "",
-    "mapLocation": false,
+    "mapLocation": "",
     "type": "animal-general"
   }
 ]

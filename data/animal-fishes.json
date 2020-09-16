@@ -5,7 +5,7 @@
     "photoName": false,
     "thumbnailName": false,
     "habitat": false,
-    "mapLocation": false,
+    "mapLocation": "",
     "type": "animal-fishes"
   },
   {
@@ -15,7 +15,7 @@
     "thumbnailName": false,
     "description": false,
     "habitat": false,
-    "mapLocation": false,
+    "mapLocation": "",
     "type": "animal-fishes"
   }
 ]
