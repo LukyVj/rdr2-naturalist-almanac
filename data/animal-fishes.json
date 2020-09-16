@@ -6,13 +6,15 @@
       "You are most likely to catch these fish with Cheese Bait"
     ],
     "photoName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_FISH/CMPNDM_BLUEGILL_PHOTO.jpg",
-    "thumbnailName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_FISH/FISH_BLUEGILL.png"
+    "thumbnailName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_FISH/FISH_BLUEGILL.png",
+    "type": "animal-fishes"
   },
   {
     "name": "Bullhead Catfish",
     "description": ["", ""],
     "photoName": "",
-    "thumbnailName": ""
+    "thumbnailName": "",
+    "type": "animal-fishes"
   },
   {
     "name": "Chain Pickerel",
@@ -30,31 +32,36 @@
       "Bread Bait will easily attract this type of fish"
     ],
     "photoName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_FISH/CMPNDM_REDFIN_PHOTO.jpg",
-    "thumbnailName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_FISH/FISH_REDFINPICKEREL.png"
+    "thumbnailName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_FISH/FISH_REDFINPICKEREL.png",
+    "type": "animal-fishes"
   },
   {
     "name": "Channel Catfish",
     "description": ["", ""],
     "photoName": "",
-    "thumbnailName": ""
+    "thumbnailName": "",
+    "type": "animal-fishes"
   },
   {
     "name": "Lake Sturgeon",
     "description": ["", ""],
     "photoName": "",
-    "thumbnailName": ""
+    "thumbnailName": "",
+    "type": "animal-fishes"
   },
   {
     "name": "Largemouth Bass",
     "description": ["", ""],
     "photoName": "",
-    "thumbnailName": ""
+    "thumbnailName": "",
+    "type": "animal-fishes"
   },
   {
     "name": "Longnose Gar",
     "description": ["", ""],
     "photoName": "",
-    "thumbnailName": ""
+    "thumbnailName": "",
+    "type": "animal-fishes"
   },
   {
     "name": "Muskie",
@@ -63,19 +70,22 @@
       "Using Lake Lures will increase your chances of a successful catch"
     ],
     "photoName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_FISH/CMPNDM_MUSKIE_PHOTO.jpg",
-    "thumbnailName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_FISH/FISH_MUSKIE_CLEAR.png"
+    "thumbnailName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_FISH/FISH_MUSKIE_CLEAR.png",
+    "type": "animal-fishes"
   },
   {
     "name": "Northern Pike",
     "description": ["", ""],
     "photoName": "",
-    "thumbnailName": ""
+    "thumbnailName": "",
+    "type": "animal-fishes"
   },
   {
     "name": "Perch",
     "description": ["", ""],
     "photoName": "",
-    "thumbnailName": ""
+    "thumbnailName": "",
+    "type": "animal-fishes"
   },
   {
     "name": "Rock Bass",
@@ -84,7 +94,8 @@
       "Bass prefer natural baits like cheese"
     ],
     "photoName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_FISH/CMPNDM_ROCKBASS_PHOTO.jpg",
-    "thumbnailName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_FISH/FISH_ROCKBASS.png"
+    "thumbnailName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_FISH/FISH_ROCKBASS.png",
+    "type": "animal-fishes"
   },
   {
     "name": "Smallmouth Bass",
@@ -93,7 +104,8 @@
       "Using natural baits will increase your chances of a catch"
     ],
     "photoName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_FISH/CMPNDM_SMMBASS_PHOTO.jpg",
-    "thumbnailName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_FISH/FISH_SMALLMOUTHBASS.png"
+    "thumbnailName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_FISH/FISH_SMALLMOUTHBASS.png",
+    "type": "animal-fishes"
   },
   {
     "name": "Sockeye Salmon",
@@ -102,7 +114,8 @@
       "River Lures are a favorite for this species of fish"
     ],
     "photoName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_FISH/CMPNDM_SALMON_PHOTO.jpg",
-    "thumbnailName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_FISH/FISH_SALMON_SOCKEYE.png"
+    "thumbnailName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_FISH/FISH_SALMON_SOCKEYE.png",
+    "type": "animal-fishes"
   },
   {
     "name": "Steelhead Trout",
@@ -111,43 +124,50 @@
       "Worms are the best bait to successfully catch trout"
     ],
     "photoName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_FISH/CMPNDM_TROUT_PHOTO.jpg",
-    "thumbnailName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_FISH/FISH_SPECKLED_TROUT.png"
+    "thumbnailName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_FISH/FISH_SPECKLED_TROUT.png",
+    "type": "animal-fishes"
   },
   {
     "name": "Legendary Bluegill.",
     "description": ["", ""],
     "photoName": "",
-    "thumbnailName": ""
+    "thumbnailName": "",
+    "type": "animal-fishes"
   },
   {
     "name": "Legendary Bluegill",
     "description": ["", ""],
     "photoName": "",
-    "thumbnailName": ""
+    "thumbnailName": "",
+    "type": "animal-fishes"
   },
   {
     "name": "Legendary Bullhead Catfish",
     "description": ["", ""],
     "photoName": "",
-    "thumbnailName": ""
+    "thumbnailName": "",
+    "type": "animal-fishes"
   },
   {
     "name": "Legendary Chain Pickerel",
     "description": ["", ""],
     "photoName": "",
-    "thumbnailName": ""
+    "thumbnailName": "",
+    "type": "animal-fishes"
   },
   {
     "name": "Legendary Channel Catfish",
     "description": ["", "(can't actually be caught)"],
     "photoName": "",
-    "thumbnailName": ""
+    "thumbnailName": "",
+    "type": "animal-fishes"
   },
   {
     "name": "Legendary Lake Sturgeon",
     "description": ["", ""],
     "photoName": "",
-    "thumbnailName": ""
+    "thumbnailName": "",
+    "type": "animal-fishes"
   },
   {
     "name": "Legendary Largemouth Bass",
@@ -156,19 +176,22 @@
       "You are most likely to catch this type of fish when it rains"
     ],
     "photoName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_FISH/CMPNDM_LGMBASS_PHOTO.jpg",
-    "thumbnailName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_FISH/FISH_LARGEMOUTHBASS.png"
+    "thumbnailName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_FISH/FISH_LARGEMOUTHBASS.png",
+    "type": "animal-fishes"
   },
   {
     "name": "Legendary Longnose Gar",
     "description": ["", ""],
     "photoName": "",
-    "thumbnailName": ""
+    "thumbnailName": "",
+    "type": "animal-fishes"
   },
   {
     "name": "Legendary Muskie",
     "description": ["", ""],
     "photoName": "",
-    "thumbnailName": ""
+    "thumbnailName": "",
+    "type": "animal-fishes"
   },
   {
     "name": "Legendary Northern Pike",
@@ -177,7 +200,8 @@
       "Rumor states that this fish can be found in O'Creagh's Run"
     ],
     "photoName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_FISH/CMPNDM_NORTHERN_PIKE_LEGENDARY_PHOTO.jpg",
-    "thumbnailName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_FISH/FISH_LEGENDARY_NORTHERN_PIKE.png"
+    "thumbnailName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_FISH/FISH_LEGENDARY_NORTHERN_PIKE.png",
+    "type": "animal-fishes"
   },
   {
     "name": "Legendary Perch",
@@ -186,36 +210,42 @@
       "Rumor states that this fish inhabits in Elysian Pool"
     ],
     "photoName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_FISH/CMPNDM_PERCH_LEGENDARY_PHOTO.jpg",
-    "thumbnailName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_FISH/FISH_LEGENDARY_PERCH.png"
+    "thumbnailName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_FISH/FISH_LEGENDARY_PERCH.png",
+    "type": "animal-fishes"
   },
   {
     "name": "Legendary Redfin Pickerel",
     "description": ["", ""],
     "photoName": "",
-    "thumbnailName": ""
+    "thumbnailName": "",
+    "type": "animal-fishes"
   },
   {
     "name": "Legendary Rock Bass",
     "description": ["", ""],
     "photoName": "",
-    "thumbnailName": ""
+    "thumbnailName": "",
+    "type": "animal-fishes"
   },
   {
     "name": "Legendary Smallmouth Bass",
     "description": ["", ""],
     "photoName": "",
-    "thumbnailName": ""
+    "thumbnailName": "",
+    "type": "animal-fishes"
   },
   {
     "name": "Legendary Sockeye Salmon",
     "description": ["", ""],
     "photoName": "",
-    "thumbnailName": ""
+    "thumbnailName": "",
+    "type": "animal-fishes"
   },
   {
     "name": "Legendary Steelhead Trout",
     "description": ["", ""],
     "photoName": "",
-    "thumbnailName": ""
+    "thumbnailName": "",
+    "type": "animal-fishes"
   }
 ]
