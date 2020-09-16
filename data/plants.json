@@ -401,12 +401,12 @@
   },
   {
     "name": "Wild Mint",
-    "value": "wild-mint",
+    "value": "wild_mint",
     "photoName": "plants/photos/wild_mint",
     "thumbnailName": "plants/icons/wild_mint",
     "description": false,
     "habitat": false,
-    "mapLocation": "wild",
+    "mapLocation": "wild_mint",
     "type": "plants"
   },
   {
@@ -430,6 +430,3 @@
     "type": "plants"
   }
 ]
-
-
-
