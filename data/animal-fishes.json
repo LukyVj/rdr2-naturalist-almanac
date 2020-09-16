@@ -1,21 +1,221 @@
 [
   {
     "name": "Bluegill",
-    "description": "Bluegill is a small freshwater fish, often preyed upon by Muskie and bass. They are quite easily caught using food baits, such as cheese. Bluegill prefer open water and are found in lakes and rivers all over the country. They are particularly active during rain. Fishermen around Scarlett Meadows tell tales of a Legendary Bluegill.",
-    "photoName": false,
-    "thumbnailName": false,
-    "habitat": false,
-    "mapLocation": "",
-    "type": "animal-fishes"
+    "description": [
+      "Bluegill is a small freshwater fish, often preyed upon by Muskie and bass. They are quite easily caught using food baits, such as cheese. Bluegill prefer open water and are found in lakes and rivers all over the country. They are particularly active during rain. Fishermen around Scarlett Meadows tell tales of a Legendary Bluegill.",
+      "You are most likely to catch these fish with Cheese Bait"
+    ],
+    "photoName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_FISH/CMPNDM_BLUEGILL_PHOTO.jpg",
+    "thumbnailName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_FISH/FISH_BLUEGILL.png"
   },
   {
-    "name": false,
-    "value": false,
-    "photoName": false,
-    "thumbnailName": false,
-    "description": false,
-    "habitat": false,
-    "mapLocation": "",
-    "type": "animal-fishes"
+    "name": "Bullhead Catfish",
+    "description": ["", ""],
+    "photoName": "",
+    "thumbnailName": ""
+  },
+  {
+    "name": "Chain Pickerel",
+    "description": [
+      "Chain Pickerel are a common sight in many of the country's lakes, rivers and swamps. The Chain Pickerel is a small but energetic, predatory fish. It reportedly favors corn and other food baits. Chain Pickerel prefer sunny weather. Fishermen in Big Valley claim that a Legendary Chain Pickerel can be found some way downriver from Cumberland Falls.",
+      "Using a Corn Bait will increase your chances of a successful catch"
+    ],
+    "photoName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_FISH/CMPNDM_CHAIN_PHOTO.jpg",
+    "thumnailName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_FISH/FISH_CHAINPICKEREL.png"
+  },
+  {
+    "name": "Redfin Pickerel",
+    "description": [
+      "Inhabiting rivers all over the south, Redfin Pickerel is very small and easy to catch. Redfin Pickerel are predators and prefer all food baits, especially bread, over man made lures. They are most active on warm, sunny days. People say that a Legendary Redfin Pickerel dwells somewhere near Thieves' Landing.",
+      "Bread Bait will easily attract this type of fish"
+    ],
+    "photoName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_FISH/CMPNDM_REDFIN_PHOTO.jpg",
+    "thumbnailName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_FISH/FISH_REDFINPICKEREL.png"
+  },
+  {
+    "name": "Channel Catfish",
+    "description": ["", ""],
+    "photoName": "",
+    "thumbnailName": ""
+  },
+  {
+    "name": "Lake Sturgeon",
+    "description": ["", ""],
+    "photoName": "",
+    "thumbnailName": ""
+  },
+  {
+    "name": "Largemouth Bass",
+    "description": ["", ""],
+    "photoName": "",
+    "thumbnailName": ""
+  },
+  {
+    "name": "Longnose Gar",
+    "description": ["", ""],
+    "photoName": "",
+    "thumbnailName": ""
+  },
+  {
+    "name": "Muskie",
+    "description": [
+      "Muskies are long, slender-bodied, predatory fish, inhabiting northern lakes. They will ignore food baits and favors Lake Lures. Muskie are most active on cloudy, overcast days. There are legends of a monster Muskie having been sighted off the coast of Roanoke Ridge.",
+      "Using Lake Lures will increase your chances of a successful catch"
+    ],
+    "photoName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_FISH/CMPNDM_MUSKIE_PHOTO.jpg",
+    "thumbnailName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_FISH/FISH_MUSKIE_CLEAR.png"
+  },
+  {
+    "name": "Northern Pike",
+    "description": ["", ""],
+    "photoName": "",
+    "thumbnailName": ""
+  },
+  {
+    "name": "Perch",
+    "description": ["", ""],
+    "photoName": "",
+    "thumbnailName": ""
+  },
+  {
+    "name": "Rock Bass",
+    "description": [
+      "Rock Bass can be found in clear waters all over the country. Small and active near the surface, they are not too difficult to reel in. Rock Bass will take many food and natural baits, and are especially fond of cheese. They are particularly active on sunny days. Fishermen's lore has it that there is a Legendary Rock Bass living in the peaceful woodland region of Tall Trees.",
+      "Bass prefer natural baits like cheese"
+    ],
+    "photoName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_FISH/CMPNDM_ROCKBASS_PHOTO.jpg",
+    "thumbnailName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_FISH/FISH_ROCKBASS.png"
+  },
+  {
+    "name": "Smallmouth Bass",
+    "description": [
+      "Smallmouth Bass are commonly seen in northern rivers. They prefer natural baits, such as crickets, over lures. Larger and tougher than Rock Bass, Smallmouth Bass can put up quite a fight once hooked. They seem to be most active during rain. A Legendary Smallmouth Bass is said to live in western Big Valley.",
+      "Using natural baits will increase your chances of a catch"
+    ],
+    "photoName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_FISH/CMPNDM_SMMBASS_PHOTO.jpg",
+    "thumbnailName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_FISH/FISH_SMALLMOUTHBASS.png"
+  },
+  {
+    "name": "Sockeye Salmon",
+    "description": [
+      "Sockeye Salmon can sometimes be seen leaping upstream in their habitat of fast-flowing, cold river water. These hefty fish are sought after for their tasty, nutritious flesh. Choosy about bait, Sockeye Salmon will ignore food-baited bobbers, but can be tempted by River Lures. They are known to be more active when the weather is overcast. The remote, freezing territory at the foot of the Western Grizzly Mountains is rumored to be home to a whopping Legendary Sockeye Salmon.",
+      "River Lures are a favorite for this species of fish"
+    ],
+    "photoName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_FISH/CMPNDM_SALMON_PHOTO.jpg",
+    "thumbnailName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_FISH/FISH_SALMON_SOCKEYE.png"
+  },
+  {
+    "name": "Steelhead Trout",
+    "description": [
+      "Steelhead Trout populations are dotted around various lakes, mostly in the south. Steelhead Trout respond to many types of bait, most especially worms. They are fairly large and good to eat. Bigger specimens can be quite powerful and strongly resist being reeled in. They are notably more active in rainy weather. A few hardy fishermen in the northern Roanoke Valley claim to have seen, but never managed to catch, a Legendary Steelhead Trout.",
+      "Worms are the best bait to successfully catch trout"
+    ],
+    "photoName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_FISH/CMPNDM_TROUT_PHOTO.jpg",
+    "thumbnailName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_FISH/FISH_SPECKLED_TROUT.png"
+  },
+  {
+    "name": "Legendary Bluegill.",
+    "description": ["", ""],
+    "photoName": "",
+    "thumbnailName": ""
+  },
+  {
+    "name": "Legendary Bluegill",
+    "description": ["", ""],
+    "photoName": "",
+    "thumbnailName": ""
+  },
+  {
+    "name": "Legendary Bullhead Catfish",
+    "description": ["", ""],
+    "photoName": "",
+    "thumbnailName": ""
+  },
+  {
+    "name": "Legendary Chain Pickerel",
+    "description": ["", ""],
+    "photoName": "",
+    "thumbnailName": ""
+  },
+  {
+    "name": "Legendary Channel Catfish",
+    "description": ["", "(can't actually be caught)"],
+    "photoName": "",
+    "thumbnailName": ""
+  },
+  {
+    "name": "Legendary Lake Sturgeon",
+    "description": ["", ""],
+    "photoName": "",
+    "thumbnailName": ""
+  },
+  {
+    "name": "Legendary Largemouth Bass",
+    "description": [
+      "Largemouth Bass inhabit open and flowing water all around the Southern States. They can be easy to spot, due to swimming energetically near the surface, but less easy to catch. Anglers report that Largemouth Bass don't seem to care for most lures, but respond well to fresh crayfish. Rainy weather is linked with increased activity. Some say that the San Luis River is home to a Legendary Largemouth Bass.",
+      "You are most likely to catch this type of fish when it rains"
+    ],
+    "photoName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_FISH/CMPNDM_LGMBASS_PHOTO.jpg",
+    "thumbnailName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_FISH/FISH_LARGEMOUTHBASS.png"
+  },
+  {
+    "name": "Legendary Longnose Gar",
+    "description": ["", ""],
+    "photoName": "",
+    "thumbnailName": ""
+  },
+  {
+    "name": "Legendary Muskie",
+    "description": ["", ""],
+    "photoName": "",
+    "thumbnailName": ""
+  },
+  {
+    "name": "Legendary Northern Pike",
+    "description": [
+      "The Legendary Northern Pike can be found in the waters near O'Creagh's Run. Special Lake Lures are considered to be the best way to attract this fish. Like other Pike, this fish becomes more active when the weather is overcast and gray. Locals have estimated the size of this Legendary Pike to be around fifty inches long and weighing in at over forty pounds.",
+      "Rumor states that this fish can be found in O'Creagh's Run"
+    ],
+    "photoName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_FISH/CMPNDM_NORTHERN_PIKE_LEGENDARY_PHOTO.jpg",
+    "thumbnailName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_FISH/FISH_LEGENDARY_NORTHERN_PIKE.png"
+  },
+  {
+    "name": "Legendary Perch",
+    "description": [
+      "The Legendary Perch can be found in Elysian Pool. Local fishermen state that the best way to attract this fish is with Special Lake Lures. It has been noted that this fish becomes more active during sunnier weather. The estimated size of this Legendary Perch is considered to be around nineteen inches and weighing over two pounds.",
+      "Rumor states that this fish inhabits in Elysian Pool"
+    ],
+    "photoName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_FISH/CMPNDM_PERCH_LEGENDARY_PHOTO.jpg",
+    "thumbnailName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_FISH/FISH_LEGENDARY_PERCH.png"
+  },
+  {
+    "name": "Legendary Redfin Pickerel",
+    "description": ["", ""],
+    "photoName": "",
+    "thumbnailName": ""
+  },
+  {
+    "name": "Legendary Rock Bass",
+    "description": ["", ""],
+    "photoName": "",
+    "thumbnailName": ""
+  },
+  {
+    "name": "Legendary Smallmouth Bass",
+    "description": ["", ""],
+    "photoName": "",
+    "thumbnailName": ""
+  },
+  {
+    "name": "Legendary Sockeye Salmon",
+    "description": ["", ""],
+    "photoName": "",
+    "thumbnailName": ""
+  },
+  {
+    "name": "Legendary Steelhead Trout",
+    "description": ["", ""],
+    "photoName": "",
+    "thumbnailName": ""
   }
 ]
