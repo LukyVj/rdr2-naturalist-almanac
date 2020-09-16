@@ -53,7 +53,7 @@
     "name": "Blackcurrant",
     "value": "blackcurrant",
     "photoName": "plants/photos/blackcurrant",
-    "thumbnailName": "plants/icons/blackcurrant",
+    "thumbnailName": "plants/icons/black_currant",
     "description": false,
     "habitat": false,
     "mapLocation": "blackcurrant",
@@ -430,3 +430,6 @@
     "type": "plants"
   }
 ]
+
+
+
