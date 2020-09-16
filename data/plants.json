@@ -12,22 +12,30 @@
   {
     "name": "Alaskan Ginseng",
     "value": "alaskan_ginseng",
-    "photoName": "alaskan_ginseng",
-    "thumbnailName": "alaskan_ginseng",
-    "description": false,
+    "photoName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_PLANTS/PLANT_ALASKIN_GINSENG_PHOTO.jpg",
+    "thumbnailName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_PLANTS/PLANT_ALASKAN_GINSENG.png",
+    "description": [
+      "Alaskan Ginseng shrubs can be identified by their large palmate leaves, thorny stems, and small red fruits. The clusters of berries can be found growing at the top of the plant. These plants are usually found in forests and moist areas, growing across Ambarino, and northern West Elizabeth. This medicinal plant can be crafted into medicine or consumed to replenish your Health Core.",
+      "Can be crafted into a Potent Miracle Tonic"
+    ],
     "habitat": false,
     "mapLocation": "alaskan_ginseng",
-    "type": "plants"
+    "type": "plants",
+    "latinName": "Oplopanax Horridus"
   },
   {
     "name": "American Ginseng",
     "value": "american_ginseng",
-    "photoName": "american_ginseng",
-    "thumbnailName": "american_ginseng",
-    "description": false,
+    "photoName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_PLANTS/PLANT_AMERICAN_GINSENG_PHOTO.jpg",
+    "thumbnailName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_PLANTS/PLANT_AMERICAN_GINSENG.png",
+    "description": [
+      "American Ginseng shrubs can be identified by their large palmate leaves, smooth stems and small cluster of red berries. The cluster of berries are smaller than the clusters found on Alaskan Ginseng. These plants are native to forests and moist areas, from West Elizabeth to the edges of New Hanover. This medicinal plant can be crafted into medicine or consumed to replenish your Health Core.",
+      "Can be crafted into a Potent Miracle Tonic"
+    ],
     "habitat": false,
     "mapLocation": "american_ginseng",
-    "type": "plants"
+    "type": "plants",
+    "latinName": "Panax Quinquefolius"
   },
   {
     "name": "Bay Bolete",
@@ -42,12 +50,16 @@
   {
     "name": "Blackberry",
     "value": "blackberry",
-    "photoName": "blackberry",
-    "thumbnailName": "blackberry",
-    "description": false,
+    "photoName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_PLANTS/PLANT_BLACKBERRY_PHOTO.jpg",
+    "thumbnailName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_PLANTS/PLANT_BLACKBERRY.png",
+    "description": [
+      "Blackberry shrubs can be identified by the serrated leaves and black aggregate fruit. The shrubs can grow in poor soil so locations like woodlands, hedges and hillsides make the perfect habitats. This plant is popular in West Elizabeth, as well as along the Dakota River banks. Blackberries can be consumed to replenish your Health Core or crafted into Predator Bait.",
+      "Can be crafted into a Potent Predator Bait"
+    ],
     "habitat": false,
     "mapLocation": "blackberry",
-    "type": "plants"
+    "type": "plants",
+    "latinName": "Rubus"
   },
   {
     "name": "Blackcurrant",
@@ -72,12 +84,16 @@
   {
     "name": "Chanterelles",
     "value": "chanterelles",
-    "photoName": "chanterelles",
-    "thumbnailName": "chanterelles",
-    "description": false,
+    "photoName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_PLANTS/PLANT_CHANTERELLES_PHOTO.jpg",
+    "thumbnailName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_PLANTS/PLANT_CHANTERELLES.png",
+    "description": [
+      "Chanterelles are large yellow fungi that grow in clusters on low ground. The color of the fungi can range from white to bright orange which makes them easy to spot. This type of fungi can often be found in grass areas, woodlands across Lemoyne, and the east of New Hanover. Chanterelles can be consumed to increase your Health Core or crafted into Herbivore Bait.",
+      "Can be crafted into a Potent Herbivore Bait"
+    ],
     "habitat": false,
     "mapLocation": "chanterelles",
-    "type": "plants"
+    "type": "plants",
+    "latinName": "Cantharellus"
   },
   {
     "name": "Cigar Orchid",
@@ -102,22 +118,30 @@
   {
     "name": "Common Bulrush",
     "value": "common_bulrush",
-    "photoName": "common_bulrush",
-    "thumbnailName": "common_bulrush",
-    "description": false,
+    "photoName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_PLANTS/PLANT_COMMON_BULRUSH_PHOTO.jpg",
+    "thumbnailName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_PLANTS/PLANT_COMMON_BULBRUSH.png",
+    "description": [
+      "Common Bulrush can be recognized by the long leaves and brown staminate flowers. This plant can be found near streams and lakes in every region across America. The plant is poisonous to humans so it should never be consumed, though it can be used in crafting a Horse Ointment. ",
+      "Can be crafted into a Horse Ointment"
+    ],
     "habitat": false,
     "mapLocation": "common_bulrush",
-    "type": "plants"
+    "type": "plants",
+    "latinName": "Typha Latifolia"
   },
   {
     "name": "Creeping Thyme",
     "value": "creeping_thyme",
-    "photoName": "creeping_thyme",
-    "thumbnailName": "creeping_thyme",
-    "description": false,
+    "photoName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_PLANTS/PLANT_CREEPING_THYME_PHOTO.jpg",
+    "thumbnailName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_PLANTS/PLANT_CREEPING_THYME.png",
+    "description": [
+      "Creeping Thyme is an evergreen subshrub with woody stems, small green leaves and tiny purple bell shaped flowers. The durability of this plant means that it can be found in most places across America. This plant can often be found growing in thin soil near river banks, sandy soil, and near rocks. The herb can be consumed to replenish your Dead Eye Core or as a seasoning when cooking.",
+      "Can be used in the Thyme Big Game recipe"
+    ],
     "habitat": false,
     "mapLocation": "creeping_thyme",
-    "type": "plants"
+    "type": "plants",
+    "latinName": "Thymus Serpyllum"
   },
   {
     "name": "Desert Sage",
@@ -142,22 +166,30 @@
   {
     "name": "English Mace",
     "value": "english_mace",
-    "photoName": "english_mace",
-    "thumbnailName": "english_mace",
-    "description": false,
+    "photoName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_PLANTS/PLANT_ENGLISH_MACE_PHOTO.jpg",
+    "thumbnailName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_PLANTS/PLANT_ENGLISH_MACE.png",
+    "description": [
+      "English Mace can be identified by their long stems, serrated leaves, and numerous small creamy yellow flowers. They can be found growing near the river banks in Rio Bravo, New Austin. English Mace can be used in crafting to increase your health levels or to help restore the Horse Stamina Core.",
+      "Can be used to craft a Special Health Cure"
+    ],
     "habitat": false,
     "mapLocation": "english_mace",
-    "type": "plants"
+    "type": "plants",
+    "latinName": "Achillea Ageratum"
   },
   {
     "name": "Evergreen Huckleberry",
     "value": "evergreen_huckleberry",
-    "photoName": "evergreen_huckleberry",
-    "thumbnailName": "evergreen_huckleberry",
-    "description": false,
+    "photoName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_PLANTS/PLANT_EVERGREEN_HUCKLEBERRY_PHOTO.jpg",
+    "thumbnailName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_PLANTS/PLANT_EVERGREEN_HUCKLEBERRY.png",
+    "description": [
+      "Evergreen Huckleberry shrubs can be recognized by the sharp evergreen leaves and black berries. The shrubs be found along the Kamassa River that runs through Lemoyne and New Hanover. The berries can be consumed to replenish your Health Core or crafted into Predator Bait.",
+      "Can be crafted into a Potent Predator Bait"
+    ],
     "habitat": false,
     "mapLocation": "evergreen_huckleberry",
-    "type": "plants"
+    "type": "plants",
+    "latinName": "Vaccinium Ovatum"
   },
   {
     "name": "Ghost Orchid",
@@ -172,32 +204,44 @@
   {
     "name": "Golden Currant",
     "value": "golden_currant",
-    "photoName": "golden_currant",
-    "thumbnailName": "golden_currant",
-    "description": false,
+    "photoName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_PLANTS/PLANT_GOLDEN_CURRANT_PHOTO.jpg",
+    "thumbnailName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_PLANTS/PLANT_GOLDEN_CURRANT.png",
+    "description": [
+      "Golden Currant shrubs are easily recognized by their bright yellow petals and golden berries. Shrubs can often be found in foothills and along streams in West Elizabeth and the north-east of New Hanover. This herb is one of the key ingredients when making Snake Oil. When consumed by itself, the herb will refill your Dead Eye Core.",
+      "Can be crafted into Special Snake Oil"
+    ],
     "habitat": false,
     "mapLocation": "golden_currant",
-    "type": "plants"
+    "type": "plants",
+    "latinName": "Ribes Aureum"
   },
   {
     "name": "Hummingbird Sage",
     "value": "hummingbird_sage",
-    "photoName": "hummingbird_sage",
-    "thumbnailName": "hummingbird_sage",
-    "description": false,
+    "photoName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_PLANTS/PLANT_HUMMINGBIRD_SAGE_PHOTO.jpg",
+    "thumbnailName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_PLANTS/PLANT_HUMMINGBIRD_SAGE.png",
+    "description": [
+      "Hummingbird Sage can be identified by their square stems and their deep purple flowers. A common place to spot these herbs is in dry shaded areas, under dense foliage and trees in Lemoyne, the west side of West Elizabeth, as well as along both banks of the Kamassa River in New Hanover. When crafted into Bitters or consumed, this herb will recharge your Stamina Core.",
+      "Can be consumed to refill your Stamina Core"
+    ],
     "habitat": false,
     "mapLocation": "hummingbird_sage",
-    "type": "plants"
+    "type": "plants",
+    "latinName": "Salvia Spathacea"
   },
   {
     "name": "Indian Tobacco",
     "value": "indian_tobacco",
-    "photoName": "indian_tobacco",
-    "thumbnailName": "indian_tobacco",
-    "description": false,
+    "photoName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_PLANTS/PLANT_INDIAN_TOBACCO_PHOTO.jpg",
+    "thumbnailName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_PLANTS/PLANT_INDIAN_TOBACCO.png",
+    "description": [
+      "Indian Tobacco can be identified by their tall height, serrated leaves and delicate lilac flowers. These plants are native to woodlands and savannas and can be found growing in West Elizabeth, Ambarino, and Lemoyne. The herb can be consumed to increase your Dead Eye Core, or as one of the key ingredients to make Snake Oil.",
+      "Can be used to craft a Potent Miracle Tonic"
+    ],
     "habitat": false,
     "mapLocation": "indian_tobacco",
-    "type": "plants"
+    "type": "plants",
+    "latinName": "Lobelia Inflata"
   },
   {
     "name": "Lady of the Night Orchid",
@@ -222,12 +266,16 @@
   {
     "name": "Milkweed",
     "value": "milkweed",
-    "photoName": "milkweed",
-    "thumbnailName": "milkweed",
-    "description": false,
+    "photoName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_PLANTS/PLANT_MILKWEED_PHOTO.jpg",
+    "thumbnailName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_PLANTS/PLANT_MILKWEED.png",
+    "description": [
+      "Milkweed can be identified by the large stems and leaves, and clusters of lilac flowers. It is a popular plant that can be seen growing near the river banks of Bayou Nwa, and Dewberry Creek in Lemoyne. This herb contains cardiac glycoside poisons which can be fatal to animals, depending on the amount consumed and the age of the plant. Arrows can be tipped in the poisons when hunting and fighting. If processed properly, this herb can be consumed to increase your Health levels or crafted into special items.",
+      "Can be consumed to refill your Health Core"
+    ],
     "habitat": false,
     "mapLocation": "milkweed",
-    "type": "plants"
+    "type": "plants",
+    "latinName": "Asclepias Syriaca"
   },
   {
     "name": "Moccasin Orchid",
@@ -252,32 +300,44 @@
   {
     "name": "Oleander Sage",
     "value": "oleander_sage",
-    "photoName": "oleander_sage",
-    "thumbnailName": "oleander_sage",
-    "description": false,
+    "photoName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_PLANTS/PLANT_OLEANDER_SAGE_PHOTO.jpg",
+    "thumbnailName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_PLANTS/PLANT_OLEANDER_SAGE.png  ",
+    "description": [
+      "Oleander Sage shrubs can be identified by the thin leaves and small five petal pink flowers. The popular herb can be seen growing near the river banks of Bayou Nwa. This shrub is considered to be one of the most poisonous plants in America and should never be consumed. The cardiac glycoside poisons produced by this plant can be used to craft deadly weapons.",
+      "Can be used to craft a Poison Throwing Knife"
+    ],
     "habitat": false,
     "mapLocation": "oleander_sage",
-    "type": "plants"
+    "type": "plants",
+    "latinName": "Nerium"
   },
   {
     "name": "Oregano",
     "value": "oregano",
-    "photoName": "oregano",
-    "thumbnailName": "oregano",
-    "description": false,
+    "photoName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_PLANTS/PLANT_OREGANO_PHOTO.jpg",
+    "thumbnailName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_PLANTS/PLANT_OREGANO.png",
+    "description": [
+      "Oregano can be recognized by their oval shaped leaves and purple sprouting flowers. The shrubs spread quickly in diameter and can grow up to thirty inches. This plant thrives in dry grasslands which makes it a popular plant across America as it can be found in most places. Oregano is a popular herb used for seasoning meats, and can also be consumed by itself to increase your Stamina Core.",
+      "Can be used in the Oregano Plump Bird recipe"
+    ],
     "habitat": false,
     "mapLocation": "oregano",
-    "type": "plants"
+    "type": "plants",
+    "latinName": "Origanum Vulgare"
   },
   {
     "name": "Parasol Mushroom",
     "value": "parasol-mushroom",
-    "photoName": "parasol_mushroom",
-    "thumbnailName": "parasol_mushroom",
-    "description": false,
+    "photoName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_PLANTS/PLANT_PARASOL_MUSHROOM_PHOTO.jpg",
+    "thumbnailName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_PLANTS/PLANT_PARASOL_MUSHROOM.png",
+    "description": [
+      "Parasol Mushroom is a fungi that can be recognized by its domed shape pileus. This type of mushroom can often be found in well-drained soil and woodlands across America. These mushrooms should never be consumed when raw as they contain some toxic elements. When prepared correctly, they can increase your Health Core. They can also be crafted into Herbivore Bait.",
+      "Can be crafted into a Special Horse Reviver"
+    ],
     "habitat": false,
     "mapLocation": "parasol",
-    "type": "plants"
+    "type": "plants",
+    "latinName": "Macrolepiota Procera"
   },
   {
     "name": "Prairie Poppy",
@@ -292,12 +352,16 @@
   {
     "name": "Queen's Orchid",
     "value": "queen_s_orchid",
-    "photoName": "queen_s_orchid",
-    "thumbnailName": "queen_s_orchid",
-    "description": false,
+    "photoName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_PLANTS/PLANT_QUEENS_ORCHID_PHOTO.jpg",
+    "thumbnailName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_PLANTS/PLANT_QUEENS_ORCHID.png",
+    "description": [
+      "The Queen's Orchid can be identified by the white sepals, and purple and white curled petal. The Queen's Orchid is native to swampland areas and can be found growing in Bayou Nwa, Lemoyne. The orchidelirium trend has meant that this rare orchid is extremely valuable to collectors and botanists.",
+      "A rare and valuable plant"
+    ],
     "habitat": false,
     "mapLocation": "queen_s_orchid",
-    "type": "plants"
+    "type": "plants",
+    "latinName": "Thelymitra Crinita"
   },
   {
     "name": "Ram's Head",
@@ -322,12 +386,16 @@
   {
     "name": "Red Raspberry",
     "value": "red_raspberry",
-    "photoName": "red_raspberry",
-    "thumbnailName": "red_raspberry",
-    "description": false,
+    "photoName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_PLANTS/PLANT_RED_RASPBERRY_PHOTO.jpg",
+    "thumbnailName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_PLANTS/PLANT_RED_RASPBERRY.png",
+    "description": [
+      "Red Raspberry bushes are easily identified by their large size and their bright red berries. Due to the simple conditions that this plant requires, shrubs can be found flourishing across most regions of America. The raspberry fruit can be consumed to replenish your Health Core or crafted into Predator Bait.",
+      "Can be crafted into a Potent Herbivore Bait"
+    ],
     "habitat": false,
     "mapLocation": "red_raspberry",
-    "type": "plants"
+    "type": "plants",
+    "latinName": "Rubus Idaeus"
   },
   {
     "name": "Red Sage",
@@ -382,12 +450,16 @@
   {
     "name": "Wild Carrot",
     "value": "wild_carrot",
-    "photoName": "wild_carrot",
-    "thumbnailName": "wild_carrot",
-    "description": false,
+    "photoName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_PLANTS/PLANT_WILD_CARROT_PHOTO.jpg",
+    "thumbnailName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_PLANTS/PLANT_WILD_CARROT.png",
+    "description": [
+      "Wild Carrot can be easily recognized by its long thin stems and white clustered flowers. The durability of this plant means it can be seen growing across most regions of America, often along roads or in fields. This plant can be crafted into horse items or consumed to replenish your Health Core.",
+      "Can be crafted into a Horse Meal"
+    ],
     "habitat": false,
     "mapLocation": "wild_carrot",
-    "type": "plants"
+    "type": "plants",
+    "latinName": "Daucus Carota"
   },
   {
     "name": "Wild Feverfew",
@@ -402,31 +474,43 @@
   {
     "name": "Wild Mint",
     "value": "wild_mint",
-    "photoName": "wild_mint",
-    "thumbnailName": "wild_mint",
-    "description": false,
+    "photoName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_PLANTS/PLANT_WILD_MINT_PHOTO.jpg",
+    "thumbnailName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_PLANTS/PLANT_WILD_MINT.png",
+    "description": [
+      "Wild Mint can be identified by their square stems, pale purple flowers and fragrant leaves. Mint can grow up to thirty inches, making them easy to spot. This plant is common to marshes, along streams and moist meadows which makes it a popular plant across America. Mint is a popular herb used for seasoning meats and can also be consumed by itself to increase your Health Core.",
+      "Can be used in the Minty Prime Beef recipe"
+    ],
     "habitat": false,
     "mapLocation": "wild_mint",
-    "type": "plants"
+    "type": "plants",
+    "latinName": "Mentha Arvensis"
   },
   {
     "name": "Wintergreen Berry",
     "value": "wintergreen_berry",
-    "photoName": "wintergreen_berry",
-    "thumbnailName": "wintergreen_berry",
-    "description": false,
+    "photoName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_PLANTS/PLANT_WINTERGREEN_BERRY_PHOTO.jpg",
+    "thumbnailName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_PLANTS/PLANT_WINTERGREEN_BERRY.png",
+    "description": [
+      "Wintergreen Berry is a low growing shrub that is identifiable by the evergreen leaves and red berries. Shrubs can be found in woodlands and forests in the northern regions of Ambarino and New Hanover. The plant can be consumed to replenish your Health Core or crafted into Predator Bait.",
+      "Can be crafted into a Potent Predator Bait"
+    ],
     "habitat": false,
     "mapLocation": "wintergreen_berry",
-    "type": "plants"
+    "type": "plants",
+    "latinName": "Gaultheria Procumbens"
   },
   {
     "name": "Yarrow",
     "value": "yarrow",
-    "photoName": "yarrow",
-    "thumbnailName": "yarrow",
-    "description": false,
+    "photoName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_PLANTS/PLANT_YARROW_PHOTO.jpg",
+    "thumbnailName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_PLANTS/PLANT_YARROW.png",
+    "description": [
+      "Yarrow is easily recognized by the long thin stems and red clusters of flowers. This plant can be found in grasslands and open forest areas in New Hanover and Lemoyne. Yarrow can be consumed to replenish your Health Core or crafted into medicine.",
+      "Can be crafted into a Potent Health Cure"
+    ],
     "habitat": false,
     "mapLocation": "yarrow",
-    "type": "plants"
+    "type": "plants",
+    "latinName": "Achillea Millefolium"
   }
 ]
