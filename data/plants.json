@@ -6,7 +6,7 @@
     "thumbnailName": "plants/icons/acuna_s_star_orchid",
     "description": false,
     "habitat": false,
-    "mapLocation": "",
+    "mapLocation": "acuna_s_star_orchid",
     "type": "plants"
   },
   {
@@ -16,7 +16,7 @@
     "thumbnailName": "plants/icons/alaskan_ginseng",
     "description": false,
     "habitat": false,
-    "mapLocation": "",
+    "mapLocation": "alaskan_ginseng",
     "type": "plants"
   },
   {
@@ -26,7 +26,7 @@
     "thumbnailName": "plants/icons/american_ginseng",
     "description": false,
     "habitat": false,
-    "mapLocation": "",
+    "mapLocation": "american_ginseng",
     "type": "plants"
   },
   {
@@ -36,7 +36,7 @@
     "thumbnailName": "plants/icons/bay_bolete",
     "description": false,
     "habitat": false,
-    "mapLocation": "",
+    "mapLocation": "bay_bolete",
     "type": "plants"
   },
   {
@@ -46,7 +46,7 @@
     "thumbnailName": "plants/icons/blackberry",
     "description": false,
     "habitat": false,
-    "mapLocation": "",
+    "mapLocation": "blackberry",
     "type": "plants"
   },
   {
@@ -56,7 +56,7 @@
     "thumbnailName": "plants/icons/blackcurrant",
     "description": false,
     "habitat": false,
-    "mapLocation": "",
+    "mapLocation": "blackcurrant",
     "type": "plants"
   },
   {
@@ -66,7 +66,7 @@
     "thumbnailName": "plants/icons/burdock_root",
     "description": false,
     "habitat": false,
-    "mapLocation": "",
+    "mapLocation": "burdock_root",
     "type": "plants"
   },
   {
@@ -76,7 +76,7 @@
     "thumbnailName": "plants/icons/chanterelles",
     "description": false,
     "habitat": false,
-    "mapLocation": "",
+    "mapLocation": "chanterelles",
     "type": "plants"
   },
   {
@@ -86,7 +86,7 @@
     "thumbnailName": "plants/icons/cigar_orchid",
     "description": false,
     "habitat": false,
-    "mapLocation": "",
+    "mapLocation": "cigar_orchid",
     "type": "plants"
   },
   {
@@ -96,7 +96,7 @@
     "thumbnailName": "plants/icons/clamshell_orchid",
     "description": false,
     "habitat": false,
-    "mapLocation": "",
+    "mapLocation": "clamshell_orchid",
     "type": "plants"
   },
   {
@@ -106,7 +106,7 @@
     "thumbnailName": "plants/icons/common_bulrush",
     "description": false,
     "habitat": false,
-    "mapLocation": "",
+    "mapLocation": "common_bulrush",
     "type": "plants"
   },
   {
@@ -116,7 +116,7 @@
     "thumbnailName": "plants/icons/creeping_thyme",
     "description": false,
     "habitat": false,
-    "mapLocation": "",
+    "mapLocation": "creeping_thyme",
     "type": "plants"
   },
   {
@@ -126,7 +126,7 @@
     "thumbnailName": "plants/icons/desert_sage",
     "description": false,
     "habitat": false,
-    "mapLocation": "",
+    "mapLocation": "desert_sage",
     "type": "plants"
   },
   {
@@ -136,7 +136,7 @@
     "thumbnailName": "plants/icons/dragon_s_mouth_orchid",
     "description": false,
     "habitat": false,
-    "mapLocation": "",
+    "mapLocation": "dragon_s_mouth_orchid",
     "type": "plants"
   },
   {
@@ -146,7 +146,7 @@
     "thumbnailName": "plants/icons/english_mace",
     "description": false,
     "habitat": false,
-    "mapLocation": "",
+    "mapLocation": "english_mace",
     "type": "plants"
   },
   {
@@ -156,7 +156,7 @@
     "thumbnailName": "plants/icons/evergreen_huckleberry",
     "description": false,
     "habitat": false,
-    "mapLocation": "",
+    "mapLocation": "evergreen_huckleberry",
     "type": "plants"
   },
   {
@@ -166,7 +166,7 @@
     "thumbnailName": "plants/icons/ghost_orchid",
     "description": false,
     "habitat": false,
-    "mapLocation": "",
+    "mapLocation": "ghost_orchid",
     "type": "plants"
   },
   {
@@ -176,7 +176,7 @@
     "thumbnailName": "plants/icons/golden_currant",
     "description": false,
     "habitat": false,
-    "mapLocation": "",
+    "mapLocation": "golden_currant",
     "type": "plants"
   },
   {
@@ -186,7 +186,7 @@
     "thumbnailName": "plants/icons/hummingbird_sage",
     "description": false,
     "habitat": false,
-    "mapLocation": "",
+    "mapLocation": "hummingbird_sage",
     "type": "plants"
   },
   {
@@ -196,7 +196,7 @@
     "thumbnailName": "plants/icons/indian_tobacco",
     "description": false,
     "habitat": false,
-    "mapLocation": "",
+    "mapLocation": "indian_tobacco",
     "type": "plants"
   },
   {
@@ -206,7 +206,7 @@
     "thumbnailName": "plants/icons/lady_of_the_night_orchid",
     "description": false,
     "habitat": false,
-    "mapLocation": "",
+    "mapLocation": "lady_of_the_night_orchid",
     "type": "plants"
   },
   {
@@ -216,7 +216,7 @@
     "thumbnailName": "plants/icons/lady_slipper_orchid",
     "description": false,
     "habitat": false,
-    "mapLocation": "",
+    "mapLocation": "lady_slipper_orchid",
     "type": "plants"
   },
   {
@@ -226,7 +226,7 @@
     "thumbnailName": "plants/icons/milkweed",
     "description": false,
     "habitat": false,
-    "mapLocation": "",
+    "mapLocation": "milkweed",
     "type": "plants"
   },
   {
@@ -236,7 +236,7 @@
     "thumbnailName": "plants/icons/moccasin_orchid",
     "description": false,
     "habitat": false,
-    "mapLocation": "",
+    "mapLocation": "moccasin_orchid",
     "type": "plants"
   },
   {
@@ -246,7 +246,7 @@
     "thumbnailName": "plants/icons/night_scented_orchid",
     "description": false,
     "habitat": false,
-    "mapLocation": "",
+    "mapLocation": "night_scented_orchid",
     "type": "plants"
   },
   {
@@ -256,7 +256,7 @@
     "thumbnailName": "plants/icons/oleander_sage",
     "description": false,
     "habitat": false,
-    "mapLocation": "",
+    "mapLocation": "oleander_sage",
     "type": "plants"
   },
   {
@@ -266,7 +266,7 @@
     "thumbnailName": "plants/icons/oregano",
     "description": false,
     "habitat": false,
-    "mapLocation": "",
+    "mapLocation": "oregano",
     "type": "plants"
   },
   {
@@ -276,7 +276,7 @@
     "thumbnailName": "plants/icons/parasol_mushroom",
     "description": false,
     "habitat": false,
-    "mapLocation": "",
+    "mapLocation": "parasol",
     "type": "plants"
   },
   {
@@ -286,7 +286,7 @@
     "thumbnailName": "plants/icons/prairie_poppy",
     "description": false,
     "habitat": false,
-    "mapLocation": "",
+    "mapLocation": "prairie_poppy",
     "type": "plants"
   },
   {
@@ -296,7 +296,7 @@
     "thumbnailName": "plants/icons/queen_s_orchid",
     "description": false,
     "habitat": false,
-    "mapLocation": "",
+    "mapLocation": "queen_s_orchid",
     "type": "plants"
   },
   {
@@ -306,7 +306,7 @@
     "thumbnailName": "plants/icons/ram_s_head",
     "description": false,
     "habitat": false,
-    "mapLocation": "",
+    "mapLocation": "ram_s_head",
     "type": "plants"
   },
   {
@@ -316,7 +316,7 @@
     "thumbnailName": "plants/icons/rat_tail_orchid",
     "description": false,
     "habitat": false,
-    "mapLocation": "",
+    "mapLocation": "rat_tail_orchid",
     "type": "plants"
   },
   {
@@ -326,7 +326,7 @@
     "thumbnailName": "plants/icons/red_raspberry",
     "description": false,
     "habitat": false,
-    "mapLocation": "",
+    "mapLocation": "red_raspberry",
     "type": "plants"
   },
   {
@@ -336,7 +336,7 @@
     "thumbnailName": "plants/icons/red_sage",
     "description": false,
     "habitat": false,
-    "mapLocation": "",
+    "mapLocation": "red_sage",
     "type": "plants"
   },
   {
@@ -346,7 +346,7 @@
     "thumbnailName": "plants/icons/sparrow_egg_orchid",
     "description": false,
     "habitat": false,
-    "mapLocation": "",
+    "mapLocation": "sparrow_egg_orchid",
     "type": "plants"
   },
   {
@@ -356,7 +356,7 @@
     "thumbnailName": "plants/icons/spider_orchid",
     "description": false,
     "habitat": false,
-    "mapLocation": "",
+    "mapLocation": "spider_orchid",
     "type": "plants"
   },
   {
@@ -366,7 +366,7 @@
     "thumbnailName": "plants/icons/vanilla_flower",
     "description": false,
     "habitat": false,
-    "mapLocation": "",
+    "mapLocation": "vanilla_flower",
     "type": "plants"
   },
   {
@@ -376,7 +376,7 @@
     "thumbnailName": "plants/icons/violet_snowdrop",
     "description": false,
     "habitat": false,
-    "mapLocation": "",
+    "mapLocation": "violet_snowdrop",
     "type": "plants"
   },
   {
@@ -386,7 +386,7 @@
     "thumbnailName": "plants/icons/wild_carrot",
     "description": false,
     "habitat": false,
-    "mapLocation": "",
+    "mapLocation": "wild_carrot",
     "type": "plants"
   },
   {
@@ -396,7 +396,7 @@
     "thumbnailName": "plants/icons/wild_feverfew",
     "description": false,
     "habitat": false,
-    "mapLocation": "",
+    "mapLocation": "wild_feverfew",
     "type": "plants"
   },
   {
@@ -406,7 +406,7 @@
     "thumbnailName": "plants/icons/wild_mint",
     "description": false,
     "habitat": false,
-    "mapLocation": "",
+    "mapLocation": "wild",
     "type": "plants"
   },
   {
@@ -416,7 +416,7 @@
     "thumbnailName": "plants/icons/wintergreen_berry",
     "description": false,
     "habitat": false,
-    "mapLocation": "",
+    "mapLocation": "wintergreen_berry",
     "type": "plants"
   },
   {
@@ -426,7 +426,7 @@
     "thumbnailName": "plants/icons/yarrow",
     "description": false,
     "habitat": false,
-    "mapLocation": "",
+    "mapLocation": "yarrow",
     "type": "plants"
   }
 ]
