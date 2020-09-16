@@ -7,6 +7,8 @@
     ],
     "photoName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_FISH/CMPNDM_BLUEGILL_PHOTO.jpg",
     "thumbnailName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_FISH/FISH_BLUEGILL.png",
+    "habitat": "",
+    "mapLocation": "",
     "type": "animal-fishes"
   },
   {
@@ -14,6 +16,8 @@
     "description": ["", ""],
     "photoName": "",
     "thumbnailName": "",
+    "habitat": "",
+    "mapLocation": "",
     "type": "animal-fishes"
   },
   {
@@ -33,6 +37,8 @@
     ],
     "photoName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_FISH/CMPNDM_REDFIN_PHOTO.jpg",
     "thumbnailName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_FISH/FISH_REDFINPICKEREL.png",
+    "habitat": "",
+    "mapLocation": "",
     "type": "animal-fishes"
   },
   {
@@ -40,6 +46,8 @@
     "description": ["", ""],
     "photoName": "",
     "thumbnailName": "",
+    "habitat": "",
+    "mapLocation": "",
     "type": "animal-fishes"
   },
   {
@@ -47,6 +55,8 @@
     "description": ["", ""],
     "photoName": "",
     "thumbnailName": "",
+    "habitat": "",
+    "mapLocation": "",
     "type": "animal-fishes"
   },
   {
@@ -54,6 +64,8 @@
     "description": ["", ""],
     "photoName": "",
     "thumbnailName": "",
+    "habitat": "",
+    "mapLocation": "",
     "type": "animal-fishes"
   },
   {
@@ -61,6 +73,8 @@
     "description": ["", ""],
     "photoName": "",
     "thumbnailName": "",
+    "habitat": "",
+    "mapLocation": "",
     "type": "animal-fishes"
   },
   {
@@ -71,6 +85,8 @@
     ],
     "photoName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_FISH/CMPNDM_MUSKIE_PHOTO.jpg",
     "thumbnailName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_FISH/FISH_MUSKIE_CLEAR.png",
+    "habitat": "",
+    "mapLocation": "",
     "type": "animal-fishes"
   },
   {
@@ -78,6 +94,8 @@
     "description": ["", ""],
     "photoName": "",
     "thumbnailName": "",
+    "habitat": "",
+    "mapLocation": "",
     "type": "animal-fishes"
   },
   {
@@ -85,6 +103,8 @@
     "description": ["", ""],
     "photoName": "",
     "thumbnailName": "",
+    "habitat": "",
+    "mapLocation": "",
     "type": "animal-fishes"
   },
   {
@@ -95,6 +115,8 @@
     ],
     "photoName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_FISH/CMPNDM_ROCKBASS_PHOTO.jpg",
     "thumbnailName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_FISH/FISH_ROCKBASS.png",
+    "habitat": "",
+    "mapLocation": "",
     "type": "animal-fishes"
   },
   {
@@ -105,6 +127,8 @@
     ],
     "photoName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_FISH/CMPNDM_SMMBASS_PHOTO.jpg",
     "thumbnailName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_FISH/FISH_SMALLMOUTHBASS.png",
+    "habitat": "",
+    "mapLocation": "",
     "type": "animal-fishes"
   },
   {
@@ -115,6 +139,8 @@
     ],
     "photoName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_FISH/CMPNDM_SALMON_PHOTO.jpg",
     "thumbnailName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_FISH/FISH_SALMON_SOCKEYE.png",
+    "habitat": "",
+    "mapLocation": "",
     "type": "animal-fishes"
   },
   {
@@ -125,6 +151,8 @@
     ],
     "photoName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_FISH/CMPNDM_TROUT_PHOTO.jpg",
     "thumbnailName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_FISH/FISH_SPECKLED_TROUT.png",
+    "habitat": "",
+    "mapLocation": "",
     "type": "animal-fishes"
   },
   {
@@ -132,6 +160,8 @@
     "description": ["", ""],
     "photoName": "",
     "thumbnailName": "",
+    "habitat": "",
+    "mapLocation": "",
     "type": "animal-fishes"
   },
   {
@@ -139,6 +169,8 @@
     "description": ["", ""],
     "photoName": "",
     "thumbnailName": "",
+    "habitat": "",
+    "mapLocation": "",
     "type": "animal-fishes"
   },
   {
@@ -146,6 +178,8 @@
     "description": ["", ""],
     "photoName": "",
     "thumbnailName": "",
+    "habitat": "",
+    "mapLocation": "",
     "type": "animal-fishes"
   },
   {
@@ -153,6 +187,8 @@
     "description": ["", ""],
     "photoName": "",
     "thumbnailName": "",
+    "habitat": "",
+    "mapLocation": "",
     "type": "animal-fishes"
   },
   {
@@ -160,6 +196,8 @@
     "description": ["", "(can't actually be caught)"],
     "photoName": "",
     "thumbnailName": "",
+    "habitat": "",
+    "mapLocation": "",
     "type": "animal-fishes"
   },
   {
@@ -167,6 +205,8 @@
     "description": ["", ""],
     "photoName": "",
     "thumbnailName": "",
+    "habitat": "",
+    "mapLocation": "",
     "type": "animal-fishes"
   },
   {
@@ -177,6 +217,8 @@
     ],
     "photoName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_FISH/CMPNDM_LGMBASS_PHOTO.jpg",
     "thumbnailName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_FISH/FISH_LARGEMOUTHBASS.png",
+    "habitat": "",
+    "mapLocation": "",
     "type": "animal-fishes"
   },
   {
@@ -184,6 +226,8 @@
     "description": ["", ""],
     "photoName": "",
     "thumbnailName": "",
+    "habitat": "",
+    "mapLocation": "",
     "type": "animal-fishes"
   },
   {
@@ -191,6 +235,8 @@
     "description": ["", ""],
     "photoName": "",
     "thumbnailName": "",
+    "habitat": "",
+    "mapLocation": "",
     "type": "animal-fishes"
   },
   {
@@ -201,6 +247,8 @@
     ],
     "photoName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_FISH/CMPNDM_NORTHERN_PIKE_LEGENDARY_PHOTO.jpg",
     "thumbnailName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_FISH/FISH_LEGENDARY_NORTHERN_PIKE.png",
+    "habitat": "",
+    "mapLocation": "",
     "type": "animal-fishes"
   },
   {
@@ -211,6 +259,8 @@
     ],
     "photoName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_FISH/CMPNDM_PERCH_LEGENDARY_PHOTO.jpg",
     "thumbnailName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_FISH/FISH_LEGENDARY_PERCH.png",
+    "habitat": "",
+    "mapLocation": "",
     "type": "animal-fishes"
   },
   {
@@ -218,6 +268,8 @@
     "description": ["", ""],
     "photoName": "",
     "thumbnailName": "",
+    "habitat": "",
+    "mapLocation": "",
     "type": "animal-fishes"
   },
   {
@@ -225,6 +277,8 @@
     "description": ["", ""],
     "photoName": "",
     "thumbnailName": "",
+    "habitat": "",
+    "mapLocation": "",
     "type": "animal-fishes"
   },
   {
@@ -232,6 +286,8 @@
     "description": ["", ""],
     "photoName": "",
     "thumbnailName": "",
+    "habitat": "",
+    "mapLocation": "",
     "type": "animal-fishes"
   },
   {
@@ -239,6 +295,8 @@
     "description": ["", ""],
     "photoName": "",
     "thumbnailName": "",
+    "habitat": "",
+    "mapLocation": "",
     "type": "animal-fishes"
   },
   {
@@ -246,6 +304,8 @@
     "description": ["", ""],
     "photoName": "",
     "thumbnailName": "",
+    "habitat": "",
+    "mapLocation": "",
     "type": "animal-fishes"
   }
 ]
