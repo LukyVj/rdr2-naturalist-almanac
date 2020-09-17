@@ -1,21 +1,21 @@
 [
   {
     "name": "Blue Jay",
-    "photoName": false,
-    "thumbnailName": false,
-    "description": false,
-    "habitat": false,
-    "mapLocation": false,
+    "photoName": "",
+    "thumbnailName": "",
+    "description": "",
+    "habitat": "",
+    "mapLocation": "",
     "type": "animal-birds"
   },
   {
-    "name": false,
-    "value": false,
-    "photoName": false,
-    "thumbnailName": false,
-    "description": false,
-    "habitat": false,
-    "mapLocation": false,
+    "name": "",
+    "value": "",
+    "photoName": "",
+    "thumbnailName": "",
+    "description": "",
+    "habitat": "",
+    "mapLocation": "",
     "type": "animal-birds"
   }
 ]
