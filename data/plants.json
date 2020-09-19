@@ -255,12 +255,12 @@
   },
   {
     "name": "Lady Slipper Orchid",
-    "value": "lady_slipper_orchid",
-    "photoName": "lady_slipper_orchid",
-    "thumbnailName": "lady_slipper_orchid",
+    "value": "ladies_slipper_orchid",
+    "photoName": "ladies_slipper_orchid",
+    "thumbnailName": "ladies_slipper_orchid",
     "description": false,
     "habitat": false,
-    "mapLocation": "lady_slipper_orchid",
+    "mapLocation": "ladies_slipper_orchid",
     "type": "plants"
   },
   {
