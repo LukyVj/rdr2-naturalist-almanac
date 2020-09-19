@@ -327,7 +327,7 @@
   },
   {
     "name": "Parasol Mushroom",
-    "value": "parasol-mushroom",
+    "value": "parasol_mushroom",
     "photoName": "parasol_mushroom_photo",
     "thumbnailName": "parasol_mushroom",
     "description": [
@@ -335,7 +335,7 @@
       "Can be crafted into a Special Horse Reviver"
     ],
     "habitat": false,
-    "mapLocation": "parasol",
+    "mapLocation": "parasol_mushroom",
     "type": "plants",
     "latinName": "Macrolepiota Procera"
   },
