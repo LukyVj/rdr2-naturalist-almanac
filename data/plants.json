@@ -155,12 +155,12 @@
   },
   {
     "name": "Dragon's Mouth Orchid",
-    "value": "dragon_s_mouth_orchid",
-    "photoName": "dragon_s_mouth_orchid",
-    "thumbnailName": "dragon_s_mouth_orchid",
+    "value": "dragons_mouth_orchid",
+    "photoName": "dragons_mouth_orchid",
+    "thumbnailName": "dragons_mouth_orchid",
     "description": false,
     "habitat": false,
-    "mapLocation": "dragon_s_mouth_orchid",
+    "mapLocation": "dragons_mouth_orchid",
     "type": "plants"
   },
   {
