@@ -366,11 +366,11 @@
   {
     "name": "Ram's Head",
     "value": "rams_head",
-    "photoName": "ram_s_head",
-    "thumbnailName": "ram_s_head",
+    "photoName": "rams_head",
+    "thumbnailName": "rams_head",
     "description": false,
     "habitat": false,
-    "mapLocation": "ram_s_head",
+    "mapLocation": "rams_head",
     "type": "plants"
   },
   {
