@@ -279,12 +279,12 @@
   },
   {
     "name": "Moccasin Orchid",
-    "value": "moccasin_orchid",
-    "photoName": "moccasin_orchid",
-    "thumbnailName": "moccasin_orchid",
+    "value": "moccasin_flower_orchid",
+    "photoName": "moccasin_flower_orchid",
+    "thumbnailName": "moccasin_flower_orchid",
     "description": false,
     "habitat": false,
-    "mapLocation": "moccasin_orchid",
+    "mapLocation": "moccasin_flower_orchid",
     "type": "plants"
   },
   {
