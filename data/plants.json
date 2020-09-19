@@ -409,12 +409,12 @@
   },
   {
     "name": "Sparrow Egg Orchid",
-    "value": "sparrow_egg_orchid",
-    "photoName": "sparrow_egg_orchid",
-    "thumbnailName": "sparrow_egg_orchid",
+    "value": "sparrow_s_egg_orchid",
+    "photoName": "sparrow_s_egg_orchid",
+    "thumbnailName": "sparrow_s_egg_orchid",
     "description": false,
     "habitat": false,
-    "mapLocation": "sparrow_egg_orchid",
+    "mapLocation": "sparrow_s_egg_orchid",
     "type": "plants"
   },
   {
