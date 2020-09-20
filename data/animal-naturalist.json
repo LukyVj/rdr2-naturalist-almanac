@@ -2491,5 +2491,46 @@
       }
     },
     "crafts": []
+  },
+  {
+    "name": "Legendary Golden Spirit Bear",
+    "englishName": "Legendary Golden Spirit Bear",
+    "description": "Residents of Black Water are concerned about a coyote that has been picking off livestock.",
+    "isLegendary": true,
+    "thumbnailName": "mp_animal_bear_legendary_03",
+    "photoName": "MP_ANIMALS_BEAR_LEGENDARY_03_PHOTO",
+    "legendaryDescriptions": [
+      "The Legendary Golden Spirit Bear has been seen in Big Valley.",
+      "The Legendary Golden Spirit Bear has been seen in Big Valley. It is known for its blond coat, thick and warm.",
+      "The Legendary Golden Spirit Bear has been seen in Big Valley. It is known for its blond coat, thick and warm. This bear has gained a reputation, mauling travelers who come too close to its territory.",
+      "The Legendary Golden Spirit Bear has been seen in Big Valley. It is known for its blond coat, thick and warm. This bear has gained a reputation, mauling travelers who come too close to its territory. It has attracted the attention of Naturalists who wish to further understand the species, and poachers who prize its luxurious coat.",
+      "The Legendary Golden Spirit Bear has been seen in Big Valley. It is known for its blond coat, thick and warm. This bear has gained a reputation, mauling travelers who come too close to its territory. It has attracted the attention of Naturalists who wish to further understand the species, and poachers who prize its luxurious coat. Both are being warned that an encounter could prove fatal."
+    ],
+    "isKillable": true,
+    "isSkinnable": true,
+    "isCollectable": false,
+    "isTrackable": true,
+    "isSedatable": true,
+    "isSamplable": true,
+    "isPhotographable": true,
+    "isLocked": false,
+    "mapLocation": "Legendary Golden Spirit Bear",
+    "type": "animal-naturalist",
+    "legendaryType": "light",
+    "spawnConditions": {
+      "time": {
+        "morning": false,
+        "day": false,
+        "evening": false,
+        "night": false
+      },
+      "weather": {
+        "clear": false,
+        "rain": false,
+        "storm": false,
+        "fog": false
+      }
+    },
+    "crafts": []
   }
 ]
