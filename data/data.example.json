@@ -4,6 +4,8 @@
   "photoName": "foo",
   "thumbnailName": "foo",
   "description": "foo",
+  "legendaryDescription": ["foo", "bar"],
+  "comment": "foo",
   "habitat": "foo",
   "mapLocation": "foo",
   "type": "foo"
