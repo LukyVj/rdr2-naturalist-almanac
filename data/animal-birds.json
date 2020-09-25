@@ -8,7 +8,7 @@
     "comment": "foo",
     "habitat": "foo",
     "mapLocation": "foo",
-    "type": "foo"
+    "type": "animal-birds"
   },
   {
     "name": "Bald Eagle",
@@ -19,29 +19,29 @@
     "comment": "foo",
     "habitat": "foo",
     "mapLocation": "foo",
-    "type": "foo"
+    "type": "animal-birds"
   },
   {
     "name": "Blue Jay",
     "value": "blue_jay",
-    "photoName": "foo",
-    "thumbnailName": "foo",
-    "description": "foo",
-    "comment": "foo",
+    "photoName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_ANIMALS/ANIMALS_BLUEJAY_PHOTO.jpg",
+    "thumbnailName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_ANIMALS/ANIMAL_BLUEJAY.png",
+    "description": "Blue Jays can be found across the forested regions of the American Heartland. As omnivores, they eat nuts, acorns, seeds, beetles, grasshoppers, and caterpillars. A bird this size can be killed with less impact. A Bow with Small Game Arrows can successfully be used for hunting. Their feathers can be used for crafting, and their carcass can be sold to traders.",
+    "comment": "Yields feathers and gamey bird meat. Used in crafting and cooking or can be sold. Use a Bow with a Small Game Arrow for a clean kill.",
     "habitat": "foo",
     "mapLocation": "foo",
-    "type": "foo"
+    "type": "animal-birds"
   },
   {
     "name": "Californian Condor",
     "value": "californian_condor",
-    "photoName": "foo",
-    "thumbnailName": "foo",
-    "description": "foo",
-    "comment": "foo",
+    "photoName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_ANIMALS/ANIMALS_CALIFORNIAN_CONDOR_PHOTO.jpg",
+    "thumbnailName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_ANIMALS/ANIMAL_CALIFORNIANCONDOR.png",
+    "description": "The Californian Condor is native to New Austin. This carnivorous scavenger's diet mainly consists of carrion, though bird and reptile carcasses are sometimes eaten. A Varmint Rifle is considered to be the best weapon for shooting condors. Its meat is gamey, and its feathers can be used to craft with.",
+    "comment": "Yields a carcass and gamey bird meat. Used in crafting and cooking or can be sold. Use a Varmint Rifle for a clean kill.",
     "habitat": "foo",
     "mapLocation": "foo",
-    "type": "foo"
+    "type": "animal-birds"
   },
   {
     "name": "Canada Goose",
@@ -52,18 +52,18 @@
     "comment": "foo",
     "habitat": "foo",
     "mapLocation": "foo",
-    "type": "foo"
+    "type": "animal-birds"
   },
   {
     "name": "Dominique Chicken",
     "value": "dominique_chicken",
-    "photoName": "foo",
-    "thumbnailName": "foo",
-    "description": "foo",
-    "comment": "foo",
+    "photoName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_ANIMALS/ANIMALS_CHICKEN_DOMINQUE_PHOTO.jpg",
+    "thumbnailName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_ANIMALS/ANIMAL_CHICKEN_DOMINIQUE.png",
+    "description": "Dominique Chickens can be found inhabiting ranches, homesteads and towns across the states. As omnivores, their diet consists of seeds, grains, and any insects they may find. Using a Bow with Small Game Arrows will successfully kill the chicken, and will do less damage to their meat. Their plump meat is a good source of food, and the feathers can be used for crafting.",
+    "comment": "Yields feathers and plump bird meat. Used in crafting and cooking or can be sold. Use a Bow with a Small Game Arrow for a clean kill.",
     "habitat": "foo",
     "mapLocation": "foo",
-    "type": "foo"
+    "type": "animal-birds"
   },
   {
     "name": "Double-crested Cormorant",
@@ -74,7 +74,7 @@
     "comment": "foo",
     "habitat": "foo",
     "mapLocation": "foo",
-    "type": "foo"
+    "type": "animal-birds"
   },
   {
     "name": "Ferruginous Hawk",
@@ -85,7 +85,7 @@
     "comment": "foo",
     "habitat": "foo",
     "mapLocation": "foo",
-    "type": "foo"
+    "type": "animal-birds"
   },
   {
     "name": "Golden Eagle",
@@ -96,7 +96,7 @@
     "comment": "foo",
     "habitat": "foo",
     "mapLocation": "foo",
-    "type": "foo"
+    "type": "animal-birds"
   },
   {
     "name": "Herring Gull",
@@ -107,18 +107,18 @@
     "comment": "foo",
     "habitat": "foo",
     "mapLocation": "foo",
-    "type": "foo"
+    "type": "animal-birds"
   },
   {
     "name": "Java Chicken",
     "value": "java_chicken",
-    "photoName": "foo",
-    "thumbnailName": "foo",
-    "description": "foo",
-    "comment": "foo",
+    "photoName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_ANIMALS/ANIMALS_CHICKEN_JAVA_PHOTO.jpg",
+    "thumbnailName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_ANIMALS/ANIMAL_CHICKEN_JAVA.png",
+    "description": "The Java Chicken can be found on ranches, homesteads and in towns across the states. Their omnivorous diet consists of seeds, grains, and any insects that they come across. A Bow and Small Game Arrows can be used to hunt chickens with minimal damage to their meat. Their feathers can be used for crafting, and their plump meat can be used for food.",
+    "comment": "Yields feathers and plump bird meat. Used in crafting and cooking or can be sold. Use a Bow with a Small Game Arrow for a clean kill.",
     "habitat": "foo",
     "mapLocation": "foo",
-    "type": "foo"
+    "type": "animal-birds"
   },
   {
     "name": "Laughing Gull",
@@ -129,7 +129,7 @@
     "comment": "foo",
     "habitat": "foo",
     "mapLocation": "foo",
-    "type": "foo"
+    "type": "animal-birds"
   },
   {
     "name": "Leghorn Chicken",
@@ -140,7 +140,7 @@
     "comment": "foo",
     "habitat": "foo",
     "mapLocation": "foo",
-    "type": "foo"
+    "type": "animal-birds"
   },
   {
     "name": "Little Egret",
@@ -151,7 +151,7 @@
     "comment": "foo",
     "habitat": "foo",
     "mapLocation": "foo",
-    "type": "foo"
+    "type": "animal-birds"
   },
   {
     "name": "Mallard Duck",
@@ -162,7 +162,7 @@
     "comment": "foo",
     "habitat": "foo",
     "mapLocation": "foo",
-    "type": "foo"
+    "type": "animal-birds"
   },
   {
     "name": "Neotropic Cormorant",
@@ -173,18 +173,18 @@
     "comment": "foo",
     "habitat": "foo",
     "mapLocation": "foo",
-    "type": "foo"
+    "type": "animal-birds"
   },
   {
     "name": "Northern Cardinal",
     "value": "northern_cardinal",
-    "photoName": "foo",
-    "thumbnailName": "foo",
-    "description": "foo",
-    "comment": "foo",
+    "photoName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_ANIMALS/ANIMALS_CARDINAL_PHOTO.jpg",
+    "thumbnailName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_ANIMALS/ANIMAL_CARDINAL.png",
+    "description": "Northern Cardinals tend to inhabit the woodland areas of New Hanover and West Elizabeth. Their omnivorous diet includes grains, weeds, seeds, and fruit. Cardinals can be killed with less impact than other animals. A Bow with Small Game Arrows can be used successfully whilst hunting these birds. The cardinal's feathers can be used for crafting and their carcasses can be sold to traders.",
+    "comment": "Yields feathers and gamey bird meat. Used in crafting and cooking or can be sold. Use a Bow with a Small Game Arrow for a clean kill.",
     "habitat": "foo",
     "mapLocation": "foo",
-    "type": "foo"
+    "type": "animal-birds"
   },
   {
     "name": "Pekin Duck",
@@ -195,7 +195,7 @@
     "comment": "foo",
     "habitat": "foo",
     "mapLocation": "foo",
-    "type": "foo"
+    "type": "animal-birds"
   },
   {
     "name": "Red-tailed Hawk",
@@ -206,7 +206,7 @@
     "comment": "foo",
     "habitat": "foo",
     "mapLocation": "foo",
-    "type": "foo"
+    "type": "animal-birds"
   },
   {
     "name": "Reddish Egret",
@@ -217,7 +217,7 @@
     "comment": "foo",
     "habitat": "foo",
     "mapLocation": "foo",
-    "type": "foo"
+    "type": "animal-birds"
   },
   {
     "name": "Ring-billed Gull",
@@ -228,7 +228,7 @@
     "comment": "foo",
     "habitat": "foo",
     "mapLocation": "foo",
-    "type": "foo"
+    "type": "animal-birds"
   },
   {
     "name": "Rough-legged Hawk",
@@ -239,7 +239,7 @@
     "comment": "foo",
     "habitat": "foo",
     "mapLocation": "foo",
-    "type": "foo"
+    "type": "animal-birds"
   },
   {
     "name": "Sandhill Crane",
@@ -250,7 +250,7 @@
     "comment": "foo",
     "habitat": "foo",
     "mapLocation": "foo",
-    "type": "foo"
+    "type": "animal-birds"
   },
   {
     "name": "Snowy Egret",
@@ -261,7 +261,7 @@
     "comment": "foo",
     "habitat": "foo",
     "mapLocation": "foo",
-    "type": "foo"
+    "type": "animal-birds"
   },
   {
     "name": "Whooping Crane",
@@ -272,7 +272,7 @@
     "comment": "foo",
     "habitat": "foo",
     "mapLocation": "foo",
-    "type": "foo"
+    "type": "animal-birds"
   },
   {
     "name": "American Robin",
@@ -283,7 +283,7 @@
     "comment": "foo",
     "habitat": "foo",
     "mapLocation": "foo",
-    "type": "foo"
+    "type": "animal-birds"
   },
   {
     "name": "American White Pelican",
@@ -294,7 +294,7 @@
     "comment": "foo",
     "habitat": "foo",
     "mapLocation": "foo",
-    "type": "foo"
+    "type": "animal-birds"
   },
   {
     "name": "Baltimore Oriole",
@@ -305,7 +305,7 @@
     "comment": "foo",
     "habitat": "foo",
     "mapLocation": "foo",
-    "type": "foo"
+    "type": "animal-birds"
   },
   {
     "name": "Band-tailed Pigeon",
@@ -316,7 +316,7 @@
     "comment": "foo",
     "habitat": "foo",
     "mapLocation": "foo",
-    "type": "foo"
+    "type": "animal-birds"
   },
   {
     "name": "Brown Pelican",
@@ -327,7 +327,7 @@
     "comment": "foo",
     "habitat": "foo",
     "mapLocation": "foo",
-    "type": "foo"
+    "type": "animal-birds"
   },
   {
     "name": "California Quail",
@@ -338,7 +338,7 @@
     "comment": "foo",
     "habitat": "foo",
     "mapLocation": "foo",
-    "type": "foo"
+    "type": "animal-birds"
   },
   {
     "name": "Californian Horned Owl",
@@ -349,7 +349,7 @@
     "comment": "foo",
     "habitat": "foo",
     "mapLocation": "foo",
-    "type": "foo"
+    "type": "animal-birds"
   },
   {
     "name": "Chinese Ring-necked Pheasant",
@@ -360,7 +360,7 @@
     "comment": "foo",
     "habitat": "foo",
     "mapLocation": "foo",
-    "type": "foo"
+    "type": "animal-birds"
   },
   {
     "name": "Coastal Horned Owl",
@@ -371,7 +371,7 @@
     "comment": "foo",
     "habitat": "foo",
     "mapLocation": "foo",
-    "type": "foo"
+    "type": "animal-birds"
   },
   {
     "name": "Common Loon",
@@ -382,7 +382,7 @@
     "comment": "foo",
     "habitat": "foo",
     "mapLocation": "foo",
-    "type": "foo"
+    "type": "animal-birds"
   },
   {
     "name": "Dominique Rooster",
@@ -393,7 +393,7 @@
     "comment": "foo",
     "habitat": "foo",
     "mapLocation": "foo",
-    "type": "foo"
+    "type": "animal-birds"
   },
   {
     "name": "Great Blue Heron",
@@ -404,7 +404,7 @@
     "comment": "foo",
     "habitat": "foo",
     "mapLocation": "foo",
-    "type": "foo"
+    "type": "animal-birds"
   },
   {
     "name": "Great Horned Owl",
@@ -415,7 +415,7 @@
     "comment": "foo",
     "habitat": "foo",
     "mapLocation": "foo",
-    "type": "foo"
+    "type": "animal-birds"
   },
   {
     "name": "Greater Prairie Chicken",
@@ -426,7 +426,7 @@
     "comment": "foo",
     "habitat": "foo",
     "mapLocation": "foo",
-    "type": "foo"
+    "type": "animal-birds"
   },
   {
     "name": "Hooded Oriole",
@@ -437,7 +437,7 @@
     "comment": "foo",
     "habitat": "foo",
     "mapLocation": "foo",
-    "type": "foo"
+    "type": "animal-birds"
   },
   {
     "name": "Java Rooster",
@@ -448,7 +448,7 @@
     "comment": "foo",
     "habitat": "foo",
     "mapLocation": "foo",
-    "type": "foo"
+    "type": "animal-birds"
   },
   {
     "name": "Leghorn Rooster",
@@ -459,7 +459,7 @@
     "comment": "foo",
     "habitat": "foo",
     "mapLocation": "foo",
-    "type": "foo"
+    "type": "animal-birds"
   },
   {
     "name": "Pacific Loon",
@@ -470,7 +470,7 @@
     "comment": "foo",
     "habitat": "foo",
     "mapLocation": "foo",
-    "type": "foo"
+    "type": "animal-birds"
   },
   {
     "name": "Ring-necked Pheasant",
@@ -481,7 +481,7 @@
     "comment": "foo",
     "habitat": "foo",
     "mapLocation": "foo",
-    "type": "foo"
+    "type": "animal-birds"
   },
   {
     "name": "Rock Pigeon",
@@ -492,7 +492,7 @@
     "comment": "foo",
     "habitat": "foo",
     "mapLocation": "foo",
-    "type": "foo"
+    "type": "animal-birds"
   },
   {
     "name": "Scarlet Tanager Songbird",
@@ -503,7 +503,7 @@
     "comment": "foo",
     "habitat": "foo",
     "mapLocation": "foo",
-    "type": "foo"
+    "type": "animal-birds"
   },
   {
     "name": "Tricolored Heron",
@@ -514,7 +514,7 @@
     "comment": "foo",
     "habitat": "foo",
     "mapLocation": "foo",
-    "type": "foo"
+    "type": "animal-birds"
   },
   {
     "name": "Western Raven",
@@ -525,7 +525,7 @@
     "comment": "foo",
     "habitat": "foo",
     "mapLocation": "foo",
-    "type": "foo"
+    "type": "animal-birds"
   },
   {
     "name": "Western Tanager Songbird",
@@ -536,7 +536,7 @@
     "comment": "foo",
     "habitat": "foo",
     "mapLocation": "foo",
-    "type": "foo"
+    "type": "animal-birds"
   },
   {
     "name": "Yellow-billed Loon",
@@ -547,7 +547,7 @@
     "comment": "foo",
     "habitat": "foo",
     "mapLocation": "foo",
-    "type": "foo"
+    "type": "animal-birds"
   },
   {
     "name": "American Tree Sparrow",
@@ -558,18 +558,18 @@
     "comment": "foo",
     "habitat": "foo",
     "mapLocation": "foo",
-    "type": "foo"
+    "type": "animal-birds"
   },
   {
     "name": "Cedar Waxwing",
     "value": "cedar_waxwing",
-    "photoName": "foo",
-    "thumbnailName": "foo",
-    "description": "foo",
-    "comment": "foo",
+    "photoName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_ANIMALS/ANIMALS_CEDAR_WAX_WING_PHOTO.jpg",
+    "thumbnailName": "https://s.rsg.sc/sc/images/games/RDR2/compendium/CMPNDM_ANIMALS/ANIMAL_CEDARWAXWING.png",
+    "description": "The Cedar Waxwing inhabits open and forested areas across the states. Their primary herbivore diet includes berries and sugary fruit all year round, and they will only feed on insects during breeding seasons. A Bow and Small Game Arrows can take down these small birds. Their feathers can be used for crafting.",
+    "comment": "Yields a carcass and gamey bird meat. Used in crafting and cooking or can be sold. Use a Bow with a Small Game Arrow for a clean kill.",
     "habitat": "foo",
     "mapLocation": "foo",
-    "type": "foo"
+    "type": "animal-birds"
   },
   {
     "name": "Eastern Turkey Vulture",
@@ -580,7 +580,7 @@
     "comment": "foo",
     "habitat": "foo",
     "mapLocation": "foo",
-    "type": "foo"
+    "type": "animal-birds"
   },
   {
     "name": "Eastern Wild Turkey",
@@ -591,7 +591,7 @@
     "comment": "foo",
     "habitat": "foo",
     "mapLocation": "foo",
-    "type": "foo"
+    "type": "animal-birds"
   },
   {
     "name": "Eurasian Tree Sparrow",
@@ -602,7 +602,7 @@
     "comment": "foo",
     "habitat": "foo",
     "mapLocation": "foo",
-    "type": "foo"
+    "type": "animal-birds"
   },
   {
     "name": "Golden Crowned Sparrow",
@@ -613,7 +613,7 @@
     "comment": "foo",
     "habitat": "foo",
     "mapLocation": "foo",
-    "type": "foo"
+    "type": "animal-birds"
   },
   {
     "name": "Pileated Woodpecker",
@@ -624,7 +624,7 @@
     "comment": "foo",
     "habitat": "foo",
     "mapLocation": "foo",
-    "type": "foo"
+    "type": "animal-birds"
   },
   {
     "name": "Red-bellied Woodpecker",
@@ -635,7 +635,7 @@
     "comment": "foo",
     "habitat": "foo",
     "mapLocation": "foo",
-    "type": "foo"
+    "type": "animal-birds"
   },
   {
     "name": "Rio Grande Wild Turkey",
@@ -646,7 +646,7 @@
     "comment": "foo",
     "habitat": "foo",
     "mapLocation": "foo",
-    "type": "foo"
+    "type": "animal-birds"
   },
   {
     "name": "Roseate Spoonbill",
@@ -657,7 +657,7 @@
     "comment": "foo",
     "habitat": "foo",
     "mapLocation": "foo",
-    "type": "foo"
+    "type": "animal-birds"
   },
   {
     "name": "Western Turkey Vulture",
@@ -668,6 +668,6 @@
     "comment": "foo",
     "habitat": "foo",
     "mapLocation": "foo",
-    "type": "foo"
+    "type": "animal-birds"
   }
 ]
