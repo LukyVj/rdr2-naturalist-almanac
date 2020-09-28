@@ -1,7 +1,6 @@
 [
   {
     "name": "American Alligator",
-    "englishName": "American Alligator",
     "description": "Alligators live in the swamp and river delta regions of Lemoyne - in southern Bluewater Marsh and all around Bayou Nwa. They are carnivorous apex predators, feeding on fish, birds, amphibians and mammals. Due to their tough skin, American Alligators will need a large amount of sedative.",
     "isLegendary": false,
     "thumbnailName": "mp_animal_alligator_medium",
@@ -21,7 +20,6 @@
   },
   {
     "name": "American Alligator (small)",
-    "englishName": "American Alligator (small)",
     "description": "Alligators live in the swamp and river delta regions of Lemoyne. They are carnivorous apex predators, feeding on fish, birds, amphibians and mammals. Due to their thick skin, alligators need several shots of sedative before they fall unconscious.",
     "shortDescription": "Yields a skin, teeth and big game meat. Used in crafting and cooking. Use a Bow with Improved Arrows or long scope rifle for a clean kill.",
     "comment": "A Perfect Alligator Skin can be used to craft a Saddle",
@@ -41,7 +39,6 @@
   },
   {
     "name": "Nine-Banded Armadillo",
-    "englishName": "Nine-Banded Armadillo",
     "description": "Nine-Banded Armadillos can be found in the regions of Gaptooth Ridge, Cholla Springs and Rio Bravo. As omnivores, their main diet consists of insects, small vertebrates and often, carrion. Sedative shots can easily pierce their scutes and put them to sleep.",
     "isLegendary": false,
     "thumbnailName": "mp_animal_armadillo",
@@ -62,7 +59,6 @@
   },
   {
     "name": "American Badger",
-    "englishName": "American Badger",
     "description": "The American Badger can be found across the more arid climates of America. It is a fossorial carnivore, preying on squirrels, moles, prairie dogs and voles. Badgers require very little sedative before falling unconscious.",
     "isLegendary": false,
     "thumbnailName": "mp_animal_badger",
@@ -83,7 +79,6 @@
   },
   {
     "name": "Little Brown Bat",
-    "englishName": "Little Brown Bat",
     "description": "The Little Brown Bat is found across most of America. They are insectivores, feeding on mosquitoes, wasps, beetles, and midges. Due to the size of this species of bat, they can be killed with less impact. Attempting to sedate this creature will result in its death.",
     "isLegendary": false,
     "thumbnailName": "mp_animal_bat",
@@ -104,7 +99,6 @@
   },
   {
     "name": "American Black Bear",
-    "englishName": "American Black Bear",
     "description": "The American Black Bear is found in the remote woodlands of Roanoke, Big Valley and Tall Trees. It is smaller than the Grizzly Bear. The main diet of these omnivorous animals consists of salmon, honey, fruit, small mammals and carrion. Multiple shots of sedative are needed to penetrate its thick fur.",
     "isLegendary": false,
     "thumbnailName": "mp_animal_bear_black",
@@ -125,7 +119,6 @@
   },
   {
     "name": "Grizzly Bear",
-    "englishName": "Grizzly Bear",
     "description": "Grizzly Bears are endemic to Grizzlies East. As an omnivore, its diet ranges from berries, roots, and grasses to deer, elk, fish, and carrion. Be warned, a large amount of sedative is needed to safely subdue a Grizzly Bear.",
     "isLegendary": false,
     "thumbnailName": "mp_animal_bear",
@@ -146,7 +139,6 @@
   },
   {
     "name": "North American Beaver",
-    "englishName": "North American Beaver",
     "description": "The North American Beaver can be found along the Kamassa River in Roanoke. Its herbivorous diet consists of tree bark, cambium, roots, buds, and water plants. Beavers require very little sedative.",
     "isLegendary": false,
     "thumbnailName": "mp_animal_beaver",
@@ -168,7 +160,6 @@
 
   {
     "name": "Wild Boar",
-    "englishName": "Wild Boar",
     "description": "Wild Boars can be found across the states of New Hanover, Lemoyne, and West Elizabeth. They are omnivores, preying on amphibians, reptiles, insects, worms, and smaller mammals. They also eat roots and fruit. Multiple shots of sedative are needed to bring down this animal.",
     "isLegendary": false,
     "thumbnailName": "mp_animal_boar",
@@ -189,7 +180,6 @@
   },
   {
     "name": "Whitetail Buck",
-    "englishName": "Whitetail Buck",
     "description": "The Whitetail Buck can be found in forested areas across the states. It is a herbivore, and consumes nuts, buds, twigs, and green plants. Keeping your distance when hunting deer can increase your chances of administering multiple shots of sedative.",
     "isLegendary": false,
     "thumbnailName": "mp_animal_buck",
@@ -210,7 +200,6 @@
   },
   {
     "name": "Whitetail Deer",
-    "englishName": "Whitetail Deer",
     "description": "Whitetail Deer are found in a variety of habitats across the states, but are common to the forests of New Hanover, Lemoyne and West Elizabeth. Their herbivorous diet includes grasses, nuts, fungi, twigs, and fruit. Like all deer, several shots of sedative will be needed.",
     "isLegendary": false,
     "thumbnailName": "mp_animal_deer",
@@ -231,7 +220,6 @@
   },
   {
     "name": "American Bison",
-    "englishName": "American Bison",
     "description": "The American Bison is native to the plains of New Hanover and West Elizabeth. As a herbivore, it grazes on grains, hay and corn. Due to the size of an average bison, a large amount of sedative must be administered before a sample can be safely taken.",
     "isLegendary": false,
     "thumbnailName": "mp_animal_buffalo",
@@ -252,7 +240,6 @@
   },
   {
     "name": "Angus Bull",
-    "englishName": "Angus Bull",
     "description": "The Angus Bull can be found on farms and ranches across the states. Its herbivorous diet includes grains, hay and corn. The average size of a bull can mean that they are harder to sedate.",
     "isLegendary": false,
     "thumbnailName": "mp_animal_bull_angus",
@@ -273,7 +260,6 @@
   },
   {
     "name": "Devon Bull",
-    "englishName": "Devon Bull",
     "description": "The Devon Bull can be found at ranches across the states. As a herbivore, it consumes grains, hay and corn. Its stocky build may mean it is harder to sedate.",
     "isLegendary": false,
     "thumbnailName": "mp_animal_bull_devon",
@@ -294,7 +280,6 @@
   },
   {
     "name": "Hereford Bull",
-    "englishName": "Hereford Bull",
     "description": "The Hereford Bull can be found at ranches across the states. It is a herbivore, living on grains, hay and corn. Due to their size, Hereford Bulls may take more time to sedate.",
     "isLegendary": false,
     "thumbnailName": "mp_animal_bull_hereford",
@@ -315,7 +300,6 @@
   },
   {
     "name": "American Bullfrog",
-    "englishName": "American Bullfrog",
     "description": "The American Bullfrog is often found near calm and shallow waters in warmer climates like the Bayou and Bluewater Marsh. As carnivores, they prey on small fish and insects. They are cannibalistic and will eat their own kind. The size of this species of frog means that even the smallest dose of sedative will be fatal.",
     "isLegendary": false,
     "thumbnailName": "mp_animal_frogbull",
@@ -337,7 +321,6 @@
 
   {
     "name": "Western Chipmunk",
-    "englishName": "Western Chipmunk",
     "description": "Western Chipmunks are native to forested and brush heavy areas of New Hanover, Lemoyne and West Elizabeth. As omnivores, they forage for seeds, buds, fruits, and nuts. Chipmunks are too small to be sedated successfully.",
     "isLegendary": false,
     "thumbnailName": "mp_animal_chipmunk",
@@ -359,7 +342,6 @@
 
   {
     "name": "Cougar",
-    "englishName": "Cougar",
     "description": "Cougars are native to the states of New Austin, West Elizabeth and remote forested sections of New Hanover. As carnivores, they prey on deer, elk, moose, and mountain goats. A liberal amount of sedative is needed for such a creature.",
     "isLegendary": false,
     "thumbnailName": "mp_animal_cougar",
@@ -380,7 +362,6 @@
   },
   {
     "name": "Florida Cracker Cow",
-    "englishName": "Florida Cracker Cow",
     "description": "The Florida Cracker Cow can be found on ranches and settlements across the states. As herbivores, their diet consists of grains, hay and grasses. The large size of these mammals can mean that it takes longer to sedate them.",
     "isLegendary": false,
     "thumbnailName": "mp_animal_cow",
@@ -401,7 +382,6 @@
   },
   {
     "name": "California Valley Coyote",
-    "englishName": "California Valley Coyote",
     "description": "The California Valley Coyote can be found across New Austin, West Elizabeth, Lemoyne and New Hanover. Their diet is primarily carnivorous, consuming the meat of rodents as their main food source. A few shots of sedative are all a coyote needs.",
     "isLegendary": false,
     "thumbnailName": "mp_animal_coyote",
@@ -422,7 +402,6 @@
   },
   {
     "name": "Cuban Land Crab",
-    "englishName": "Cuban Land Crab",
     "description": "The Cuban Land Crab is native to an island on Flat Iron Lake. As omnivores, their diet consists of leaves, grasses, insects and carrion. Attempting to sedate a crab will result in its death.",
     "isLegendary": false,
     "thumbnailName": "mp_animal_crab",
@@ -444,7 +423,6 @@
 
   {
     "name": "Rocky Mountain Bull Elk",
-    "englishName": "Rocky Mountain Bull Elk",
     "description": "The Rocky Mountain Bull Elk is native to Ambarino and northern New Hanover. Their herbivorous diet includes grasses, leaves, bark and plants. Elk are easily startled, so it is advised to keep as much distance as possible whilst hunting. Long range weapons like a Bow with Improved Arrows, or a long scope rifle, are considered to be the best for hunting. Their skin and antlers can be used for crafting, and their mature venison is a good source of food.",
     "shortDescription": "Yields a pelt, antlers and mature venison. Used in crafting and cooking or can be sold. Use a long scope rifle for a clean kill.",
     "comment": "A Perfect Elk Pelt can be crafted into a pair of Chaps",
@@ -466,7 +444,6 @@
   },
   {
     "name": "Rocky Mountain Cow Elk",
-    "englishName": "Rocky Mountain Cow Elk",
     "description": "The Rocky Mountain Cow Elk is native to Ambarino and northern New Hanover. Their herbivorous diet includes grasses, leaves, bark and plants. Elk are easily startled, so it is advised to keep as much distance as possible whilst hunting. Long range weapons like a Bow with Improved Arrows, or a long scope rifle are considered to be the best for hunting. Their skin can be used for crafting, and their mature venison is a good source of food.",
     "shortDescription": "Yields a pelt and mature venison. Used in crafting and cooking or can be sold. Use a long scope rifle for a clean kill.",
     "comment": "A Perfect Elk Pelt can be crafted into a pair of Chaps",
@@ -488,7 +465,6 @@
   },
   {
     "name": "American Red Fox",
-    "englishName": "American Red Fox",
     "description": "The American Red Fox is native to the forests and grasslands of West Elizabeth, New Hanover, and Lemoyne. As omnivores, their diet consists of small mammals like squirrels and rabbits, as well as birds, fruits, berries, and grasses. A Bow with Improved Arrows, or a repeater, is considered to be the best weapon to either wound or kill a fox. The skin and claws of American Red Foxes can be used for crafting.",
     "shortDescription": "Yields a pelt and stringy meat. Used in crafting and cooking or can be sold. Use a repeater for a clean kill.",
     "comment": "A Perfect Fox Pelt can be crafted into a Hat",
@@ -509,7 +485,6 @@
   },
   {
     "name": "American Gray Fox",
-    "englishName": "American Gray Fox",
     "description": "The American Gray Fox is native to the forests and grasslands of West Elizabeth, New Hanover, and Lemoyne. As omnivores, their diet consists of small mammals like squirrels and rabbits, as well as birds, fruits, berries, and grasses. Foxes can be easily sedated with just a few shots.",
     "isLegendary": false,
     "thumbnailName": "mp_animal_fox_grey",
@@ -528,7 +503,6 @@
   },
   {
     "name": "Silver Fox",
-    "englishName": "Silver Fox",
     "description": "The Silver Fox can be found in various habitats across the states. They are omnivores, feeding on plant matter, rodents, insects, birds, and carrion. A Bow with Improved Arrows, or a repeater, is considered to be the best weapon to either wound or kill a fox. Their skin and claws can be used for crafting.",
     "shortDescription": "Yields a pelt and stringy meat. Used in crafting and cooking or can be sold. Use a repeater for a clean kill.",
     "comment": "A Perfect Fox Pelt can be crafted into a Hat",
@@ -549,7 +523,6 @@
   },
   {
     "name": "Banded Gila Monster",
-    "englishName": "Banded Gila Monster",
     "description": "The Banded Gila Monster is native to the deserts of New Austin. As carnivores, they prey on small mammals, lizards, frogs, birds, bird eggs and carrion. The Varmint Rifle is considered to be the best for hunting lizards of this size. Their herptile meat is edible, and their carcasses can be used for crafting.",
     "shortDescription": "Yields herptile meat. Used in crafting and cooking or can be sold. Use a Varmint Rifle for a clean kill.",
     "comment": "A Perfect Gila Monster Skin can be crafted into a Hat",
@@ -570,7 +543,6 @@
   },
   {
     "name": "Alpine Goat",
-    "englishName": "Alpine Goat",
     "description": "Domestic Alpine Goats can be found at ranches and farms across the states. Their herbivore diet means that they graze on grasses, weeds, herbs and trees. A Bow with arrows, or a repeater, are the best weapons for a clean kill. Goat hide can be used for crafting, and the gristly meat can be consumed.",
     "shortDescription": "Yields a hide and gristly mutton. Used in crafting and cooking or can be sold. Use a repeater for a clean kill.",
     "comment": "A Perfect Goat Hide can be crafted into a pair of Boots",
@@ -592,7 +564,6 @@
 
   {
     "name": "Desert Iguana",
-    "englishName": "Desert Iguana",
     "description": "The Desert Iguana is native to New Austin. Generally considered herbivores, eating perennial plants, fruit and occasionally insects, iguanas can be easily sedated.",
     "shortDescription": "Yields a skin and herptile meat. Used in crafting and cooking or can be sold. Use a Varmint rifle for a clean kill.",
     "comment": "A Perfect Iguana Skin can be crafted into a Hat",
@@ -613,7 +584,6 @@
   },
   {
     "name": "Green Iguana",
-    "englishName": "Green Iguana",
     "description": "Green Iguanas are native to Guarma. Primarily herbivores, they feed on plants, leaves, fruit and flowers. Occasionally they will eat eggs, leaf dwelling insects and snails. The Varmint Rifle is considered to be the best weapon to wound or kill an iguana. Their herptile meat is edible, and their skin can be used for crafting.",
     "shortDescription": "Yields a skin and herptile meat. Used in crafting and cooking or can be sold. Use a Varmint rifle for a clean kill.",
     "comment": "A Perfect Iguana Skin can be crafted into a Hat",
@@ -634,7 +604,6 @@
   },
   {
     "name": "Collared Peccary",
-    "englishName": "Collared Peccary",
     "description": "The Collard Peccary are native to New Austin. Their herbivorous diet consists of agave, prickly pear cacti, mesquite beans, fruits, nuts, and roots. A repeater or a Bow with arrows are considered to be the most effective weapons to use when hunting wild pigs. Their carcasses can be sold to traders and their meat can be cooked.",
     "shortDescription": "Yields a pelt and tender pork. Used in crafting and cooking or can be sold. Use a repeater for a clean kill.",
     "comment": "A Perfect Collared Peccary Pig Pelt can be crafted into a pair of Boots",
@@ -655,7 +624,6 @@
   },
   {
     "name": "Western Bull Moose",
-    "englishName": "Western Bull Moose",
     "description": "The Western Bull Moose is native to the state of West Elizabeth. Their omnivorous diet includes shoots from willow and birch trees, aquatic plants and forbs. These large mammals can be taken down with either a Bow with Improved Arrows, or with a long scope rifle. The pelt and antlers from a moose can be used for crafting.",
     "shortDescription": "Yields a pelt, antlers and mature venison meat. Used in crafting and cooking or can be sold. Use a long scope rifle for a clean kill.",
     "comment": "Perfect Bull Hide can be used to craft a pair of Bull Boots",
@@ -676,7 +644,6 @@
   },
   {
     "name": "Western Moose",
-    "englishName": "Western Moose",
     "description": "The Western Moose can be found in the remote forested areas of West Elizabeth, Ambarino and New Hanover. Their omnivorous diet includes shoots from willow and birch trees, aquatic plants and forbs. The most effective way to hunt these large mammals is either with a Bow with Improved Arrows, or with a long scope rifle. The pelt from a moose can be used for crafting.",
     "shortDescription": "Yields a pelt and mature venison meat. Used in crafting and cooking or can be sold. Use a long scope rifle for a clean kill.",
     "comment": "Perfect Bull Hide can be used to craft a pair of Bull Boots",
@@ -697,7 +664,6 @@
   },
   {
     "name": "American Muskrat",
-    "englishName": "American Muskrat",
     "description": "The American Muskrat's main habitat is along the rivers and shores of New Austin, West Elizabeth, Lemoyne and New Hanover. As omnivores, their diet consists of aquatic vegetation, small fish and amphibians. The Varmint Rifle is the most effective way to hunt these rodents. Muskrat skin and scent glands can be used for crafting, and their stringy meat can be used for cooking.",
     "shortDescription": "Yields a pelt, scent glands and stringy meat. Used in crafting and cooking or can be sold. Use a Varmint rifle for a clean kill.",
     "comment": "Perfect Muskrat Fur can be used to craft a pair of Muskrat Gloves",
@@ -718,7 +684,6 @@
   },
   {
     "name": "Angus Ox",
-    "englishName": "Angus Ox",
     "description": "Angus Oxen can be found on ranches and farms across West Elizabeth, New Hanover and Lemoyne. As herbivores, their main diet consists of common roughage including grasses, hay, and silage. These large mammals can be taken down with either a Bow with Improved Arrows, or a long scope rifle. Oxen hide and horns can be used for crafting.",
     "shortDescription": "Yields a hide, a horn and a prime beef joint. Used in crafting and cooking or can be sold. Use a long scope rifle for a clean kill.",
     "comment": "A Perfect Ox Hide can be used to craft a pair of Chaps",
@@ -739,7 +704,6 @@
   },
   {
     "name": "Devon Ox",
-    "englishName": "Devon Ox",
     "description": "Devon Oxen can be found on ranches and farms across West Elizabeth, New Hanover and Lemoyne. As herbivores, their main diet consists of common roughage including grasses, hay, and silage. An effective way to hunt these large mammals is with either a long scope rifle or a Bow with Improved Arrows. Oxen hide and horns can be used for crafting.",
     "shortDescription": "Yields a hide, a horn and a prime beef joint. Used in crafting and cooking or can be sold. Use a long scope rifle for a clean kill.",
     "comment": "A Perfect Ox Hide can be used to craft a pair of Chaps",
@@ -760,7 +724,6 @@
   },
   {
     "name": "Panther",
-    "englishName": "Panther",
     "description": "Panthers are native to the remote forested wetlands of Lemoyne. As carnivores, they prey on deer, wild boars and goats. An effective way to hunt these large mammals is with either a rifle with High Velocity or Express Bullets, or a Bow with Improved Arrows. The heart and claws from panthers can be used for crafting, and their meat can be used for cooking.",
     "shortDescription": "Yields a pelt and big game meat. Used in crafting and cooking or can be sold. Use a rifle for a clean kill.",
     "comment": "Perfect Panther Fur can be used to craft a Saddle",
@@ -781,7 +744,6 @@
   },
   {
     "name": "Florida Panther",
-    "englishName": "Florida Panther",
     "description": "The Florida Panther can be found in the remote forested wetlands of Lemoyne. As carnivores, they prey on armadillos, raccoons, white-tailed deer, feral hogs, and occasionally alligators. These temperamental cats can be killed or wounded using a rifle, or a Bow with Poison Arrows. The heart and claws from panthers can be used for crafting, and their meat can be used for cooking.",
     "shortDescription": "Yields a pelt and big game meat. Used in crafting and cooking or can be sold. Use a rifle for a clean kill.",
     "comment": "Perfect Panther Fur can be used to craft a Saddle",
@@ -802,7 +764,6 @@
   },
   {
     "name": "Berkshire Pig",
-    "englishName": "Berkshire Pig",
     "description": "Berkshire Pigs can be found on ranches and in towns across New Hanover. As omnivores, their diet consists of mice, eggs, agricultural crops, fungi, roots, and grasses. A repeater, or a Bow with arrows, is considered to be the most effective weapon to use when hunting pigs. The tender meat is perfect for cooking, and their skin can be used for crafting.",
     "shortDescription": "Yields a hide and tender pork meat. Used in crafting and cooking or can be sold. Use a repeater for a clean kill.",
     "comment": "Can be used in the Minty Pork recipe",
@@ -823,7 +784,6 @@
   },
   {
     "name": "Big China Pig",
-    "englishName": "Big China Pig",
     "description": "Big China Pigs are found on ranches and in towns across New Hanover. Their omnivorous diet includes, mice, worms, eggs, grasses, fungi, and roots. It's considered that the best weapons to hunt pigs with is a Bow with arrows, or a repeater. Their skin can be used for crafting and their tender meat is a good source of food.",
     "shortDescription": "Yields a hide and tender pork meat. Used in crafting and cooking or can be sold. Use a repeater for a clean kill.",
     "comment": "Can be used in the Thyme Pork recipe",
@@ -844,7 +804,6 @@
   },
   {
     "name": "Old Spot Pig",
-    "englishName": "Old Spot Pig",
     "description": "Old Spot Pigs can be found on ranches and in towns across New Hanover. Their omnivorous diet consists of lizards, mice, eggs, agricultural crops, and fungi, and grasses. A repeater, or a Bow with arrows, are considered to be the most effective weapons to use when hunting pigs. Pig skin can be used for crafting, and their tender meat can be used for cooking.",
     "shortDescription": "Yields a hide and tender pork meat. Used in crafting and cooking or can be sold. Use a repeater for a clean kill.",
     "comment": "Can be used in the Oregano Pork recipe",
@@ -866,7 +825,6 @@
 
   {
     "name": "Virginia Opossum",
-    "englishName": "Virginia Opossum",
     "description": "The Virginia Opossum can be found in a variety of habitats across the states. As omnivores, their diet consists of grains, nuts, fruits, amphibians, birds and their eggs, mice, and carrion. The Varmint Rifle is the most effective weapon for hunting these mammals. Opossum meat is stringy but edible, and their skin can be used for crafting.",
     "shortDescription": "Yields a pelt and stringy meat. Used in crafting and cooking or can be sold. Use a Varmint Rifle for a clean kill.",
     "comment": "Perfect Opossum Fur can be used to craft a Hat",
@@ -887,7 +845,6 @@
   },
   {
     "name": "American Pronghorn Buck",
-    "englishName": "American Pronghorn Buck",
     "description": "The American Pronghorn Buck is native to the wide open grasslands of New Hanover and West Elizabeth. As herbivores, their diet includes sagebrush, green shoots, grasses and forbs. As a large animal, a high impact weapon is needed when hunting. The most popular weapons used when hunting are rifles and Bows with Poison Arrows. Pronghorn skin can be used for crafting, and their meat can be used for cooking.",
     "shortDescription": "Yields a hide and mature venison meat. Used in crafting and cooking or can be sold. Use a rifle for a clean kill.",
     "comment": "Perfect Pronghorn Hide can be used to craft a Vest",
@@ -908,7 +865,6 @@
   },
   {
     "name": "American Pronghorn Doe",
-    "englishName": "American Pronghorn Doe",
     "description": "The American Pronghorn Doe is native to the wide open grasslands of New Hanover and West Elizabeth. As herbivores, their diet includes sagebrush, green shoots, grasses and forbs. As a large animal, a high impact weapon is needed when hunting. The most popular weapons used when hunting are rifles and Bows with Poison Arrows. Pronghorn skin can be used for crafting, and their meat can be used for cooking.",
     "shortDescription": "Yields a hide and mature venison meat. Used in crafting and cooking or can be sold. Use a rifle for a clean kill.",
     "comment": "Perfect Pronghorn Hide can be used to craft a Vest",
@@ -929,7 +885,6 @@
   },
   {
     "name": "Sonoran Pronghorn Buck",
-    "englishName": "Sonoran Pronghorn Buck",
     "description": "The Sonoran Pronghorn Bucks can be found in the open deserts of New Austin. Their herbivorous diet consists of grasses, forbs, green shots, and sagebrush. These large mammals require higher impact weapons when hunting. The ideal weapons for an effective take down are rifles or a Bow with arrows. Their mature venison can be used in cooking, and their skin can be used for crafting.",
     "shortDescription": "Yields a hide and mature venison meat. Used in crafting and cooking or can be sold. Use a rifle for a clean kill.",
     "comment": "Perfect Pronghorn Fur can be used to craft a Hat",
@@ -950,7 +905,6 @@
   },
   {
     "name": "Sonoran Pronghorn Doe",
-    "englishName": "Sonoran Pronghorn Doe",
     "description": "The Sonoran Pronghorn Doe can be found in the open deserts of New Austin. Their herbivorous diet consists of grasses, forbs, green shots, and sagebrush. These large mammals require higher impact weapons when hunting. The ideal weapons for an effective take down are rifles or a Bow with arrows. Their mature venison can be used in cooking, and their skin can be used for crafting.",
     "shortDescription": "Yields a hide and mature venison meat. Used in crafting and cooking or can be sold. Use a rifle for a clean kill.",
     "comment": "Perfect Pronghorn Fur can be used to craft a Hat",
@@ -971,7 +925,6 @@
   },
   {
     "name": "Baja California Pronghorn Buck",
-    "englishName": "Baja California Pronghorn Buck",
     "description": "The Baja Californian Pronghorn Buck's main habitat is Gaptooth Ridge and Rio Bravo. As herbivores, their diet includes sagebrush, green shoots, grasses and forbs. These large mammals require higher impact weapons when hunting. The ideal weapons for an effective take down are rifles or a Bow with arrows. Their mature venison can be used in cooking, and their skin can be used for crafting.",
     "shortDescription": "Yields a hide and mature venison meat. Used in crafting and cooking or can be sold. Use a rifle for a clean kill.",
     "comment": "Perfect Pronghorn Fur can be used to craft a Hat",
@@ -992,7 +945,6 @@
   },
   {
     "name": "Baja California Pronghorn Doe",
-    "englishName": "Baja California Pronghorn Doe",
     "description": "The Baja Californian Pronghorn Doe's main habitat is Gaptooth Ridge and Rio Bravo. As herbivores, their diet includes sagebrush, green shoots, grasses and forbs. These large mammals require higher impact weapons when hunting. The ideal weapons for an effective take down are rifles or a Bow with arrows. Their mature venison can be used in cooking, and their skin can be used for crafting.",
     "shortDescription": "Yields a hide and mature venison meat. Used in crafting and cooking or can be sold. Use a rifle for a clean kill.",
     "comment": "Perfect Pronghorn Fur can be used to craft a Hat",
@@ -1014,7 +966,6 @@
 
   {
     "name": "Sierra Nevada Bighorn Ram",
-    "englishName": "Sierra Nevada Bighorn Ram",
     "description": "The Sierra Nevada Bighorn Ram can be found in New Austin and West Elizabeth. As herbivores, they graze on forbs, woody vegetation, and grasses. The easiest way to take down a ram of this size is by either using a Bow with Poison Arrows or a rifle. Their meat is edible but gristly, and their horns and hides can be used for crafting.",
     "shortDescription": "Yields a pelt, horns and gristly mutton. Used in crafting and cooking or can be sold. Use a rifle for a clean kill.",
     "comment": "Can be used in the Oregano Minty Mutton recipe",
@@ -1035,7 +986,6 @@
   },
   {
     "name": "Sierra Nevada Bighorn Sheep",
-    "englishName": "Sierra Nevada Bighorn Sheep",
     "description": "The Sierra Nevada Bighorn Sheep inhabits New Austin and West Elizabeth. As a herbivore, it grazes on forbs, woody vegetation and grasses. Using a Bow with arrows, or a rifle, is the easiest way to take down a sheep of this size. Sheep also provide gristly mutton and hides which can be used as food and material to craft with.",
     "shortDescription": "Yields a hide and gristly mutton. Used in crafting and cooking or can be sold. Use a rifle for a clean kill.",
     "comment": "Can be used in the Thyme Mutton recipe",
@@ -1056,7 +1006,6 @@
   },
   {
     "name": "Desert Bighorn Ram",
-    "englishName": "Desert Bighorn Ram",
     "description": "The Desert Bighorn Ram inhabits New Austin. Their herbivorous diet consists of desert holly, cacti, and grasses. The easiest way to take down a ram of this size is by either using a Bow with Poison Arrows or a rifle. Their mutton, horns and hide can be used for food or crafting.",
     "shortDescription": "Yields a pelt, horns and gristly mutton. Used in crafting and cooking or can be sold. Use a rifle for a clean kill.",
     "comment": "Can be used in the Oregano Minty Mutton recipe",
@@ -1077,7 +1026,6 @@
   },
   {
     "name": "Desert Bighorn Sheep",
-    "englishName": "Desert Bighorn Sheep",
     "description": "The Desert Bighorn Sheep inhabits the varied terrain of New Austin. It has a herbivorous diet of desert holly, cacti, and grasses. Using a Bow with arrows, or a rifle, is the easiest way to take down a sheep of this size. They also provide mutton to eat, and hides for crafting with.",
     "shortDescription": "Yields a hide and gristly mutton. Used in crafting and cooking or can be sold. Use a rifle for a clean kill.",
     "comment": "Can be used in the Minty Mutton recipe",
@@ -1098,7 +1046,6 @@
   },
   {
     "name": "Rocky Mountain Bighorn Ram",
-    "englishName": "Rocky Mountain Bighorn Ram",
     "description": "The Rocky Mountain Bighorn Ram's main habitat is the Grizzlies region. They are herbivores, mainly consuming grasses and sedges, but they will also eat woody plants in the winter. The easiest way to take down a ram of this size is by either using a Bow with Poison Arrows or a rifle. Ram mutton is gristly, and their horns and hides can be used to craft with.",
     "shortDescription": "Yields a pelt, horns and gristly mutton. Used in crafting and cooking or can be sold. Use a rifle for a clean kill.",
     "comment": "Can be used in the Oregano Mutton recipe",
@@ -1119,7 +1066,6 @@
   },
   {
     "name": "Rocky Mountain Bighorn Sheep",
-    "englishName": "Rocky Mountain Bighorn Sheep",
     "description": "Rocky Mountain Bighorn Sheep are native to the Grizzlies and Cumberland Forest. This herbivore mainly lives on grasses and sedges, as well as woody plants in the winter. Using a rifle, or a Bow with arrows, will successfully take down a sheep of this size. It can provide gristly mutton to eat, and a hide to craft with.",
     "shortDescription": "Yields a hide and gristly mutton. Used in crafting and cooking or can be sold. Use a rifle for a clean kill.",
     "comment": "Can be used in the Oregano Mutton recipe",
@@ -1140,7 +1086,6 @@
   },
   {
     "name": "Black-tailed Jackrabbit",
-    "englishName": "Black-tailed Jackrabbit",
     "description": "The Black-tailed Jackrabbit can be found in a variety of habitats across the states. As herbivores, their diet consists of vegetation forbs, buds, twigs, bark, and crops, which is why they are considered pests. A Varmint Rifle is the ideal weapon to use when hunting rabbits. Rabbit pelts can be used for crafting, and their gamey meat can be used for cooking.",
     "shortDescription": "Yields pelt and game meat. Used in crafting and cooking or can be sold. Use a Varmint rifle for a clean kill.",
     "comment": "A Perfect Rabbit Pelt can be used to craft a Hat",
@@ -1161,7 +1106,6 @@
   },
   {
     "name": "North American Raccoon",
-    "englishName": "North American Raccoon",
     "description": "North American Raccoons are found across Lemoyne, New Hanover and West Elizabeth. As omnivores, their diet includes plants, berries, amphibians, rodents, and eggs, depending on their environment. The Varmint Rifle is the most effective weapon for hunting raccoons. Their meat is edible but stringy, and their skin can be used for crafting.",
     "shortDescription": "Yields pelt and stringy meat. Used in crafting and cooking or can be sold. Use a Varmint rifle for a clean kill.",
     "comment": "A Perfect Raccoon Pelt can be used to craft a Hat",
@@ -1182,7 +1126,6 @@
   },
   {
     "name": "Black Rat",
-    "englishName": "Black Rat",
     "description": "Black Rats can be found in Saint Denis and other highly populated areas. As omnivores, they scavenge for any scraps they can find, including seeds, leaves, agricultural crops and fungi. Rats can be easily killed or wounded with a Bow with Small Game Arrows. Their meat is stringy but edible, and their skin can be used for crafting.",
     "shortDescription": "Yields a carcass and stringy meat. Used in crafting and cooking or can be sold. Use a Bow with a Small Game Arrow for a clean kill.",
     "comment": "Perfect Rat Fur can be used to craft a Hat",
@@ -1203,7 +1146,6 @@
   },
   {
     "name": "Brown Rat",
-    "englishName": "Brown Rat",
     "description": "Brown Rats can be found in Armadillo and other densely populated areas. Their omnivorous diet is based on scavenging food, as well as grains, seeds, small mammals and birds. It's considered that a Bow with Small Game Arrows is the most effective way to kill or wound rats. Rat skin can be used for crafting and their stringy meat can be used for cooking.",
     "shortDescription": "Yields a carcass and stringy meat. Used in crafting and cooking or can be sold. Use a Bow with a Small Game Arrow for a clean kill.",
     "comment": "Perfect Rat Fur can be used to craft a Hat",
@@ -1225,7 +1167,6 @@
 
   {
     "name": "Merino Sheep",
-    "englishName": "Merino Sheep",
     "description": "The Merino Sheep can be found on ranches and in towns across New Hanover. As herbivores, they feed on pasture plants, grasses, clovers and forbs. A repeater, or a Bow with arrows, is considered to be the best weapon for hunting sheep. Their wool can be used for crafting, and their gristly meat can be consumed.",
     "shortDescription": "Yields a hide and gristly mutton. Used in crafting and cooking or can be sold. Use a repeater for a clean kill.",
     "comment": "Can be used in the Thyme Mutton recipe",
@@ -1246,7 +1187,6 @@
   },
   {
     "name": "Striped Skunk",
-    "englishName": "Striped Skunk",
     "description": "The Striped Skunk can be found in a variety of habitats across the states. Their omnivorous diet consists of insects, fish, crustaceans, small mammals, grasses, fruits, and carrion. Skunks have the ability to create a spray using their scent glands to deter predators. This makes long range weapons like the Varmint Rifle the best to hunt this type of animal. Their skin can be used for crafting and their meat can be consumed, though it's considered to be stringy.",
     "shortDescription": "Yields a pelt and stringy meat. Used in crafting and cooking or can be sold. Use a Varmint Rifle for a clean kill.",
     "comment": "A Skunk Pelt can be used to craft a pair of Boots",
@@ -1268,7 +1208,6 @@
 
   {
     "name": "Diamondback Rattlesnake",
-    "englishName": "Diamondback Rattlesnake",
     "description": "The Diamondback Rattlesnake is native to Lemoyne, New Hanover and parts of West Elizabeth. As carnivores, they prey on ground dwelling birds, mice, rabbits, and gophers. A Bow with Small Game Arrows is considered to be the best weapon to wound or kill a snake of this size. Their skin can be used for crafting, and their meat can be used as a source of food.",
     "shortDescription": "Yields a skin and stringy meat. Used in crafting and cooking or can be sold. Use a Bow with a Small Game Arrow for a clean kill.",
     "comment": "A Perfect Snake Skin can be used to craft a Saddle",
@@ -1289,7 +1228,6 @@
   },
   {
     "name": "Black-tailed Rattlesnake",
-    "englishName": "Black-tailed Rattlesnake",
     "description": "The Black-tailed Rattlesnake can be found New Austin. As carnivores, they prey on small animals like mice, rats and lizards. A Bow with Small Game Arrows is considered to be the best weapon to kill these snakes, without causing too much damage to their skin. Their meat is edible, though considered to be stringy, and their skin can be used for crafting.",
     "shortDescription": "Yields a skin and stringy meat. Used in crafting and cooking or can be sold. Use a Bow with a Small Game Arrow for a clean kill.",
     "comment": "A Perfect Snake Skin can be used to craft a Saddle",
@@ -1310,7 +1248,6 @@
   },
   {
     "name": "Timber Rattlesnake",
-    "englishName": "Timber Rattlesnake",
     "description": "The Timber Rattlesnake is native to Lemoyne, New Hanover and parts of West Elizabeth. As carnivores, they prey on small birds, mice, rabbits, and lizards. A Bow with Small Game Arrows is considered to be the best weapon to wound or kill a snake of this size. Their skin can be used for crafting and their meat can be used as a source of food.",
     "shortDescription": "Yields a skin and stringy meat. Used in crafting and cooking or can be sold. Use a Bow with a Small Game Arrow for a clean kill.",
     "comment": "A Perfect Snake Skin can be used to craft a Saddle",
@@ -1331,7 +1268,6 @@
   },
   {
     "name": "Northern Copperhead Snake",
-    "englishName": "Northern Copperhead Snake",
 
     "description": "Northern Copperhead Snakes can be found across New Hanover and Lemoyne. Their carnivorous diet consists of mice, lizards, insects, and small birds. A Bow with Small Game Arrows is considered to be the best weapon to wound or kill a snake of this size. Their skin can be used for crafting, and their meat is edible, though considered to be stringy.",
     "shortDescription": "Yields a skin and stringy meat. Used in crafting and cooking or can be sold. Use a Bow with a Small Game Arrow for a clean kill.",
@@ -1353,7 +1289,6 @@
   },
   {
     "name": "Southern Copperhead Snake",
-    "englishName": "Southern Copperhead Snake",
     "description": "Southern Copperhead Snakes can be found across New Hanover, Lemoyne, and southern areas of West Elizabeth. Their carnivorous diet consists of mice, lizards, insects, and small birds. A Bow with Small Game Arrows is considered to be the best weapon to wound or kill a snake of this size. Their skin can be used for crafting, and their meat is edible, though considered to be stringy.",
     "shortDescription": "Yields a skin and stringy meat. Used in crafting and cooking or can be sold. Use a Bow with a Small Game Arrow for a clean kill.",
     "comment": "A Perfect Snake Skin can be used to craft a Saddle",
@@ -1374,7 +1309,6 @@
   },
   {
     "name": "Midland Water Snake",
-    "englishName": "Midland Water Snake",
     "description": "Midland Water Snakes are native to the coastal shores of Roanoke Ridge and swamplands of Lemoyne. Their carnivorous diet consists of game, frogs, salamanders, and fish. A Bow with Small Game Arrows is considered to be the best weapon to wound or kill a snake of this size. Their skin can be used for crafting, and their meat is edible, though considered to be stringy.",
     "shortDescription": "Yields a skin and stringy meat. Used in crafting and cooking or can be sold. Use a Bow with a Small Game Arrow for a clean kill.",
     "comment": "A Perfect Snake Skin can be used to craft a Saddle",
@@ -1395,7 +1329,6 @@
   },
   {
     "name": "Cottonmouth Snake",
-    "englishName": "Cottonmouth Snake",
     "description": "Cottonmouth Snakes are native to the coastal shores of Roanoke Ridge and swamplands of Lemoyne. Their carnivorous diet consists of game, frogs, salamanders, and fish. A Bow with Small Game Arrows is considered to be the best weapon to wound or kill a snake of this size. Their skin can be used for crafting, and their meat is edible, though considered to be stringy.",
     "shortDescription": "Yields a skin and stringy meat. Used in crafting and cooking or can be sold. Use a Bow with a Small Game Arrow for a clean kill.",
     "comment": "A Perfect Snake Skin can be used to craft a Saddle",
@@ -1416,7 +1349,6 @@
   },
   {
     "name": "Northern Water Snake",
-    "englishName": "Northern Water Snake",
     "description": "Northern Water Snakes are native to the coastal shores of Roanoke Ridge and swamplands of Lemoyne. Their carnivorous diet consists of game, frogs, salamanders, and fish. A Bow with Small Game Arrows is considered to be the best weapon to wound or kill a snake of this size. Their skin can be used for crafting, and their meat is edible, though considered to be stringy.",
     "shortDescription": "Yields a skin and stringy meat. Used in crafting and cooking or can be sold. Use a Bow with a Small Game Arrow for a clean kill.",
     "comment": "A Perfect Snake Skin can be used to craft a Saddle",
@@ -1437,7 +1369,6 @@
   },
   {
     "name": "American Red Squirrel",
-    "englishName": "American Red Squirrel",
     "description": "American Red Squirrels are native to the forested regions of West Elizabeth and New Hanover. As omnivores, their diet consists of small animals such as mice as well as nuts, seeds and mushrooms. Using a Bow with Small Game Arrows will successfully kill the squirrel, but will do less damage to their pelts. Their pelts can be sold to traders, and their meat can be consumed, though it is considered to be rather stringy.",
     "shortDescription": "Yields a carcass and stringy meat. Used in crafting and cooking or can be sold. Use a Bow with a Small Game Arrow for a clean kill.",
     "comment": "A Perfect Squirrel Pelt can be used to craft a Hat",
@@ -1458,7 +1389,6 @@
   },
   {
     "name": "Western Gray Squirrel",
-    "englishName": "Western Gray Squirrel",
     "description": "The Western Squirrel is native to the forested regions of West Elizabeth and New Hanover. Its omnivorous diet consists of nuts, berries, seeds, eggs, and small birds. Hunting squirrels with a Bow and Small Game Arrows will cause less damage to their pelts, compared to other weapons. Their pelts can be sold as profit to traders, and their meat is edible, but is considered to be stringy.",
     "shortDescription": "Yields a carcass and stringy meat. Used in crafting and cooking or can be sold. Use a Bow with a Small Game Arrow for a clean kill.",
     "comment": "A Perfect Squirrel Pelt can be used to craft a Hat",
@@ -1479,7 +1409,6 @@
   },
   {
     "name": "Black Squirrel",
-    "englishName": "Black Squirrel",
     "description": "The Black Squirrel inhabits the woodlands of New Hanover and parts of West Elizabeth. Its omnivorous diet consists of seeds, nuts, small insects and fungi. A Bow with Small Game Arrows can be used to hunt squirrels with minimal damage to their pelts. Pelts from squirrels can be sold to traders, and their meat is edible, though stringy.",
     "shortDescription": "Yields a carcass and stringy meat. Used in crafting and cooking or can be sold. Use a Bow with a Small Game Arrow for a clean kill.",
     "comment": "A Perfect Squirrel Pelt can be used to craft a Hat",
@@ -1500,7 +1429,6 @@
   },
   {
     "name": "Western Toad",
-    "englishName": "Western Toad",
     "description": "Western Toads are native to the Lemoyne wetlands. As carnivores, they prey on large bees, beetles, ants, crayfish, and arachnids. A Bow with Small Game Arrows is considered to be the best weapon to hunt toads with as it does minimal damage to the carcass. Their legs are a great source of food.",
     "shortDescription": "Yields a carcass and herptile meat. Used in crafting and cooking or can be sold. Use a Bow with a Small Game Arrow for a clean kill.",
     "comment": "A Perfect Toad Carcass can be sold to traders",
@@ -1521,7 +1449,6 @@
   },
   {
     "name": "Sonoran Desert Toad",
-    "englishName": "Sonoran Desert Toad",
     "description": "Sonoran Desert Toads are native to Rio Bravo. As carnivores, they prey on a centipedes, lizards, spiders, and mice. A Bow with Small Game Arrows is considered to be the best weapon to hunt toads with as it does minimal damage to the carcass. Their legs are a great source of food.",
     "shortDescription": "Yields a carcass and herptile meat. Used in crafting and cooking or can be sold. Use a Bow with a Small Game Arrow for a clean kill.",
     "comment": "A Perfect Toad Carcass can be sold to traders",
@@ -1542,7 +1469,6 @@
   },
   {
     "name": "Alligator Snapping Turtle",
-    "englishName": "Alligator Snapping Turtle",
     "description": "The Alligator Snapping Turtle is native to the swamplands of Lemoyne. Their primarily carnivorous diet means they prey on other smaller turtles, frogs, snakes, as well as some aquatic plants. A Bow with Small Game Arrows is considered the best weapon to use when hunting turtles. Their herptile meat can be used in cooking or can be sold to traders.",
     "shortDescription": "Yields herptile meat that can be used in cooking or can be sold. Use a Bow with a Small Game Arrow for a clean kill.",
     "comment": "Can be used in the Plain Herptile recipe",
@@ -1563,7 +1489,6 @@
   },
   {
     "name": "Gray Wolf",
-    "englishName": "Gray Wolf",
     "description": "The Gray Wolf's main habitat is in the Big Valley region and Tall Trees North. As carnivores, their diet consists of deer and mountain goats, as well as smaller animals like birds, beavers, and fish. As wolves often attack in packs, it is recommended that long range weapons like rifles, or a Bow with arrows, are used to wound or kill a wolf. Their meat can be used for food, and their pelts and hearts can be used for crafting.",
     "shortDescription": "Yields a pelt, a heart and big game meat. Used in crafting and cooking or can be sold. Use a Bow with a Poison Arrow for a clean kill.",
     "comment": "A Perfect Wolf Pelt can be used to craft a Vest",
@@ -1584,7 +1509,6 @@
   },
   {
     "name": "Timber Wolf",
-    "englishName": "Timber Wolf",
     "description": "The Timber Wolf is native to the Cumberland Forest and the Grizzlies. Its carnivorous diet consists of elk, mice, rabbits, and squirrels. Their vicious nature means that long range weapons are best to take them down. Rifles and a Bow with arrows are considered to be the best weapons to kill or wound a wolf. A good pelt can be sold to traders for a good price. Their hearts can also be used for crafting, and their meat can be consumed.",
     "shortDescription": "Yields a pelt, a heart and big game meat. Used in crafting and cooking or can be sold. Use a Bow with a Poison Arrow for a clean kill.",
     "comment": "A Perfect Wolf Pelt can be used to craft a Vest",

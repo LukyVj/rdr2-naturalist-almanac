@@ -147,5 +147,12 @@
     "description": "The Sunglow Boa is native to Guarma. As carnivores, they prey on rodents, lizards, birds, amphibians. A Bow with Small Game Arrows is considered to be the best weapon to wound or kill a snake, without causing too much damage to the skin. Their skin can be used for crafting, and their stringy meat can be consumed.",
     "shortDescription": "Yields a skin and stringy meat. Used in crafting and cooking or can be sold. Use a Bow with a Small Game Arrow for a clean kill.",
     "comment": "A Perfect Snake Skin can be used to craft a Saddle"
+  },
+  {
+    "id": "CMPNDM_FERDELANCE",
+    "name": "Fer-de-Lance Snake",
+    "description": "The Fer-de-Lance Snake is native to Guarma. Their extremely toxic venom makes them effective predators, preying on mammals, amphibians, reptiles, and other snakes. Fer-de-Lance Snakes are considered to be the most dangerous snake to humans. A Bow with Small Game Arrows is the best weapon to wound or kill a snake of this size. Their skin can be used for crafting, and their meat can be consumed, though is considered to be stringy.",
+    "shortDescription": "Yields a skin and stringy meat. Used in crafting and cooking or can be sold. Use a Bow with a Small Game Arrow for a clean kill.",
+    "comment": "A Perfect Snake Skin can be used to craft a Saddle"
   }
 ]

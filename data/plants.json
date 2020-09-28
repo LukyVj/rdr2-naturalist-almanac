@@ -4,7 +4,7 @@
     "value": "acuna_s_star_orchid",
     "photoName": "acuna_s_star_orchid",
     "thumbnailName": "acuna_s_star_orchid",
-    "description": false,
+    "description": "",
     "habitat": "",
     "mapLocation": "acuna_s_star_orchid",
     "type": "plants"
@@ -38,7 +38,7 @@
     "value": "bay_bolete",
     "photoName": "bay_bolete",
     "thumbnailName": "bay_bolete",
-    "description": false,
+    "description": "",
     "habitat": "",
     "mapLocation": "bay_bolete",
     "type": "plants"
@@ -60,7 +60,7 @@
     "value": "blackcurrant",
     "photoName": "blackcurrant",
     "thumbnailName": "black_currant",
-    "description": false,
+    "description": "",
     "habitat": "",
     "mapLocation": "blackcurrant",
     "type": "plants"
@@ -70,7 +70,7 @@
     "value": "burdock_root",
     "photoName": "burdock_root",
     "thumbnailName": "burdock_root",
-    "description": false,
+    "description": "",
     "habitat": "",
     "mapLocation": "burdock_root",
     "type": "plants"
@@ -92,7 +92,7 @@
     "value": "cigar_orchid",
     "photoName": "cigar_orchid",
     "thumbnailName": "cigar_orchid",
-    "description": false,
+    "description": "",
     "habitat": "",
     "mapLocation": "cigar_orchid",
     "type": "plants"
@@ -102,7 +102,7 @@
     "value": "clamshell_orchid",
     "photoName": "clamshell_orchid",
     "thumbnailName": "clamshell_orchid",
-    "description": false,
+    "description": "",
     "habitat": "",
     "mapLocation": "clamshell_orchid",
     "type": "plants"
@@ -136,7 +136,7 @@
     "value": "desert_sage",
     "photoName": "desert_sage",
     "thumbnailName": "desert_sage",
-    "description": false,
+    "description": "",
     "habitat": "",
     "mapLocation": "desert_sage",
     "type": "plants"
@@ -146,7 +146,7 @@
     "value": "dragons_mouth_orchid",
     "photoName": "dragons_mouth_orchid",
     "thumbnailName": "dragons_mouth_orchid",
-    "description": false,
+    "description": "",
     "habitat": "",
     "mapLocation": "dragons_mouth_orchid",
     "type": "plants"
@@ -180,7 +180,7 @@
     "value": "ghost_orchid",
     "photoName": "ghost_orchid",
     "thumbnailName": "ghost_orchid",
-    "description": false,
+    "description": "",
     "habitat": "",
     "mapLocation": "ghost_orchid",
     "type": "plants"
@@ -226,7 +226,7 @@
     "value": "lady_of_the_night_orchid",
     "photoName": "lady_of_the_night_orchid",
     "thumbnailName": "lady_of_the_night_orchid",
-    "description": false,
+    "description": "",
     "habitat": "",
     "mapLocation": "lady_of_the_night_orchid",
     "type": "plants"
@@ -236,7 +236,7 @@
     "value": "ladies_slipper_orchid",
     "photoName": "ladies_slipper_orchid",
     "thumbnailName": "ladies_slipper_orchid",
-    "description": false,
+    "description": "",
     "habitat": "",
     "mapLocation": "ladies_slipper_orchid",
     "type": "plants"
@@ -258,7 +258,7 @@
     "value": "moccasin_flower_orchid",
     "photoName": "moccasin_flower_orchid",
     "thumbnailName": "moccasin_flower_orchid",
-    "description": false,
+    "description": "",
     "habitat": "",
     "mapLocation": "moccasin_flower_orchid",
     "type": "plants"
@@ -268,7 +268,7 @@
     "value": "night_scented_orchid",
     "photoName": "night_scented_orchid",
     "thumbnailName": "night_scented_orchid",
-    "description": false,
+    "description": "",
     "habitat": "",
     "mapLocation": "night_scented_orchid",
     "type": "plants"
@@ -314,7 +314,7 @@
     "value": "prairie_poppy",
     "photoName": "prairie_poppy",
     "thumbnailName": "prairie_poppy",
-    "description": false,
+    "description": "",
     "habitat": "",
     "mapLocation": "prairie_poppy",
     "type": "plants"
@@ -336,7 +336,7 @@
     "value": "rams_head",
     "photoName": "rams_head",
     "thumbnailName": "rams_head",
-    "description": false,
+    "description": "",
     "habitat": "",
     "mapLocation": "rams_head",
     "type": "plants"
@@ -346,7 +346,7 @@
     "value": "rat_tail_orchid",
     "photoName": "rat_tail_orchid",
     "thumbnailName": "rat_tail_orchid",
-    "description": false,
+    "description": "",
     "habitat": "",
     "mapLocation": "rat_tail_orchid",
     "type": "plants"
@@ -368,7 +368,7 @@
     "value": "red_sage",
     "photoName": "red_sage",
     "thumbnailName": "red_sage",
-    "description": false,
+    "description": "",
     "habitat": "",
     "mapLocation": "red_sage",
     "type": "plants"
@@ -378,7 +378,7 @@
     "value": "sparrow_s_egg_orchid",
     "photoName": "sparrow_s_egg_orchid",
     "thumbnailName": "sparrow_s_egg_orchid",
-    "description": false,
+    "description": "",
     "habitat": "",
     "mapLocation": "sparrow_s_egg_orchid",
     "type": "plants"
@@ -388,7 +388,7 @@
     "value": "spider_orchid",
     "photoName": "spider_orchid",
     "thumbnailName": "spider_orchid",
-    "description": false,
+    "description": "",
     "habitat": "",
     "mapLocation": "spider_orchid",
     "type": "plants"
@@ -398,7 +398,7 @@
     "value": "vanilla_flower",
     "photoName": "vanilla_flower",
     "thumbnailName": "vanilla_flower",
-    "description": false,
+    "description": "",
     "habitat": "",
     "mapLocation": "vanilla_flower",
     "type": "plants"
@@ -408,7 +408,7 @@
     "value": "violet_snowdrop",
     "photoName": "violet_snowdrop",
     "thumbnailName": "violet_snowdrop",
-    "description": false,
+    "description": "",
     "habitat": "",
     "mapLocation": "violet_snowdrop",
     "type": "plants"
@@ -430,7 +430,7 @@
     "value": "wild_feverfew",
     "photoName": "wild_feverfew",
     "thumbnailName": "wild_feverfew",
-    "description": false,
+    "description": "",
     "habitat": "",
     "mapLocation": "wild_feverfew",
     "type": "plants"
