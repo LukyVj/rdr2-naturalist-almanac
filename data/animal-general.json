@@ -6,8 +6,146 @@
     "otherDesc": "Cats make good household pets as they can maintain any pest problems within their environment.",
     "thumbnailName": "animals/icons/ANIMALS_CAT",
     "photoName": "animals/photos/ANIMALS_CAT_PHOTO",
+    "isLegendary": false,
+    "isNaturalist": false,
+    "isKillable": true,
+    "isSkinnable": true,
+    "isCollectable": false,
+    "isTrackable": false,
+    "isSedatable": true,
+    "isSamplable": true,
+    "isPhotographable": true,
+    "isLocked": false,
     "habitat": "",
     "mapLocation": "",
-    "type": "animal-general"
+    "type": "animal-general",
+    "shortDescription": "Cats make good household pets as they can maintain any pest problems within their environment.",
+    "comment": "Cats make good household pets"
+  },
+  {
+    "id": "CMPNDM_CRAWFISH",
+    "name": "Red Swamp Crayfish",
+    "description": "Red Swamp Crayfish are native to the swampland of Bayou Nwa. The Red Swamp Crayfish is an opportunistic omnivore, feeding on any soft vegetation, insect larvae, water snails, and carrion. These freshwater crustaceans can be found within crawfish holes. Their carcasses can be used as fishing bait.",
+    "shortDescription": "Yields a carcass and crustacean meat. Used in crafting and cooking or can be sold. Use a Bow with a Small Game Arrow for a clean kill.",
+    "comment": "Can be used as fishing bait"
+  },
+  {
+    "id": "CMPNDM_FOXHOUND",
+    "name": "American Fox Hound",
+    "description": "The American Fox Hound is a popular breed of dog that can be found in towns across the states. Their omnivorous diet usually consists of dog food made up from meat, vegetable matter, and offal. These dogs were bred for hunting, and are cousins of the English Fox Hound.",
+    "shortDescription": "A popular breed that can be found in towns across the states. These dogs were bred for hunting, and is a cousin of the English Foxhound.",
+    "comment": "American Fox Hounds are good hunting companions"
+  },
+  {
+    "id": "CMPNDM_AUSSHEPHERD",
+    "name": "Australian Shepherd",
+    "description": "Australian Shepherd dogs can be found in most towns across the states. Their omnivorous diet usually consists of dog food made up from meat, vegetable matter, and offal. The breeding of Australian Shepherds has made them good sheep herders, especially in mountain environments.",
+    "shortDescription": "Found on ranches across the states. The breeding of Australian Shepherds has made them good sheep herders, especially in mountain environments.",
+    "comment": "Australian Shepherds are good for herding sheep"
+  },
+  {
+    "id": "CMPNDM_BLOODHOUND",
+    "name": "Bloodhound",
+    "description": "Bloodhounds can be found in towns across the states. Their omnivorous diet usually consists of dog food made up from meat, vegetable matter, and offal. Bloodhounds have been bred for hunting wild boar and deer.",
+    "shortDescription": "Found in towns across the states. Bloodhounds have been bred for hunting wild boar and deer.",
+    "comment": "Bloodhounds are bred to hunt boar and deer"
+  },
+  {
+    "id": "CMPNDM_COONHOUND",
+    "name": "Bluetick Coonhound",
+    "description": "The Bluetick Coonhound can be found on ranches or in towns across Lemoyne and New Hanover. Their omnivorous diet usually consists of dog food made up from meat, vegetable matter, and offal. Their strong sense of smell makes them excellent hunting dogs, especially for hunting raccoons.",
+    "shortDescription": "A popular breed with strong sense of smell makes them excellent hunting dogs, especially for tracking raccoons.",
+    "comment": "Bluetick Coonhounds are excellent hunting dogs"
+  },
+  {
+    "id": "CMPNDM_BORDERCOLLIE",
+    "name": "Border Collie",
+    "description": "Border Collies can be found at ranches and in towns across Lemoyne and New Hanover. Their omnivorous diet usually consists of dog food made up from meat, vegetable matter, and offal. This breed of dog has been bred for herding livestock.",
+    "shortDescription": "Found in Bayou Nwa. This breed of dog has been bred for herding livestock.",
+    "comment": "Border Collies are bred for herding livestock"
+  },
+  {
+    "id": "CMPNDM_CATAHOULACUR",
+    "name": "Catahoula Cur",
+    "description": "The Catahoula Cur can be found in towns across the states. Their omnivorous diet usually consists of dog food made up from meat, vegetable matter, and offal. These dogs have been traditionally used for boar hunting.",
+    "shortDescription": "Found in towns across the states. These dogs have been traditionally used for boar hunting.",
+    "comment": "Catahoula Cur are traditionally used for boar hunting"
+  },
+  {
+    "id": "CMPNDM_RETRIVER",
+    "name": "Chesapeake Bay Retriever",
+    "description": "Chesapeake Bay Retrievers can be found at ranches, homesteads, train stations and towns across New Hanover. Their omnivorous diet usually consists of dog food made up from meat, vegetable matter, and offal. This breed of dog has been used for hunting, and to retrieve waterfowl.",
+    "shortDescription": "Found on ranches and in towns across the states. This breed of dog is commonly used for tracking and hunting. Often by market hunters to retrieve waterfowl.",
+    "comment": "Chesapeake Bay Retrievers are good at retrieving waterfowl"
+  },
+  {
+    "id": "CMPNDM_HUSKY",
+    "name": "Siberian Husky",
+    "description": "The Siberian Husky can be found in towns and on ranches across West Elizabeth and New Hanover. Their omnivorous diet usually consists of dog food made up from meat, vegetable matter, and offal. This breed of dog has been bred to help with hunting and gathering.",
+    "shortDescription": "Found on ranches and in towns across the states. Huskies are bred to help with hunting and gathering.",
+    "comment": "Siberian Huskies are bred to help with hunting and gathering"
+  },
+  {
+    "id": "CMPNDM_LABRADOR",
+    "name": "Labrador Retriever",
+    "description": "Labrador Retrievers can be found at farms and ranches across New Hanover and New Austin. Their omnivorous diet usually consists of dog food made up from meat, vegetable matter, and offal. This breed of dog makes good hunting companions.",
+    "shortDescription": "Found in the Eastern Heartlands. This breed of dog makes good hunting companions.",
+    "comment": "Labrador Retrievers make good hunting companions"
+  },
+  {
+    "id": "CMPNDM_POODLE",
+    "name": "Poodle",
+    "description": "Poodles can be found in the wealthy neighborhoods of St. Denis and Rhodes. Their omnivorous diet usually consists of dog food made up from meat, vegetable matter, and offal. Poodles are considered to be good duck and bird hunting companions.",
+    "shortDescription": "Found in towns across the states. Poodles are considered to be good duck and bird hunting companions.",
+    "comment": "Poodles are good companions for duck and bird hunting"
+  },
+  {
+    "id": "CMPNDM_MUTT",
+    "name": "Mutt",
+    "description": "Mutts can be found across Armadillo and St. Denis. A mutt is recognized as being a cross of at least three different breeds of dogs. Their omnivorous diet usually consists of dog food made up from meat, vegetable matter, and offal. Domestic mutts can make good household pets.",
+    "shortDescription": "Found around Armadillo and St. Denis, domestic mutts can make good household pets.",
+    "comment": "Mutts make good household pets"
+  },
+  {
+    "id": "CMPNDM_RUFUS",
+    "name": "Rufus",
+    "description": "The Marston family dog and Jack's best friend.",
+    "shortDescription": "Rufus is a good boy.",
+    "comment": "Labrador Retrievers make good hunting companions"
+  },
+  {
+    "id": "CMPNDM_DONKEY",
+    "name": "Standard Donkey",
+    "description": "The Standard Donkey can be found at ranches and farms across the states. Their herbivorous diet consists of grasses, hay, and barley straw. Donkeys are considered to be one of the cheapest forms of labor for agricultural work.",
+    "shortDescription": "Found across New Austin. Donkeys are considered to be one of the cheapest form of labor for agricultural work.",
+    "comment": "A Standard Donkey can be used for labor"
+  },
+  {
+    "id": "CMPNDM_MULE",
+    "name": "Mule",
+    "description": "Mules can be found on farms and ranches across New Hanover. As herbivores, they graze on grasses, hay and grains. Mules are considered to be preferable to horses for manual work due to their tougher skin and harder hooves.",
+    "shortDescription": "Mules are considered to be preferable to horses for manual work due to the tougher skin and harder hooves.",
+    "comment": "Mules can be found throughout the land"
+  },
+  {
+    "id": "CMPNDM_REDBOASNAKE",
+    "name": "Red Boa Snake",
+    "description": "The Red Boa is native to Guarma. As carnivores, they prey on rodents, lizards, birds, amphibians. A Bow with Small Game Arrows is considered to be the best weapon to wound or kill a snake, without causing too much damage to the skin. Their skin can be used for crafting, and their stringy meat can be consumed.",
+    "shortDescription": "Yields a skin and stringy meat. Used in crafting and cooking or can be sold. Use a Bow with a Small Game Arrow for a clean kill.",
+    "comment": "A Perfect Snake Skin can be used to craft a Saddle"
+  },
+  {
+    "id": "CMPNDM_BOASNAKE",
+    "name": "Rainbow Boa Snake",
+    "description": "The Rainbow Boa is native to Guarma. As carnivores, they prey on rodents, lizards, birds, amphibians. A Bow with Small Game Arrows is considered to be the best weapon to wound or kill a snake, without causing too much damage to the skin. Their skin can be used for crafting, and their stringy meat can be consumed.",
+    "shortDescription": "Yields a skin and stringy meat. Used in crafting and cooking or can be sold. Use a Bow with a Small Game Arrow for a clean kill.",
+    "comment": "A Perfect Snake Skin can be used to craft a Saddle"
+  },
+  {
+    "id": "CMPNDM_SUNBOASNAKE",
+    "name": "Sunglow Boa Snake",
+    "description": "The Sunglow Boa is native to Guarma. As carnivores, they prey on rodents, lizards, birds, amphibians. A Bow with Small Game Arrows is considered to be the best weapon to wound or kill a snake, without causing too much damage to the skin. Their skin can be used for crafting, and their stringy meat can be consumed.",
+    "shortDescription": "Yields a skin and stringy meat. Used in crafting and cooking or can be sold. Use a Bow with a Small Game Arrow for a clean kill.",
+    "comment": "A Perfect Snake Skin can be used to craft a Saddle"
   }
 ]

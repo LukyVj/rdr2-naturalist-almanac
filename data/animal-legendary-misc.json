@@ -1,0 +1,130 @@
+[
+  {
+    "id": "CMPNDM_LEGENDARY_ALLIGATOR",
+    "name": "Legendary Bull Gator",
+    "isLegendary": true,
+    "description": "The Legendary Bull Gator is native to the swampland near Lagras, Bayou Nwa. The alligator can be easily spotted by its large size and its albino scales. As a carnivorous apex predator, it feeds on fish, birds, amphibians and mammals. A Bow with Improved Arrows, or a long scope rifle, is considered to be the best weapon for hunting this alligator. Killing this animal will give you the opportunity to craft a rare talisman.",
+    "shortDescription": "Yields an alligator tooth that can be used in crafting. Use a Bow with an Improved Arrow for a clean kill.",
+    "comment": "Can be crafted into a Legendary Alligator Vest"
+  },
+  {
+    "id": "CMPNDM_LEGENDARY_BEAR",
+    "name": "Legendary Bharati Grizzly Bear",
+    "isLegendary": true,
+    "description": "The Legendary Bharati is endemic to O'Creagh's Run, in the Grizzlies East. This bear is larger than any other that has been spotted in the region. The distinctive scars across its face and body make this creature easily identifiable. As an omnivore, its diet ranges from berries, roots, and grasses to deer, elk, fish, and carrion. Long range weapons like a long scope rifle, or a Bow with Improved Arrows, will give you the advantage when hunting this animal. Killing this animal will give you the opportunity to craft a rare talisman.",
+    "shortDescription": "Yields a claw that can be used in crafting. Use a long scope rifle for a clean kill.",
+    "comment": "Can be crafted into a Legendary Bear Head Hat"
+  },
+  {
+    "id": "CMPNDM_LEGENDARY_BEAVER",
+    "name": "Legendary Beaver",
+    "isLegendary": true,
+    "description": "The Legendary Beaver is endemic to Elysian Pool in New Hanover. The light hair on the beaver makes it easy to recognize compared to other beavers in the region. Its herbivorous diet consists of tree bark, cambium, roots, buds, and water plants. A Varmint Rifle is considered to be the most effective weapon when hunting beavers. Killing this animal will give you the opportunity to craft a rare trinket.",
+    "shortDescription": "Yields a beaver tooth that can be used in crafting. Use a Varmint Rifle for a clean kill.",
+    "comment": "Can be crafted into a Legendary Beaver Flop Hat"
+  },
+  {
+    "id": "CMPNDM_LEGENDARY_WHITEBUFFALO",
+    "name": "Legendary White Bison",
+    "isLegendary": true,
+    "description": "The Legendary White Bison is endemic to the northern mountains of Ambarino. This albino bison can be easily distinguished by the color of its hair. As a herbivore, it grazes on grains, hay, and corn. Due to the large size of the bison, high impact weapons are considered the best for hunting this animal. The ideal weapon is either a Bow with Improved Arrows or a long scope rifle. Killing this animal will give you the opportunity to craft a rare talisman.",
+    "shortDescription": "Yields a horn that can be used in crafting. Use a long scope rifle for a clean kill.",
+    "comment": "Can be crafted into a Legendary White Bison Hat"
+  },
+  {
+    "id": "CMPNDM_LEGENDARY_TBUFFALO",
+    "name": "Legendary Tatanka Bison",
+    "isLegendary": true,
+    "description": "The Legendary Tatanka Bison is native to Hennigan's Stead in New Austin. This bison can be recognized by its short black hair and thick light gray hair around its hump and head. As a herbivore, it grazes on grains, hay, and corn. Long range weapons like a long scope rifle or a Bow with Improved Arrows will give you the advantage when hunting this animal. Killing this animal will give you the opportunity to craft a rare trinket.",
+    "shortDescription": "Yields a horn that can be used in crafting. Use a long scope rifle for a clean kill.",
+    "comment": "Can be crafted into a Legendary Bison Vest"
+  },
+  {
+    "id": "CMPNDM_LEGENDARY_BOAR",
+    "name": "Legendary Boar",
+    "isLegendary": true,
+    "description": "The Legendary Boar is native to Bluewater Marsh. This boar can be easily recognized by its larger size and its light brown hair. As an omnivore, it preys on amphibians, reptiles, insects, worms, and smaller mammals. The best weapon to use when hunting this animal is either a rifle or a Bow with Poison Arrows. Killing this animal will give you the opportunity to craft a rare talisman.",
+    "shortDescription": "Yields a tusk that can be used in crafting. Use a rifle for a clean kill.",
+    "comment": "Can be crafted into a Legendary Boar & Bison Fowlers"
+  },
+  {
+    "id": "CMPNDM_LEGENDARY_BUCK",
+    "name": "Legendary Buck",
+    "isLegendary": true,
+    "description": "The Legendary Buck is endemic to Big Valley in West Elizabeth. Its light brown and white short hair makes this buck distinguishable to other bucks. As a herbivore, it consumes nuts, buds, twigs, and green plants. A rifle, or a Bow with Poison Arrows, are considered to be the best weapons to hunt this animal. Killing this animal will give you the opportunity to craft a rare trinket.",
+    "shortDescription": "Yields an antler that can be used in crafting. Use a Bow with a Poison Arrow for a clean kill.",
+    "comment": "Can be crafted into a Legendary Buck Vest"
+  },
+  {
+    "id": "CMPNDM_LEGENDARY_COUGAR",
+    "name": "Legendary Cougar",
+    "isLegendary": true,
+    "description": "The Legendary Cougar is native to Gaptooth Ridge in New Austin. The unique black fur makes this cougar easily recognizable. As a carnivore, it preys on deer, elk, moose, and mountain goats. Long distance weapons like rifles, or a Bow with Poison Arrows, are recommended for hunting as the vicious nature of cougars means they are prone to attack. Killing this animal will give you the opportunity to craft a rare trinket.",
+    "shortDescription": "Yields a fang that can be used in crafting. Use a Bow with a Poison Arrow for a clean kill.",
+    "comment": "Can be crafted into a Legendary Cougar Flop Hat"
+  },
+  {
+    "id": "CMPNDM_LEGENDARY_COYOTE",
+    "name": "Legendary Coyote",
+    "isLegendary": true,
+    "description": "The Legendary Coyote is native to The Heartlands, New Hanover. This dark gray coyote can be recognized by its larger than average size. Its diet is primarily carnivorous, consuming meat of rodents as its main food source. The most effective weapons to hunt this animal are considered to be a repeater or a Bow with arrows. Killing this animal will give you the opportunity to craft a rare trinket.",
+    "shortDescription": "Yields a fang that can be used in crafting. Use a repeater for a clean kill.",
+    "comment": "Can be crafted into Legendary Coyote Half Chaps"
+  },
+  {
+    "id": "CMPNDM_LEGENDARY_FOX",
+    "name": "Legendary Fox",
+    "isLegendary": true,
+    "description": "The Legendary Fox is endemic to Scarlett Meadows, Lemoyne. The white fox can easily be recognized by the color of its fur. As an omnivore, its diet consists of small mammals like squirrels and rabbits, as well as birds, fruits, berries, and grasses. The best weapon to hunt this fox is either a repeater or a Bow with arrows. Killing this animal will give you the opportunity to craft a rare trinket.",
+    "shortDescription": "Yields a claw that can be used in crafting. Use a repeater for a clean kill.",
+    "comment": "Can be crafted into Legendary Fox Moccasins"
+  },
+  {
+    "id": "CMPNDM_LEGENDARY_ELK",
+    "name": "Legendary Elk",
+    "isLegendary": true,
+    "description": "The Legendary Elk is endemic to Cumberland Forest, New Hanover. The distinguishable white hair and shaggy mane make this elk different to other elks in the region. Its herbivore diet includes grasses, leaves, bark and plants. Elk are easily startled so it is advised to keep as much distance as possible whilst hunting. Long range weapons like a Bow with Improved Arrows, or a long scope rifle, are considered to be the best for hunting. Killing this animal will give you the opportunity to craft a rare trinket.",
+    "shortDescription": "Yields an antler that can be used in crafting. Use a long scope rifle for a clean kill.",
+    "comment": "Can be crafted into Legendary Elk Moccasins"
+  },
+  {
+    "id": "CMPNDM_LEGENDARY_MOOSE",
+    "name": "Legendary Moose",
+    "isLegendary": true,
+    "description": "The Legendary Moose is endemic to Roanoke Ridge, New Hanover. This moose can be recognized by its larger size and short light gray hair. Its omnivore diet includes shoots from willow and birch trees, aquatic plants and forbs. The best weapon to hunt this animal is considered to be either a Bow with Improved Arrows or a long scope rifle. Killing this animal will give you the opportunity to craft a rare trinket.",
+    "shortDescription": "Yields an antler that can be used in crafting. Use a Bow with an Improved Arrow for a clean kill.",
+    "comment": "Can be crafted into Legendary Moose Moccasins"
+  },
+  {
+    "id": "CMPNDM_LEGENDARY_PANTHER",
+    "name": "Legendary Giaguaro Panther",
+    "isLegendary": true,
+    "description": "The Legendary Giaguaro Panther is endemic to the south of Scarlett Meadows, in Lemoyne. This panther is easily recognized by its short maroon hair with black markings, and the numerous scars on its body. As a carnivore, it preys on deer, goats and wild boars. Long range weapons like a rifle, or a Bow with Poison Arrows, are considered to be best to take down this temperamental animal. Killing this animal will give you the opportunity to craft a rare trinket.",
+    "shortDescription": "Yields an eye that can be used in crafting. Use a Bow with a Poison Arrow for a clean kill.",
+    "comment": "Can be crafted into a Legendary Panther Range Gloves"
+  },
+  {
+    "id": "CMPNDM_LEGENDARY_PRONGHORN",
+    "name": "Legendary Pronghorn",
+    "isLegendary": true,
+    "description": "The Legendary Pronghorn is endemic to Rio Bravo in New Austin. This pronghorn is easily recognized by the short white hair covering its whole body. As a herbivore, its diet includes sagebrush, green shoots, grasses and forbs. The best weapon to use when hunting this animal is either a rifle or Bow with Poison Arrows. Killing this animal will give you the opportunity to craft a rare trinket.",
+    "shortDescription": "Yields a horn that can be used in crafting. Use a Bow with a Poison Arrow for a clean kill.",
+    "comment": "Can be crafted into a Legendary Pronghorn Coat"
+  },
+  {
+    "id": "CMPNDM_LEGENDARY_RAM",
+    "name": "Legendary Big Horn Ram",
+    "isLegendary": true,
+    "description": "The Legendary Big Horn Ram is native to Grizzlies West. This ram can be easily distinguished by its short light gray hair and its larger size. As a herbivore, it grazes on forbs, woody vegetation, and grasses. The ideal weapon to hunt this ram is either a rifle or a Bow with Poison Arrows. Killing this animal will give you the opportunity to craft a rare trinket.",
+    "shortDescription": "Yields a horn that can be used in crafting. Use a Bow with a Poison Arrow for a clean kill.",
+    "comment": "Can be crafted into a Legendary Ram Hat"
+  },
+  {
+    "id": "CMPNDM_LEGENDARY_WOLF",
+    "name": "Legendary Wolf",
+    "isLegendary": true,
+    "description": "The Legendary Wolf is endemic to the Grizzlies. The larger size of this wolf, and the distinguishable brown and black fur, make this animal easily recognizable compared to other wolves in the area. As a carnivore, its diet consists of deer, mountain goats, as well as smaller animals like birds, beavers and fish. A Bow with Poison Arrows, or a rifle, is considered to be the best weapon to hunt this animal with. Killing this animal will give you the opportunity to craft a rare trinket.",
+    "shortDescription": "Yields a heart that can be used in crafting. Use a Bow with a Poison Arrow for a clean kill.",
+    "comment": "Can be crafted into a Legendary Wolf Batwing Chaps"
+  }
+]
